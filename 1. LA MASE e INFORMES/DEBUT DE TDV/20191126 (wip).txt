@@ -1,3 +1,35 @@
+EGISTRO DOCUMENTAL: LA MASA 2.0
+SERIE: DEBUT DE TDV
+FECHA ORIGINAL: 2019-11-26 (d)
+BACKUP: 720p60@2279kbps - 4.3GB (.mp4)
+
+DOCUMENTACIÓN:
+FECHA: 2026-03-24 | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 54m:05s - 29.4%
+FECHA: XXXX-XX-XX | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA)
+FECHA: XXXX-XX-XX | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL)
+FECHA: XXXX-XX-XX | ESTADO: T4 (INTEGRACIÓN / INFORME FINAL)
+
+TIMESTAMPS DE INTERÉS: 
+ - 10:22 (menciona juego que no se entiende ¿"SGEN"?)
+
+NOTAS: Ninguna
+
+LAS NOTAS NO SON PARA PONER TIMESTAMPS!!
+
+PONER MARCA DE TIEMPO DE 5 MIN EN 5 MINUTOS
+
+[00:00]
+[05:00]
+[10:00]
+...
+[01:45:00]
+...
+
+NO BORRAR COSAS, SI NO SE ENTIENDE PONER ININTELIGIBLE, ES UNA TRANSCRIPICON, SI QUIERES ELIMINAR COSAS ESO ES EN T2
+
+////////////////////////////////////////////////////////////////////////////////
+
+[00:00]
 [Música]
 —¿Cómo es tu nombre?
 —Simon Wood, señor.
@@ -34,7 +66,7 @@ En el horario que corresponde.
 Tiempo de videojuego, lo que sí, más que nada.
 Al principio les pregunto si se escucha.
 Asi que algunos de los que esten, bien.
-Escuchando ahí Martín Reto Oficial.
+Escuchando ahí Martín Retro Oficial.
 Pablo, Agustín Moreno, Nahuel Dominguez.
 Emanuel Moreno, Fer Alonso, El Huracán.
 NirmugenGNC. ¿Cómo le va?
@@ -71,7 +103,7 @@ Hablamos un poco de lo que era la primer generación.
 Yo dije que tuve la ColecoVision de la segunda generación.
 El family game de la tercera generación.
 El mega drive y super nintendo de la cuarta, 
-Y el playstation uno y el nintendo 64 de la quinta.
+Y el PlayStation 1 y el Nintendo 64 de la quinta.
 Y con eso cubrimos las dos horas.
 Mientras obviamente, uno tambien va agarrando algunas referencias.
 De las preguntas que van haciendo.
@@ -134,15 +166,15 @@ Con un salto de precisión.
 En el ejemplo máximo Donkey Kong.
 Que lo jugué yo.
 Y ese quizás si sea un juego que esté en el top 5 de cualquiera.
-De las personas que hayan tenido el colecoVision.
+De las personas que hayan tenido el ColecoVision.
 Si uno piensa.
 Hola NxAll, "compartí".
 Compartan todos, que mientras mas seamos mejor.  
 Eso lo puede hacer cada uno de su celular o su computadora.
 Los dos juegos principales entonces de esta generación de coleco.
-Son el Hero y el Moctezuma Revenge.
+Son el Hero y el Moctezuma's Revenge.
 El Hero siendo un juego de investigación con partes de acción.
-Y un juego de Moctezuma Revenge.
+Y un juego de Moctezuma's Revenge.
 Siendo un juego de investigación con partes de plataformas.
 O sea en esa mezcla que ya no se lo podía ateñer a solo un género.
 En esa apertura.
@@ -153,7 +185,7 @@ Terminada la etapa coleco.
 Vamos de vuelta.
 Porque ya vamos a llegar a un punto, todo esto tiene un fin ehh...
 Son cinco juegos.
-Pitufos, Donkey Kong, Comic Avenger, Hero y Moctezuma Revenge.
+Pitufos, Donkey Kong, Cosmic Avenger, H.E.R.O. y Moctezuma's Revenge.
 Cuando paso al Family.
 Cómo se derivan esos gustos.
 En un tipo que ya está un poco más grande.
@@ -184,7 +216,7 @@ Es el Wolverine.
 Algún día explicaré específicamente por qué.
 Pero el Wolverine ahora representa los juegos de lo que yo.
 Que me gusta porque conozco al personaje.
-Sin que quiera decir que esté entre los mejores cinco títulos que yo INCLUSIVE HAYA JUGADO en Family Game.
+Sin que quiera decir que esté entre los mejores cinco títulos que YO INCLUSIVE HAYA JUGADO en Family Game.
 Somos claros con esto.
 Bien.
 La evolución de Cosmic Avenger.
@@ -213,7 +245,7 @@ Quizá uno de los pocos de gran saga.
 El 2 y el 3 no se consiguen en Family Game.
 Es mentira. Los consumimos después.
 Con los emuladores. Muy difícil conseguir el cartucho original.
-De Nintendo en Castlevania 3 Dracula's Curse. Que era mejor que el 1.
+De Nintendo en Castlevania III: Dracula's Curse. Que era mejor que el 1.
 Pero en mi vida va el 1.
 En la evolución de lo que es Donkey Kong.
 Como juego de plataformas.
@@ -239,7 +271,7 @@ En el caso..
 [LEE CHAT] Retrochony!!
 Que grande.
 [LEE CHAT] "Tenía el vecino el 3 y no me lo quería prestar."
-Es muy difícil tener el Castlevania 3 del NES lo habría tenido en Estados Unidos.
+Es muy difícil tener el Castlevania III del NES lo habría tenido en Estados Unidos.
 La cuestión es que los otros juegos que quería mencionar.
 El Mario 3 y el Tiny Toon.
 Que también entra en lo que alguien conoce en la tele.
@@ -251,8 +283,8 @@ Es el Inmortal.
 Por tener determinadas características de juego de rol.
 Porque uno leía el texto.
 Entonces ya me gustaba.
-Eso sería una evolución de lo que era el Moctezuma Revenge.
-Y no hay una evolución de Hero.
+Eso sería una evolución de lo que era el Moctezuma's Revenge.
+Y no hay una evolución de H.E.R.O..
 Porque no conocí ni Metroid ni Zelda en esa época.
 Cosas que cambian para la generación de 16 bit.
 Y es una generación un poco más profesional de mi parte.
@@ -264,19 +296,19 @@ Es lógico. Son dos consolas y hay más juegos, y aprendí más.
 Entonces la verdad es que del Top 5 de los 16 bits.
 A mi juicio la evolución de lo que era Donkey Kong.
 Y luego Mario 3 pasa a ser Sonic 1.
-La evolución de lo que era los Pitufos, o Wolverine pasa a ser el Comic Zone.
+La evolución de lo que era los Pitufos, o Wolverine pasa a ser el Comix Zone.
 Todo esto lo hablé en el programa anterior.
 Mucho más desarrollado.
 Porque quiero llegar al Top 5 de hoy.
 La evolución de los juegos de aventura de investigación.
-Que aparecía por Moctezuma Revenge o Hero o ¿¿SGEN?? (NO SE ENTIENDE QUE JUEGO MENCIONA, MIN 10:22 )
+Que aparecía por Moctezuma's Revenge o H.E.R.O. o ¿¿SGEN?? (NO SE ENTIENDE QUE JUEGO MENCIONA, MIN 10:22 )
 Que podría estar un poco en Castlevania.
-Pero más que estaba, estaba en inmortal.
+Pero más que estaba, estaba en Inmortal.
 Ahora se definía en los otros tres juegos.
 Que son los tres de Super Nintendo.
 Más que nada ahora me identifico con el RPG.
 RPG de combate por el listado.
-En la figura del Seven Saga.
+En la figura del 7th Saga.
 Les dije que insert Final Fantasy o Chrono Trigger aqui.
 Lo habrían reemplazado si yo hubiese podido pagarlos en el año 96, cosa que no podia.
 Y, uno piensa también en juegos como Legend of Zelda: A Link to the Past y Super Metroid.
@@ -311,7 +343,7 @@ O sea, medio pedante, pero escuchenme, sinceramente.
 No creo que haya un Top 5 más representativo.
 De lo que es la primer generación tridimensional de la historia.
 La generación más impactante, sin dudas.
-Era llorar volver a tu casa teniendo un sega si el vecino se habia comprado el Playstation.
+Era llorar volver a tu casa teniendo un sega si el vecino se habia comprado el PlayStation.
 Era deprimente, La diferencia es muy grande.
 Los videos, el CD, los entornos tridimensionales del Nintendo 64.
 Los sticks de palanca que tendían tanto al DualShock como el Nintendo 64.
@@ -325,7 +357,7 @@ Como que diga aca el Aconcagua.
 Y uno dice "uy que bueno, yo no conozco el Monte Fuji, voy a ir con el jueguito"
 Eso que ahora pareciera normal.
 Que si se quema la catedral de Notre Dame.
-Que se dice que utilizan Assassin's Creed Odyssey Origins.
+Que se dice que utilizan Assassin's Creed Odyssey, Origins.
 Corríjame si me equivoco.
 Para hacer la referencia.
 En aquel momento no era normal.
@@ -344,20 +376,20 @@ Porque todo esto va a terminar en programa de puntajes.
 Pero lo vamos a hablar más adelante.
 Para mí los puntajes son muy importantes.
 Y tengo una suerte de metodo cientifico para hayar los puntajes, que yo lo voy a explicar mas adelante.
-Entonces, si uno piensa en Final Fantasy VII como la evolución de esto que me gustaba, que aparecía en Moctezuma's Revenge, en el Coleco, que se continuaba por tener un poco de texto en Inmortal, que se definía como un RPG de combate de por listado terminado, como el caso de Seventh Saga, llegaba acá al punto al pico máximo que era Final Fantasy VII de 3 CDs.
-O sea, el otro cartucho tenía un mega, este tenía 1500 el juego, era una locura el impacto tan grande y es, si no, el mejor RPG del Playstation 1, claramente es el más popular.
+Entonces, si uno piensa en Final Fantasy VII como la evolución de esto que me gustaba, que aparecía en Moctezuma's Revenge, en el Coleco, que se continuaba por tener un poco de texto en Inmortal, que se definía como un RPG de combate de por listado terminado, como el caso de 7th Saga, llegaba acá al punto al pico máximo que era Final Fantasy VII de 3 CDs.
+O sea, el otro cartucho tenía un mega, este tenía 1500 el juego, era una locura el impacto tan grande y es, si no, el mejor RPG del PlayStation 1, claramente es el más popular.
 Después hablaremos si es el 8, si es el 9, si es Chrono Cross, alguno dirá Vagrant Story que es mas action, alguno dirá Wild Arms, está loco, alguno dirá Legend of the Dragoon, yo se lo peleo, pero para mí Final Fantasy VII sin dudas es el más popular.
 Fíjense lo que está por pasar al año que viene con la emoción tan grande que genera a 25 años casi de su salida.
-Entonces, Final Fantasy VII para Playstation 1, es el que reverencia, todo eso ya se confirma no solo mi gusto por los géneros de rol, sino por la saga Final Fantasy.
+Entonces, Final Fantasy VII para PlayStation 1, es el que reverencia, todo eso ya se confirma no solo mi gusto por los géneros de rol, sino por la saga Final Fantasy.
 O sea, tiene nombre este gusto.
-Otro juego que también es importantísimo en cuanto a estas características es el juego de Metal Gear Solid, que viene si se quiere en una evolución de aquello que podría haber sido los pitufos, Wolverine o el propio Comic Zone.
+Otro juego que también es importantísimo en cuanto a estas características es el juego de Metal Gear Solid, que viene si se quiere en una evolución de aquello que podría haber sido los pitufos, Wolverine o el propio Comix Zone.
 Y uno dice por qué, porque aprendí que después de querer jugar si o si con algo que me guste y por eso era el pitufo.
 Después de que capaz haya personajes más conocidos como Superman, Spider-Man o Batman que Wolverine, pero Wolverine es como la referencia de el mejor juego.
-Entonces ya no elijo el personaje, elijo el juego y después aunque haya juegos del Increible Hulk que es mi superhero favorito, no me importaba, el juego ganaba por sí solo el Comic Zone.
+Entonces ya no elijo el personaje, elijo el juego y después aunque haya juegos del Increible Hulk que es mi superhero favorito, no me importaba, el juego ganaba por sí solo el Comix Zone.
 Entonces ya seguimos inclusive a un personaje que pueda surgir en un videojuego y este es el caso del Sr. Solid Snake, que es el líder, el protagonista del Metal Gear Solid.
 Y a partir de ahí podemos tomar que estos juegos, sin contar que al llegar a la tridimensionalidad, como expliqué en el programa anterior, estos eran los juegos que esperábamos que fueran tipo película.
-Mucho más de lo que había mostrado el Sega CD en su momento o el Panasonic 3D0 con con los juegos de FMV, que quiere decir Full Motion Video, que es cuando está toda imagen y bueno, juega nada, eso no, el Metal Gear es el Metal Gear.
-Final Fantasy VII, Metal Gear Solid de Station 1, GoldenEye de Nintendo 64, es una evolución de los juegos de acción, de aquello que había originado con Cosmic Avenger, aquello que continuó también en juegos como en la línea de Comic Zone o está dividido también en partes de Super Metroid en los 16 bits.
+Mucho más de lo que había mostrado el Sega CD en su momento o el Panasonic 3DO con con los juegos de FMV, que quiere decir Full Motion Video, que es cuando está toda imagen y bueno, juega nada, eso no, el Metal Gear es el Metal Gear.
+Final Fantasy VII, Metal Gear Solid de PlayStation 1, GoldenEye de Nintendo 64, es una evolución de los juegos de acción, de aquello que había originado con Cosmic Avenger, aquello que continuó también en juegos como en la línea de Comix Zone o está dividido también en partes de Super Metroid en los 16 bits.
 Claramente acá venía del lado de GoldenEye, que también es esos juegos que esperábamos desde chicos de que cómo serían los videojuegos del futuro y uno pensaba capaz se vean desde los tus ojos para adentro.
 Lo que luego se confirmó con Wolfenstein y con Doom pero en consola antes de GoldenEye es muy forzado tratar de hablar de un juego sin obviamente caso de Turok, pero es de un año antes en la misma consola.
 El Doom y el Zero Tolerance en 16 bits hacían grandes esfuerzos pero todavía no podían plasmar lo que era el género que es quizás el más dominante de todos los que estemos en estos dias.
@@ -373,7 +405,7 @@ Entonces ahora sí podía pagar porque estaba más grande y iba cumpliendo año 
 Ya tenía entre 18 y 23 años esa generación más o menos.
 ¿Se escucha bajo, Mario Sebastian?
 A ver.. pero tampoco quiero aturdir eh...
-[LEE CHAT] Bajale un poco la música y subiendo un toque a la voz.
+[LEE CHAT] Bajale un poco la música y subierle un toque a la voz.
 Ahí lo etiquetaron a Don Saga que está acá haciendo la operación, el gran Federico Albornoz.
 Muchísimas gracias a él por toda su participación y por darme esta oportunidad también para venir a hablar acá todo lo que yo quería JAJAJA.
 Entonces, bueno, en definitiva, cuando uno piensa en estos cinco juegos de generación son realmente los mejores cinco juegos y ya no tiene que ver con mi gusto particular.
@@ -382,12 +414,12 @@ Por eso no solamente se espera el remake de Final Fantasy VII, 20 años después
 Se sigue hablando que Ocarina of Time es el mejor juego de la historia 20 años después.
 No solo es el mejor juego de James Bond, sino el mejor juego basado en una película.
 Hasta estos días también 20 años después... ¿era grosso, ¿no?
-El Golden Eye.
+El GoldenEye.
 Mario 64, si bien fue superado 10 años después durante 10 años y es al día de hoy que no hay cinco juegos mejores de plataformas en 3D que el Mario 64 y pasaron también 20 años.
 En el caso este, del Metal Gear Solid.
 Metal Gear Solid para muchos es el mejor juego de la saga Metal Gear, en mi juicio también.
 Y si no, fíjense todo lo que pasó con Death Stranding.
-[LEE CHAT] Jade Cocoon, el mejor RPG de Sony/Sonic.
+[LEE CHAT] Jade Cocoon, el mejor RPG de Sony.
 Bueno, dijo nunca nadie, puede ser jjj.
 Bueno, el Death Stranding que deviene de lo que significó Kojima en aquel juego.
 Principalmente el Metal Gear Solid 1, que a partir de ahí vimos que podía contarse una historia de otra forma diferente en videojuego.
@@ -430,29 +462,20 @@ Pero todavía no quiero entrar en números para no generar, porque el número pu
 Pero vamos a arrancar en el orden y ahora sí, quizás el quinto puesto de esta generación le corresponde a una saga que repite claramente.
 Y este juego es Metal Gear Solid 3.
 ¡Snake Eater!
-
-
-
-
-
-
-
-
-
-Muy bueno, es un enorme el juego. No sé, acá sí tenemos gente que haya jugado Metal Gear Solid 3.
-Después si entramos en discusión si es o no mejor que el 1, lo que es indiscutible es que lo han vuelto a hacer.
+Muy bueno, es un enorme videojuego. No sé, acá sí tenemos gente que haya jugado Metal Gear Solid 3.
+Después entramos en discusión si es o no mejor que el 1, lo que es indiscutible es que lo han vuelto a hacer.
 Otra vez estábamos hablando de uno de los mejores 5 juegos de una generación que tiene más juegos.
 Porque el PlayStation 2 sacó más juegos que el PlayStation 1, porque tuvo más tiempo de mercado y porque fue más dominante todavía que el PlayStation 1.
-Y el Gamecube, por tener una apertura distinta y trabajar en un sistema un poco más similar, por lo menos eran DVDs también más chiquitos, pero no era una arquitectura tan diferente como planteaba el 64.
+Y el Gamecube, por tener una apertura distinta y trabajar en un sistema un poco más similar, por lo menos eran DVDs también más chiquitos, pero DVD's, no era una arquitectura tan diferente como planteaba el 64.
 La Gamecube tiene también unos 700 juegos cuando el 64 tuvo 200.
 O sea que sumamos Gamecube y PlayStation 2 es muchísima mayor la cantidad de juegos que la PlayStation 1 y 64.
 O sea que entrar en estos top 5 supuestamente sería mucho más difícil.
-Entonces por eso es muchísimo mérito que otra vez se dio a Kojimi.
-Después la gente pregunta por qué salimos corriendo a comprar de test branding.
+Entonces por eso es muchísimo mérito que otra vez Hideo Kojima.
+Y después la gente pregunta por qué salimos corriendo a comprar Death Stranding.
 Van dos generaciones y el tipo mete uno de los 5 mejores juegos.
-O sea si uno asegura 5 juegos buenos por una generación, yo sigo jugando los juegos.
+O sea si uno asegura 5 juegos buenos por una generación, yo sigo jugando los jueguitos.
 Es el justificativo del por qué si uno es un tarado, porque sigue jugando, porque yo a todo esto fui padre, va evolucionando.
-¿Y por qué uno sigue con el entendimiento? Porque los juegos también mejoran.
+¿Y por qué uno sigue...? Porque los juegos también mejoran.
 Yo jugaba a los autitos cuando era chiquito, después uno se engancha más con el autito inclusive.
 Esto puede generar también una discusión.
 El cómic me parece a mí que es para un período de vida de unos 15 años.
@@ -465,37 +488,36 @@ God of War se juega como el family game, pero empieza, termina y se acabó.
 Por lo menos todavía nos queda un bastión del single player para que nosotros, la gente que ya peinamos algunas canas, todavía tengamos motivación para jugar los videojuegos.
 No me quiere mucho la línea.
 El Metal Gear Solid 3 la verdad es que es un juego que merece estar a mi juicio en el top 5 de la generación.
-Y otro juego también de PlayStation 2, que ahora empezamos a hablar de que si en la evolución de géneros algunos fueron desapareciendo y algunos otros se van incorporando, algunos vuelven.
+Y otro juego también de PlayStation 2, que ahora empezamos a hablar de que si en la evolución de géneros, algunos fueron desapareciendo y algunos otros se van incorporando, algunos vuelven.
 Pensemos en la... bueno no voy a entrar, voy a volver siempre para atrás.
-Pero pensemos cuando hablábamos del Comic Zone.
+Pero pensemos cuando hablábamos del Comix Zone.
 Comic Zone que va en la línea de los juegos de lo que yo quería porque eran superhéroes, pero el Comic Zone no es un superhéroe tradicional.
-¿Y por qué le saca el lugar a H.A.L.K.? ¿Por qué es mejor juego?
-Entonces ¿dónde lo marcamos a Comic Zone?
+¿Y por qué le saca el lugar a Hulk ¿Por qué es mejor juego?
+Entonces ¿dónde lo marcamos a Comix Zone?
 Como un juego de acción.
-Si no tintura parece muy larga.
 Entonces la verdad es que Comic Zone, más allá de no tener un personaje definido, es uno de los mejores juegos de esa generación y está.
 Ahora, ¿qué pasa en la generación siguiente con los juegos de acción?
-Porque el Comic Zone se puede tomar como un beat'em up individual.
-Un juego en la línea de las tortugas ninja, pero al no ser multiplayer, se van a tener más de dos jugadores.
+Porque el Comix Zone se puede tomar como un beat'em up individual.
+Un juego en la línea de las tortugas ninja, pero al no ser multiplayer, al no tener más de dos jugadores.
 Tiene elementos de aventura, también alguna palanquita para activar, algún ítem para entender, un desarrollo de historia.
-Comic Zone era lo que hoy podemos conocer como una aventura típica, con algunas características propias de beat'em up.
+Comix Zone era lo que hoy podemos conocer como una aventura típica, con algunas características propias de beat'em up.
 ¿Qué pasó con los beat'em up en la generación posterior?
 Yo creo, sé en realidad, que por una cuestión de polígonos no podías hacer con tipo pegue muy rápido.
-Ustedes analizan Comic Zone en C2 Remake.
-Sí, pero ¿quién lo va a hacer?
-No lo va a hacer SEGA.
+Si ustedes analizan...
+[LEE CHAT] Comic Zone en C2 Remake.
+Sí, pero ¿quién lo va a hacer? Lo va a hacer SEGA?
 La verdad es que los beat'em up en los 32 y 64 bits están muy fuera de moda.
-Yo les digo lo vivigente. En aquel momento, el género que el capo es Double Dragon, Golden Axe por la épica medieval
+Yo les digo lo vivi gente. En aquel momento, el género que el capo es Double Dragon, Golden Axe por la épica medieval
 y que estaba muy en boga en los arcades sobre todo, se llega en la primera mitad de la década del 90 a un tope de lo que eran los beat'em ups.
 Con el juego de X-Men, X-Men son seis para jugar al mismo tiempo.
-Y también hay juegos como Vendetta, como el de Captain America and the Avengers.
-Uno piensa también en Final Fight, que también tienen su contrapartida, como escuchábamos recién la música Street of Rage en SEGA Génesis.
-Mucho beat'em up, mucho. ¿Qué pasó con todo eso?
-Uno piensa que en el Pestige 1.1 tiene el Fantastic Four y tiene el Fighting Force.
-Fighting Force, cuando dejás un personaje solo y te vienen a pelear de alguno porque la máquina no puede agarrarse mucha trompada.
-Uno piensa que se hace un juego como Nightmare Creatures, que vos podés ir pegando, pero no puede.
-O sea, si piensan, los grandes juegos de esa generación, Solid Snake dispara.
-Leon Kennedy o Chris Redfield dispara. Tom Ryder dispara.
+Grandisimos juegos como Vendetta, juegos como el de Captain America and the Avengers.
+Uno piensa también, obviamente en Final Fight, no es cierto? que también tienen su contrapartida, como escuchábamos recién la música Street of Rage en SEGA Génesis.
+Mucho beat'em up, mucho... ¿Qué pasó con todo eso?
+Uno piensa que en el PlayStation 1, tiene el Fantastic Four y tiene el Fighting Force.
+Fighting Force, manejas un personaje solo y te vienen a pelear de a uno porque la máquina no puede agarrarse mucho trompadas.
+Uno piensa quiza en un juego como Nightmare Creatures, que vos podés ir pegando, pero no puede.
+O sea, si piensan en los grandes juegos de esa generación, Solid Snake dispara.
+Leon Kennedy o Chris Redfield dispara. Tomb Raider dispara.
 Por eso es que Ocarina es Ocarina, porque Ocarina es también el mejor juego de acción de esa generación, el que más se pega.
 Porque no es una generación donde se pega mucho. Entonces, porque la máquina no podía.
 En el año 2001 aparece un juego que supuestamente iba a ser una evolución de un Resident Evil.
@@ -503,30 +525,30 @@ Estaban tratando de hacer un Resident Evil y este juego se transforma en la nuev
 Porque claro, un PlayStation 1 que mueve 350 mil polígonos, el PlayStation 2 mueve creo que 8 millones.
 Entonces, ahora sí, podías armar un entorno y un personaje que agarre velocidad y que puedan aparecer varios más personajes para pegarle.
 Este juego es Devil May Cry. Devil May Cry, que es una trilogía y que tiene también...
-Mira, Decar, mira con lo taco ahí, está atento, Decar.
 Una trilogía que llega hasta el año 2006 y cubre toda la era de los 128 bit.
-Y obviamente genera referencia. Entonces, al poco tiempo tenemos un juego en PlayStation 2 que se llama Rhygar.
-El Rhygar del PlayStation 2 viene de un juego del arcade, donde un tipo pegaba con un escudito con pinches.
+Y obviamente genera referencia. Entonces, al poco tiempo tenemos un juego en PlayStation 2 que se llama Rygar.
+El Rygar del PlayStation 2 viene de un juego del arcade, donde un tipo pegaba con un escudito con pinchos.
 También hay una versión un poco más pobre en Family Game.
-Y la verdad es que estaba bien el Rhygar y con una línea de mitología griega, pero no era tan impactante.
-En la línea de lo que fue Devil May Cry empezaban a hacer otros juegos.
+Y la verdad es que estaba bien el Rygar y con una línea en mitología griega, pero no era tan impactante.
+En la línea de lo que fue Devil May Cry empezaban a salir otros juegos.
 Con esto hice todo el preámbulo para darle lugar al que volvió a traer este género.
 Que no es un beat'em up puro y cerrado, pero ¿cómo lo vamos a poner al God of War?
 God of War 2 hack and slash, le dicen sí, es beat'em up, pero porque se pegan con espadas.
 Es prácticamente lo mismo. Usted me sigue. Los que jugamos la jugabilidad es muy similar.
-Obviamente que God of War incorpora plataformas, elementos de aventura, el canto gregoriano de fondo.
-Para hablar de uno de los mejores cinco juegos de la PlayStation 2.
-Incluímoslo a la Gamecube también.
+Obviamente que God of War incorpora plataformas, elementos de aventura, incorpora una historia y el canto gregoriano de fondo.
+Para hablar de uno de los mejores cinco juegos de la PlayStation 2, de toda la generacion.
+No de la PlayStation 2, inclui la Gamecube también.
 Y el indiscutido más grande personaje...
-Hekido, sí, tenés razón. No me acordaba de Hekido.
-El más grande personaje que se incorpora en esta generación.
+[LEE CHAT] Hekido, sí, tenés razón. No me acordaba de Hekido.
+...el más grande personaje que se incorpora en esta generación.
 O sea, Kratos es el personaje número uno, como fue en la anterior, quizás Lara Croft.
-Que se incorpora a que no existía y ahora recontra existe.
+Que se incorpora que no existía y ahora recontra existe.
 A partir de solo dos juegos que reventaron todo en un PlayStation 2 que se decía que no tiraba gráficos.
-Y sacó eso. God of War 2 es quizás el tope gráfico de todos los 128 beats.
+Y sacó eso. God of War 2 es quizás el tope gráfico de todos los 128 bits.
 Es una cosa muy seria, un juego que te permite ir a matar a Zeus, una locura.
-Entonces, sinceramente, para mí, el 2 es de BD9, claro.
-Merece estar en este lugar.
+Entonces, sinceramente, para mí, merece...
+[LEE CHAT] El 2 es de [ININTELIGIBLE], claro.
+...merece estar en este lugar.
 El juego que está tercero, es el que está en ambas consolas.
 Y lo mencionaron por ahí, no voy a ir muchas vueltas.
 Si es el Resident Evil 4.
@@ -537,21 +559,19 @@ O sea, ícono de generación.
 ¿Por qué el ícono de la generación quizás haya sido Donkey Kong?
 Porque después el personaje de Donkey Kong está en Mario Bros.
 Pero Mario Bros. ahora le da nombre al personaje en sí.
-Y genera todo un abanico de sagas que se van a quedar para toda la historia.
+Y genera todo un abanico de sagas que se van iban a quedar para toda la historia.
 Mega Man, Castlevania, Legend of Zelda, Metroid, Final Fantasy.
 Pero ¿por qué Mario es más grande?
 ¿Cómo podemos definir qué Mario es más grande?
 Porque cuando vos lográs saltar la valla de los videojuegos, que somos nosotros solos.
-Ahí está el reto, Johnny Paget.
-Se me va a saltar la cabeza.
 Saltando esa base es pasar al mainstream que es hacer la película.
-Si vos tenés una generación, la película de Mario, malo no estamos hablando de eso.
+Si vos tenés una generación, la película de Mario, malo? no estamos hablando de eso.
 La película llegó al cine y tenía actores caros.
-Tabachón y Leguizamo que algunos reconocerán como Benny Blanco from the Bronx en Carlitos Way.
-I'm Benny Blanco from the Bronx.
-Y Bob Hoskins, creo que era Mario Bros. que había trabajado en quien engañó Roger Rabbit.
+Estaba Jogn Leguizamo que algunos reconocerán como Benny Blanco from the Bronx en Carlito's Way.
+"I'm Benny Blanco from the Bronx."
+Y Bob Hoskins, creo que era Mario Bros. que había trabajado en "Quien Engañó Roger Rabbit".
 Una película que tres años antes había ganado varios Óscares.
-De la generación del Family surge la película de Mario Bros.
+Entonces, de la generación del Family surge la película de Mario Bros.
 De la generación de los 16-bit, las películas que surgen, también con actores reconocidos, son Street Fighter y Mortal Kombat.
 Por eso los juegos icónicos de la generación 16-bit son los juegos de pelea mano a mano.
 Tenemos ahí Mortal Kombat y Street Fighter con Van Damme, Christopher Lambert haciendo The Raiden.
@@ -559,16 +579,16 @@ De la generación siguiente, ¿qué juegos llegaron a película?
 Tomb Raider y Resident Evil.
 Claramente Resident Evil es uno de los íconos de la generación.
 ¿Por qué no está en el Top 5?
-Porque para mí, en la línea del andar y ver que le corresponde, el final es Metal Gear Solid y pierde ahí.
-Entonces pierde los TRC9 y Contra Metal Gear Solid.
+Porque para mí, en la línea del [ININTELIGIBLE] que le corresponde, el final es Metal Gear Solid y pierde ahí.
+Entonces pierde los tres Resident Evil y Contra Metal Gear Solid.
 Entonces es por eso que no ocupa ese lugar.
 Pero ¿qué pasó en esta renovación que significa el Resident Evil 4?
 ¿Y por qué se mete tan arriba en el Top 5, dejando a juegos de supuestamente mayor calidad como en su momento se hablaba de Silent Hill?
 Es por lo que representa en el cambio de perspectiva tan importante que ahora sí, por ser grande, modifica la generación posterior.
-Heroes of War y Uncharted beben mucho de Resident Evil 4.
+Gears of War y Uncharted beben mucho de Resident Evil 4.
 Y Resident Evil 4 en sí lo que hace es hacer algo que no se podía hacer con los gráficos de la máquina anterior.
-O sea, a la God of War, que God of War es imposible de realizar bien en un Playstation 1.
-El Resident Evil 4, más allá de que uno me va a decir que está el Syphon Filter, todavía conserva la cámara al medio.
+O sea, a la God of War, que God of War era imposible de realizar bien en un Playstation 1.
+El Resident Evil 4, más allá de que uno me va a decir que está el Syphon Filter, si, todavía conserva la cámara al medio.
 Como conserva Tomb Raider.
 Alguien dijo después, ¿para qué tenés el tipo al medio si vos vas a disparar?
 Entonces el tipo te está tapando la mira.
@@ -579,85 +599,74 @@ Si vos querés que dispare.
 Hacés que el torso más grande se vea hasta la cintura y de costado.
 Ese pequeño detalle ahora viene en todos los juegos así.
 O sea, cuando sale un juego que marca cómo se va a jugar ahora, si lo dijimos de Mario 64 lo decimos de Resident Evil 4.
-Entonces Resident Evil 4 está, en mi juicio, la versión de GameCube superior.
+Entonces Resident Evil 4 está en el Top 5, en mi juicio la versión de GameCube superior.
 Pero eso no elimina la versión de Playstation 2 que tiene agregados por tener más memoria al disco.
 Son dos discos en el Resident Evil 4 de 1.3 GB, aproximadamente 3 GB.
-En el DVD común de Playstation 2 tiene 4.5 GB.
-Y en el DVD con ese gígado y medio, le pusieron multidioma, que se agradece acá en Sudamérica.
-Y le pusieron también algunas misiones estas de mercenarios.
+En el DVD común de Playstation 2 tiene 4.5 GB. Con ese giga y medio, le pusieron multidioma, que se agradece acá en Sudamérica.
+Y le pusieron también algunas misiones extras de mercenarios.
 Entonces perfecto.
 Bien, Resident Evil 4 a mí me parece que cuando lo discuten...
 Ahora no quiero hablar.
 Después vamos a hablar por qué la gente discute Resident Evil 4 porque si no hablo toda la noche eso.
-Ya está. Resident Evil 4, Sony y los O2, otra vez repiten.
+Ya está. Resident Evil 4, Sony y los otros dos, otra vez repiten.
 Zelda, Twilight Princess y el primer juego es el Metroid Prime.
-El Zelda y Twilight Princess es por tercera generación.
+El Zelda y Twilight Princess es por tercer generación.
 Y uno dice, bueno, es algo propio mío, o sea, lo estoy haciendo yo a propósito.
 En realidad no.
-Zelda, Twilight Princess, que tampoco quiero hacer una animación muy específico.
+Zelda, Twilight Princess, que tampoco quiero hacer una analisis muy específico.
 Vuelve a ser uno de los mejores juegos de la generación.
-Por lo que propone en una generación donde ahora son todos Action RPG.
-Porque a mi juicio, el sandbox, el free roaming, o el mundo abierto, como el open world, como se dice ahora.
-Maman del Action RPG?
+Por lo que propone en una generación donde ahora son todos action-RPG.
+Porque a mi juicio, el sandbox, el free-roaming, o el mundo abierto, como el open world, como se dice ahora, maman del action-RPG?
 Ya lo vamos a hablar también específicamente.
 Pero en el fondo se juega como se jugaban a los viejos Action RPG de 16 bits.
-Illusion of Time, Land Stalker, Light Crusader, el propio Legend of Zelda.
+Illusion of Time, Landstalker, Light Crusader, el propio Legend of Zelda.
 Que es un Action RPG. Otro día hablamos de eso también.
-Entonces, hay quien discute que Resident Evil 4 es muy más juego.
-¿Eso lo está diciendo Eracan? No sé.
-Bueno, no importa.
-No, no, no. Tienen que preguntar bien, Eracan.
 Entonces, el Zelda, Twilight Princess está por debajo de Ocarina of Time.
 Y ahí está el punto.
-Uno tenía una expectativa que no se cumplió ahora, fuera de eso.
-¿Es juego bueno? No, no es bueno. Es el segundo mejor juego de toda la generación.
-Está al nivel del Resident Evil 4.
-Está por arriba de World of War 2 y de Metal Gear Solid 3.
+Uno tenía una expectativa que no se cumplió, ahora, fuera de eso. ¿El juego es bueno? No, no es bueno. Es el segundo mejor juego de toda la generación.
+Está al nivel del Resident Evil 4, está por arriba de God of War 2 y de Metal Gear Solid 3.
 El mejor juego de la generación es Metroid Prime.
 A mi juicio esto tiene que ver con que, si uno pensaba que no hubo un Metroid en la era del 64.
 Y ese lugar de alguna manera lo ocupaba GoldenEye en cuanto a la acción y juego de extrema calidad exclusivo de Nintendo.
 Y uno dice, ¿qué relación está ahí entre James Bond y Samus Aran? Ninguna.
 Pero yo en algún momento imaginé la posibilidad de una mezcla de estos juegos.
-Yo se los digo en serio, ¿para qué le va a mentir? ¿Estamos acá? No tengo, porque no soy de mentir con los datos que quiero.
-Yo imaginé que podría pasar que Metroid pudiese transformarse en...
-No es que exactamente fuera la primera persona, pero si fuera mezclado Metroid y GoldenEye.
-Se vería el shooter del beam de Samus a través de la primera persona.
-No vería la cara, pero está bien. Y cuando me entero que lo van a hacer así.
+Yo se los digo en serio, ¿para qué le va a mentir? ¿Estamos acá? No tengo, porque mentir, no soy de mentir con los datos que tiro.
+Yo imaginé que podría pasar que Metroid pudiese transformarse en... osea, no es que exactamente fuera la primera persona, pero si fuera mezclado Metroid y GoldenEye.
+Se vería el shooter de beam de Samus a través de la primera persona.
+No veia la cara, pero está bien. Y cuando me entero que lo van a hacer así.
 Obvio que al principio me dio un poquito de miedo.
 Cuando después entendí lo que era, estamos hablando del mejor juego de la generación por muchas características.
 Pero la principal es porque es el primero de una saga de estas tradicionales de Nintendo.
 Metroid Prime es el equivalente a Mario 64 y a Zelda Ocarina of Time.
 Esta gente cuida mucho sus sagas y no la van a regalar.
 Cuando se dice que Metroid Prime iba a ser desarrollado en Estados Unidos.
-Pecado. En Estados Unidos por un grupo nuevo, un tal Retro Studios.
+Pecado. En Estados Unidos por un grupo nuevo, un tal Retro Studios, si?.
 Yo con mis 22 años todavía tenía alguna duda. Hoy la tengo 40.
 Entonces yo ya no dudo más de esta gente.
 Y sé que lo hicieron porque tenían una computadora muy potente.
 Se dice que Metroid Prime, creo que el 2 está hecho con Unreal Engine.
 No quiero guardear, pero Unreal Engine 2 o 3.
+NOTA CORRECION: El motor correcto es RUDE Engine, un motor desarrolldado exlusivo para la GameCube por Retro Studios y que optimizaba muy bien los recuross de las consolas
 Es una brutalidad lo que tiene Metroid Prime que está en muchos aspectos a 60 frames por segundo.
 O 30 sostenidos.
 Yo cuando lo compré tenía compañeros que tenían poderosas computadoras con Unreal.
 Y se hablaba del inicio de determinadas sagas.
-Para mí Metroid Prime no le ganaba a nadie nada.
+Para mí Metroid Prime no le ganaba nadie en nada.
 Y esto también lo puedo explicar, pero me voy a comer todo el programa.
 Entonces lo dejamos para cuando hable de Metroid.
-Si me hubiese gustado Metroid Prime en 2D, no sería Metroid Prime.
+[LEE CHAT] Si me hubiese gustado Metroid Prime en 2D??
+no sería Metroid Prime.
 Sería Metroid en 2D.
 Existe el Samus Returns en la 3DS que tiene 128 bits como tiene el Prime.
 Y está en 2D.
-Y dice Milos Eloti.
-Lástima que contó que tiene Metroid era muy difícil apuntar.
-Es que no hay que apuntar.
-Es un robot. La minita no apunta.
+[LEE CHAT] Dice Emilio Zeloti -> Lástima que el control que tiene Metroid era muy difícil apuntar.
+Es que no hay que apuntar Emilio Zeloti. Es un robot. La minita no apunta.
 O sea, vos lo marcas y dispara. Por eso no es un shooter.
 Shooter que marque y dispara que tiene lock on, no es shooter.
 Es una aventura en primera persona.
-Hay que marcar.
-O sea, sí.
-Es difícil apuntar.
-Hasta que te acostumbras.
-Y después encima se le para la UI que se terminó de mejorar.
+Hay que marcar. O sea, sí.
+Es difícil apuntar. Hasta que te acostumbras.
+Y después encima se le para la Wii que se terminó de mejorar.
 Bueno, entonces.
 El caso de Metroid Prime.
 Hasta acá, más o menos.
@@ -666,74 +675,55 @@ Así tomo un poco de aire.
 ¿Creen que falta alguno de esos juegos?
 Lo pueden hacer.
 Porque yo estoy seguro que es difícil.
-Que no estoy tan...
-¿Sabes qué? Exemplados de una empresa formó reto de estudio y su experiencia en FPS.
-Nintendo siempre la ha acabado con su formato de juego.
-Bueno, no sé.
-Black era hermoso y debía que apuntar.
+Que no estoy tan, tan...
+[LEE CHAT] ¿Sabes qué ex-emplados de una empresa formó Retro Studios y su experiencia en FPS? NOTA: CREO QUE FUERON LOS DE IGUANA ENTERTAINMEN VENIAN DE HACER TUROK, UN FPS DE LA 64
+[LEE CHAT] Nintendo siempre la cago con su formato de juego.
+[LEE CHAT] Black era hermoso y habia que apuntar.
 Pero Black apunta mejor porque tiene un puntito blanco.
 Black tiene un puntito blanco y ese puntito sé que te marca donde disparas.
 La verdad es que...
-Ah, dejó una pregunta para aportar.
-Ah, está bien.
-¿Metroid Prime la joya de Gamecube después de los Zelda?
+[LEE CHAT] Metroid Prime la joya de Gamecube después de los Zelda
 No, para mí está por arriba de los Zelda.
 De hecho, por arriba de los dos Zelda.
-The Wing Waker, The Toilet Princess.
-Y el Zelda, el Zelda.
-Y el Zelda, el Zelda.
-Y el Zelda, el Zelda.
-Y el Zelda, el Zelda.
-Y el Zelda, el Zelda.
-Y el Zelda, el Zelda.
-Y el Zelda, el Zelda.
-La Zelda, The Wing Waker, The Toilet Princess.
-Y lo puedo fundamentar pero no me quiero ir toda la noche a hablar solamente de esto.
-Sí.
+The Wind Waker y The Twilight Princess.
+Y lo puedo fundamentar pero no me quiero ir toda la noche a hablar solamente de esto, Sí?
 Porque quería pasar a la generación siguiente.
 Así terminamos de hablar de mi Top 5 y nos podemos hablar de sagas.
 Y nos podemos hablar de los puntajes que es lo que a mí me gusta hacer.
 Y aparte obviamente que me puedo ir también nutriendo de lo que ustedes...
-En Metroid de hoy dicen que está desmejorado.
-¿Comprimieron cosas en el Metroid de los juegos en un DVD?
-No Sergio, el DVD es doble.
-No comprimieron nada.
+[LEE CHAT] El Metroid de Wii dicen que está desmejorado, comprimieron cosas al meter tres juegos en un DVD.
+No Sergio, el DVD es doble, no comprimieron nada.
 De hecho, el Metroid Prime 1 tuvo que ser retocado.
-Porque para el año 2009 creo que se le prime trilogy.
+Porque para el año 2009 creo que salió el Prime Trilogy.
 Seguramente no estaba tan preparado como para estar en televisores con widescreen.
 Porque ellos sabían que en 2002 todo el mundo tenía todavía los tubos.
-Entonces se adaptó mejor a widescreen y tiene algunas mejoras en efectos de luz.
+Entonces se adaptó mejor al widescreen y tiene algunas mejoras en efectos de luz.
 Cosa que Metroid Prime 2...
-Hasta el game.
-Lástima que...
-Es como decir que yo estoy sin repartidor de rap entonces.
-Eh...
-Eh...
-El...
+[LEE CHAT ALGO QUE NO SE SABE LO QUE LEE]
+Es como decir que el otro es el repartidor de rappi entonces.
 Ay me hiciste perder la palabra.
-Estaba diciendo que el Metroid Prime...
+Estaba diciendo lo del Metroid Prime...
 ¿Qué era que estaba diciendo?
+[LEE CHAT ALGO SOBRE HALO] 
 Halo? Bueno, pero Halo es más shooter.
 Ah, quería aportarme un dato.
-Ta ta ta. Lo sé.
-Que Rotechon y yo confiamos en todos sus datos.
+Ta ta ta. Yo en Retrochony confio en todos sus datos.
 El Zelda Wind Waker que se quejaba en el juego es una belleza.
 El Zelda...
 Sí, el Zelda Wind Waker tengo que hablar todo el programa.
-O sea, si lo hago y lo digo dojilada...
+O sea, si lo hago y lo digo dos gilada...
 Ta, digo dojilada.
 Tiene muchos efectos.
 Dos discos comprimidos... No.
 El Dual Layer. Ahí está.
-El Dual Layer. El de Metroid Prime Trilogy.
-De...
+Es Dual Layer. El de Metroid Prime Trilogy.
 Entonces tiene el Prime 3 común entero y tiene los otros dos.
-Y el uno encima se mejoró y se adaptaron los Jetty.
+Y el uno encima se mejoró y se adaptaron los joysticks
 Para mí igual...
-De guapo se juega con el Jetty común.
+De guapo se juega con el joystick común.
 Este, así que...
 Eh...
-Metroid Prime Wadescreen en Wii.
+Metroid Prime Widescreen en Wii.
 Señor, sí.
 En Wii.
 Entonces...
@@ -744,7 +734,7 @@ Yo no sé si son exactamente cinco juegos.
 Creo que es imposible dejar afuera algunos de estos juegos.
 Uno de los juegos que es el ícono.
 Estábamos usando los íconos.
-El ícono de la Play Uno y el Resident Evil y Tomb Raider.
+El ícono de la Play 1 y el Resident Evil y Tomb Raider.
 El ícono de...
 Ah, eran empleados de One Up, la desarrolladora del Turok.
 El Turok para 64 es espectacular y salta.
@@ -769,15 +759,15 @@ Dispara bien?
 No.
 Pelea bien?
 Y la verdad que no.
-Tiene la mejor historia y el historial de videojuegos?
+Tiene la mejor historia y de la historia de los videojuegos?
 No.
 La música?
 Y se la vas poniendo vos.
 Igual después se le va cambiando la música a vos.
 Ahora hace todo junto.
 Y representa la vida.
-O sea, de alguna manera es una evolución a Genmue.
-Una evolución enseguida a Genmue.
+O sea, de alguna manera es una evolución a Shenmue.
+Una evolución enseguida a Shenmue.
 Y se toma como la referencia ícono de todita la generación.
 Y Rockstar ha cuidado sus sagas a partir de ahí.
 Y empezaron a tardar más años.
@@ -792,7 +782,7 @@ Pero el San Andreas al 4 se toman 4 años.
 Y salió un gran juego con el 4.
 Y otros 5 años para el GTA V.
 Que es uno de los mejores juegos de la siguiente generación.
-Y van ya casi 5 años de la salida del 5.
+Y van ya casi 5 años de la salida del 5. [O BIEN ESTE STREAM ES DE ANTES DE 2019, O EMILIO SACO MAL LA CUENTA, SACO MAL LA CUENTA, PORQUE COMICONES CAYO SABADO 14, EN EL 2018 ERA VIERNES]
 Y ni se menciona el 6.
 Yo creo que el 6 va a salir en el año 2021.
 En PlayStation 4 y PlayStation 5.
@@ -801,11 +791,11 @@ Es un dato que tengo desde el año 2014.
 Que saque esa cuenta.
 Bien.
 Entonces.
-Emilio, estaría un día que puedas hablar de Zelda Wii U y Crisografico.
+[LEE CHAT] Emilio, estaría un día que puedas hablar de Zelda Wind Waker y sus graficos.
 Si, ya vamos a llegar.
 Ya vamos a llegar.
 Entonces.
-Mataron a Driver.
+[LEE CHAT] Mataron a Driver.
 Si, lo destrozaron.
 A Driver.
 El GTA lo mato.
@@ -817,24 +807,23 @@ Valora más a los juegos de Fumito Ueda.
 Fumito Ueda es un fanático de Zelda en sí.
 Y lo que hace es llevar determinadas ideas.
 Do you have any money?
-No.
-I can't give you.
+I can give you.
 Headhunter es muy bueno también.
-En el caso de Shadow of Colossus y de Helico.
-Helico toma una referencia y la lleva al extremo.
+En el caso de Shadow of Colossus y del ICO.
+EL ICO toma una referencia y la lleva al extremo.
 Es un enorme castijo del Zelda.
 Casi sin combate, casi sin historia.
 Es muy lindo, es artístico.
 Te hace pensar.
 Y se mete en otros temas casi más filosóficos como es la soledad.
-Es espectacular.
-Y el GTA es David contra Goliath.
+Es espectacular el ICO.
+Y el Shadow of Colossus es David contra Goliath.
 Esto es una fábula bíblica señores.
 O sea, el pequeño contra el gigante.
 En su máxima expresión a nivel videojuego.
 Indiscutido.
 Pero no hay más nada que hacer.
-Acá estamos mirando muy fino.
+Acá estamos hilando muy fino.
 Estamos diciendo los cinco mejores.
 Capaz Colossus entra a los diez.
 Seguro entra a los quince.
@@ -845,27 +834,25 @@ Si no hablo toda la noche.
 Entonces, ahí en la comparativa.
 Un juego de unas 15-20 horas.
 Doce en algunos casos.
-Toilet Prince dura 86.
-¿Usted es muy rápido?
-65.
+Twilight Princess dura 86.
+¿Usted es muy rápido? 65.
 Entonces, no hay comparación.
 A ese nivel.
-Y a veces pareciera un medio pedante.
+Y a veces pareciera medio pedante.
 Pero muchas veces la gente que lo discute es la gente que no jugó.
-Si usted pone a una persona que jugó Colossus y se dice Toilet Prince.
-El otro dice que no, que Colossus porque no era acá.
-Nintendo son todos putos.
+Si usted pone a una persona que jugó Colossus y se dice Twilight Princess.
+El otro dice que no, que Colossus porque no se acá. Nintendo son todos putos.
 La verdad es esa.
 Ahora, si el juego es grande.
 Grandísimo.
 Y hizo esperar diez años por su continuación.
 Demasiado.
-Ahora hablamos de las guardias si quieren.
+Ahora hablamos del Last Guardian si quieren.
 Demasiado.
 Que el juego es bueno.
 No son buenos.
-Es espectacular.
-Que ningún otro juego te permita hacer.
+Son es espectacular.
+[LEE CHAT] ...que ningún otro juego te permita hacer.
 No, no, no.
 Por eso, en el caso de Colossus es espectacular.
 Lo que ocurre es que por momentos se pone denso.
@@ -875,27 +862,19 @@ Pero después llega el momento del videojuego.
 Y se hace una suerte de repetitivo.
 De todas formas, estamos hablando de vueltas de los mejores juegos de la generación.
 No me voy a poner a hablar mal de Colossus.
-Estoy diciendo que no entra en este Top Fight tan salado.
+Estoy diciendo que no entra en este Top 5 tan salado.
 Que es muy difícil entrar.
 Vamos entonces.
-Era el menemista.
-Dice Matías Barreo.
-Nuevo que te sacas.
+[LEE CHAT] Era menemista.
+Dice Matías Barrionuevo.
 Si escriben una palabra mala, el mensaje se borra solo.
-Les aviso porque capaz que te sea algo inteligente.
+Les aviso porque capaz que quieren decir algo inteligente.
 Pero por poner puto...
-Emilio vos vas a hablar de las cosas.
-O podría más divertido más corto.
-Por ejemplo, Undertaker son menos ocho horas.
-Pero es muy divertido.
-Hay que hablar específico también de lo que significan las obras.
+[LEE CHAR] [ININTELIGIBLE] ... Undertale que son menos ocho horas pero es muy divertido.
+Hay que hablar específico también de lo que significan las horas.
 Metal Gear Solid 1 dura poco y está ahí arriba.
-Yo disfruté un montón de Waker.
-Dicen Twilight Princess Hermosus.
-Lo disfruté.
-Esa es la magia.
-Super Smash Bros. Mini.
-No me gusta.
+[LEE CHAT] Yo disfruté un montón de Wind Waker, Twilight Princess Hermoso. Super Smash Bros. Melee no me gusta.
+Yo dije que no me gustaba?
 Es un enorme videojuego.
 Pero estamos hablando de un juego de pelea.
 Cuando dejé afuera Tekken 3 de la generación anterior.
@@ -907,64 +886,58 @@ Que no tenía que ver.
 Sobre lo que era tratar de representar el tenis.
 Fue la primer idea.
 Entonces yo que no entiendo cómo se hace un videojuego.
-O soy indignorante como la gran mayoría de ustedes.
+O soy un ignorante como la gran mayoría de ustedes.
 Porque es otra vida.
 Si estaba en esa oficina cuando alguien se le ocurre hacer el pong.
 A mí se me hubiese ocurrido hacer un juego de fútbol.
-Y yo decía, dices, ¿hagamos uno de tenis?
-Hagamos uno de fútbol.
+Y yo decía, ¿hicimos uno de tenis? Hagamos uno de fútbol.
 No lo iba a saber hacer.
 Pero entonces la idea del FIFA no es una cosa de loco.
 La idea de hacer un juego de auto no es una cosa de loco.
 La idea de hacer un juego de pelea sí.
-Bueno, el River City Rampson.
+Bueno, el River City Ranpsom.
 El Gear Kung Fu llamaba a la atención.
-Después es un género que se ha inventado.
+Después es un género que esta inventado.
 Tecant 3 es quizá el pico de los juegos poligonales de pelea.
 No soy experto.
-Y está en un puntaje altísimo.
+Pero, está en un puntaje altísimo.
 Pero la realidad es que no lo pongo yo en el Top 5.
 Me parece a mí que el género de aventura, el RPG.
-Son géneros que merecen el auto.
-Inclusivo las plataformas de auto desarrollo.
-Emilio, ¿no crees los juegos de las consolas portátiles para un película o para otro programa?
-Todavía hablamos mucho.
-Chacho, ¿quieren ver el meta portátiles también?
-No, no, no.
-No hay tanto de portátiles como cosas igual.
-Sé todo porque yo también tengo emuladores y fui conociendo esa época.
+Son géneros que merecen otro traro.
+Inclusivo las plataformas en 3D, otro desarrollo...
+[LEE CHAT] Emilio, ¿no incluyes los juegos de las consolas portátiles [ININTELIGIBLE] o para otro programa?
+Otro dia hablamos hablamos muchachos...
+¿quieren que meta meta portátiles también?
+Y no se tanto de portátiles...
+Igual sé todo porque yo también tengo emuladores y fui conociendo esa época.
 Pero la verdad es que no.
-No pa moda poco.
+Vamos de a poco.
 Vamos con las consolas que he tenido.
-Estamos entrando entonces.
-El reciclaje de FIFAs son casi iguales porque se basan en deporte e intentan ser realistas.
+Estamos entrando entonces....
+[LEE CHAT] El reciclaje de FIFAs son casi iguales porque se basan en deporte e intentan ser realistas.
 Sí, pero tiene que salir el FIFA.
-Muchísimas gracias.
+[LE TRAEN UNAS EMPANADAS] Muchísimas gracias.
 El FIFA tiene que salir.
 Qué bueno esto.
 Todo esto es espectacular.
-¿Qué juego le vuelve a la alcaldesa a tu hija?
-Estamos jugando Toilet and Princess con mi hija ahora en HD.
-Para mí ningún juego es un 10.
-Como mucho nuevo, 950.
-¿Qué opinas de los Picos?
-Yo pensaba lo mismo.
+¿Qué juego le volá la cabeza a tu hija?
+Estamos jugando Twilight Princess con mi hija ahora en HD.
+[LEE CHAT] Para mí ningún juego es un 10, como mucho 9 o 9.50, el resto para llegar a 10 es inherente a la subjetividad de cada uno, ¿Qué opinas?
+No Pepe Boto yo pensaba lo mismo.
 Pero no.
-El locadín es 100.
-Si no es mucho, es 99.
+El Ocarina es 100. o sino es 99.
 Exacto.
-El tema de los Picos son los géneros.
-El género que llega a un pico y se quedan por años en esa cima.
+[LEE CHAT] El tema de los Picos son los géneros. Hay género que llega a un pico y se quedan por años en esa cima.
 Perfecto.
-Hablamos de consolas y ahora que jugaron todos.
-¿Querés que los géneros mueren, se expanden o reinventan?
+[LEE CHAT] ¿Querés que los géneros mueren, se expanden o reinventan?
+Si.
 No me hagan tantas preguntas juntas porque si no, pa donde voy.
 Quería hablar y ahora sí terminamos con los top 5.
 Ya no sé cuánto vamos llevando.
 Casi una hora, gente.
 No, son 50 minutos.
 No puede ser esto.
-¿Te molestas si yo voy comiendo y hablo?
+¿Ustedes les molestas si yo voy comiendo y hablo?
 No, no.
 No, no.
 Me quedo de quedar famélico y muero acá.
@@ -975,40 +948,28 @@ Mientras tanto, a ver si alguno de ustedes hace una pregunta y yo voy tratando d
 Si ya vamos directamente con el top 5 de la séptima generación, aviso que la octava generación del top 5 no está definido porque la octava generación no terminó.
 Bien.
 Gracias, gracias.
-Comería, verdad.
-¿Así no se me ve la cara?
-No, no.
-Igual yo voy comiendo y hablando.
-Lo que pasa es que no quiero que le suene feo a la gente.
 Capaz que alguno con los auriculares se va a escuchar todos mis mordiscos.
-Entonces, ¿de qué son las empanadas?
+[LEE CHAT]  Entonces, ¿de qué son las empanadas?
 Esta que estoy comiendo es de carne.
-Pausa empanada.
-¿Te des un goti de este año y un milos ya definido?
-A mí me parece que gana el test trending.
-Me parece que lo gana como el test trending.
-Saga tapado de los botes a Emilio.
+¿Te des un GOTY de este año y un milos ya definido?
+A mí me parece que gana el Death Stranding.
+Me parece que lo gana como el Death Stranding.
 ASMR.
-Así Emilio come tranquilo.
 Claro, es una ASMR.
-Muy bien.
-¿Cómo ha ido la generación?
-Cuando empieza uno y termina la otra.
-Las consolas.
+[LEE CHAT] ¿Cómo ha ido la generación?
+Cuando empieza uno y termina la otra. Las consolas.
 Hay máquinas intergeneracionales, pero más o menos la que sea la máquina dominante.
 O sea, lo que ha hecho.
 Si el 3DO salió en el año 91, no quiere decir que es de la generación 16-bit.
 Y está parte de la cuarta generación, que es de los 16-bit, pero no es una referencia a los 16-bit.
-Vio que Infinite es muy bueno.
-Gameplay aburría porque se significó, se hizo Call of Duty.
-Sekiro es más juego que el de test trending.
-Dice NXSOL.
-Pero si NXSOL no jugó de test trending.
+[LEE CHAT]Bioshock Infinite es muy bueno.
+Gameplay aburría porque se simplifico, se hizo Call of Duty.
+Sekiro es más juego que el de Death Stranding
+Dice NxAll.
+Pero si NxAll no jugó de Death Stranding
 ¿Quién quiere discutir?
 No, no.
 Sekiro no.
-Chini García, cómela.
-Chini, ¿cómo estás?
 En la séptima generación hay un temita.
 Tengo local de videojuego.
 No me puede hacerme el nada.
@@ -1024,68 +985,65 @@ Por eso FIFA 14 llega a salir en PlayStation 2.
 PlayStation 3.
 Y en PlayStation 4.
 El único caso de juego trigeneracional que yo recuerdo ahora mismo a rápido.
-Le juegan los lego.
-Continuando, terminamos como 5 lego, Mario Sebastian.
-5 lego. Nos encanta.
-En PlayStation 2 se sigue vendiendo, ni mujer.
-Hay gente que no tiene planta y tiene la pedido todavía.
-Así le va a hacer.
-Más que no.
-Ahora si piensas que el PlayStation 3 fue más que el PlayStation 2.
-A ver si hay que el PlayStation 4 es más que el PlayStation 2.
-A PlayStation 4 le falta mucho más, mucho más sopa para hacer el PlayStation 2.
-¿Eso es cierto?
-Disculpe.
-Marce Amarillo.
-Green Fan Dango.
+[LEE CHAT] Le juegan los LEGO con tu hija?
+Terminamos como 5 lego, Mario Sebastian. 5 lego. Nos encanta.
+[LEE ALGO QUE PREGUNTA NIRMUGEN SOBRE PLAY 2]
+PlayStation 2 se sigue vendiendo Nirmugen.
+Hay gente que no tiene planta y tiene la play 2 todavía. NOTA: DICHO EN 2019
+Que se le va a hacer? Maquinon 
+Aver si ahora piensan que el PlayStation 3 fue más que el PlayStation 2.
+A ver si el PlayStation 4 es más que el PlayStation 2.
+A PlayStation 4 le falta mucho más, mucho más sopa para ser el PlayStation 2.
 No soy de PC, Marce.
-No voy a discutir a Green Fan Dango.
+No voy a discutir a Grim Fandango.
 De ninguna manera.
 Pero no quiero decir.
 Salieron juegos hasta 2014-2015.
 El último juego es FIFA 14 en 2013.
-Después salió juegos japoneses, pueden ser este juego de hoy.
+Después salió juegos japoneses, pueden salir juegos hasta el dia de hoy.
 Pero no salieron más juegos de FIFA 14.
-Estaba arrepentiente.
-No me irmujen porque si salió un juego 9-2, yo comía.
+Estaba re pendiente Nirmugen porque si salia un nuevo juego de play 2, yo comía.
 Yo lo vendía.
 En FIFA 14 ese, salió en septiembre de 2013.
 Creo que ese es el juego más vendido en mi local del año 2014.
 Porque FIFA es FIFA.
 Y FIFA 14 por primera vez incorporó a la Liga Argentina.
-Fue lo último que hizo Grondón Antemori.
-A permitir a la Liga Argentina los FIFA que había en Brasil.
+Fue lo último que hizo Grondóna antes de morir.
+Permitir a la Liga Argentina en los FIFA que había brasilera
 Hasta de FIFA 95 en SEGA Génesis.
-Estaba esa porquería de Flamengo.
+Estaba esa porquería de Flamengo. JAJAJA
 Los odia a todos.
 Odio todo lo que tenga que ver con Flamengo y con Brasil.
 Y con todo.
 Y Gabigol.
-Caraloca.
-¿Qué onda con Sazan?
-Sazan sigue saliendo en Wii.
-El 2020 acaba de salir.
-Se hizo un 2 en 150 millones de máquinas.
-La más vendida de la historia.
-Sobre arriba.
-Que manera de sufrir muchachos.
-¿Cómo puede ser que no hayan vuelto a partir así?
-Wii, Wii World 2, no.
-No me acuerdo Mario y Sebastián cuál es el Wii World 2.
+[LEE CHAT] ¿Que onda lost Just Dance?
+Just Dnace sigue saliendo en Wii. El 2020 acaba de salir.
+PlayStation 2, 150 millones de máquinas la más vendida de la historia.
+Soy de River si, que manera de sufrir muchachos.
+¿Cómo puede ser que no hayan vuelto a partir así? NOTA: REFIRIENDOSE AL PARTIDO DEL 23 DE NOVIEMBRE DE 2019 RIVER FLAMENGO
+[LEE CHAT] Wai Wai World 2
+No me acuerdo Mario Sebastián cuál es el Wai Wai World 2
 No me suena tampoco.
 Es raro que no me suena en un juego.
-Si no lo juegues.
-Simon Belmont.
-¿Y cómo es?
-¿Es un juego de plataformas?
-Si juegas el primer pantalla es un juego de plataformas.
-Después tienes pantalla activa contra.
-Pantalla activa de tu y mi.
-Aparece el 2, aparece el canal de Gradim.
-¿Gobelmon?
-Aparece Gobelmon.
-Son todos los personajes de Granada.
-Está bueno, pero no linda.
+[HABLA SAGA]
+— Todos personajes de Konami, esta Simon Belmont.
+— ¿Y cómo es? ¿Es un juego de plataformas?
+— La primer pantalla es un juego de plataformas, después tienes pantalla activa contra, 
+aparece la nave de Gradius 
+— ¿Goemon?
+— Aparece Gobelmon, son todos los personajes de Konami, está bueno, se nota lindo, el dos sobre todo
+[SAGA TERMINA INTERVENCION]
+
+
+
+
+
+/////////////////////////////////////////////////////////////
+
+
+
+
+
 Ah, mira, claro.
 Dice que encontrando las alienas de mí con mi abuelo.
 Me confirmaba todo lo que decías.
