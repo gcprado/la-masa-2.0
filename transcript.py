@@ -1,12 +1,12 @@
 import whisper
 
 model = whisper.load_model("medium")
-audio = "intro.wav"
+audio = "informe4.wav"
 
 # Transcribe with segments
 result = model.transcribe(audio, language="es", verbose=True)
 
-with open("intro.txt", "w", encoding="utf-8") as f:
+with open("informe4.txt", "w", encoding="utf-8") as f:
     for segment in result["segments"]:
         text = segment["text"].strip()
         print(text)      # Shows in terminal live

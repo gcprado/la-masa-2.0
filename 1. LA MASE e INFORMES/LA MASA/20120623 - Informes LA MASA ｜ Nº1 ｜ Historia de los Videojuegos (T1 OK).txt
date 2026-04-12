@@ -2,7 +2,7 @@ REGISTRO DOCUMENTAL: LA MASA 2.0
 TITULO: Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos
 SERIE: LA MASA
 FECHA ORIGINAL: 2012-06-23 (d)
-BACKUP: 720p30@713kbps H.265 - 100.3MB (.mp4)
+BACKUP: 720p30@1042kbps H.264 - 138.8MB (.mp4)
 
 DOCUMENTACIÓN:
 FECHA: 2026-04-10 | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 0h:15m:42s ~ 100%
@@ -372,4 +372,4 @@ Así que eso va a ser parte de nuestro siguiente informe la masa.
 Muchas gracias.
 Hasta luego.
 
-
+[FIN]
