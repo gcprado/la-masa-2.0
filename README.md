@@ -18,20 +18,21 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🟡 ESTRUCTURACIÓN (T2)
 
-- (lista cronológica de vídeos por añadir)
+- [20120623 - Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=vJ0p7iAndXU): OK
 
 ---
 
 ## 🟠 TRANSCRIPCIÓN BRUTA (T1)
 
+- [20120815 - Informes LA MASA ｜ Nº4 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=POLYmWpNFZ4): ~34%
+- [20120711 - Informes LA MASA ｜ Nº3 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=er3JOh96jPY): ~100%
 - [20120625 - Informes LA MASA ｜ Nº2 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=wxnOS1WXNsc): ~100%
-- [20120623 - Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=vJ0p7iAndXU): ~100%
 
 ---
 
 ## 🔴 PENDIENTES
 
-- [20120711 - Informes LA MASA ｜ Nº3 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=er3JOh96jPY)
+- Informe la masa 5 y 6
 
 ---
 
