@@ -1,0 +1,663 @@
+REGISTRO DOCUMENTAL: LA MASA 2.0
+TITULO: Informes LA MASA ｜ Nº3 ｜ Historia de los Videojuegos 
+SERIE: LA MASA
+FECHA ORIGINAL: 2012-07-11 (d)
+BACKUP: 720p30@1150kbps H.264- 267.3MB (.mp4)
+
+DOCUMENTACIÓN:
+FECHA: XXXX-XX-XX | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 27m:41s ~ 100%
+FECHA: XXXX-XX-XX | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA)
+FECHA: XXXX-XX-XX | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL)
+FECHA: XXXX-XX-XX | ESTADO: T4 (INTEGRACIÓN / INFORME FINAL)
+
+TIMESTAMPS DE INTERÉS: 
+ - 17:52: Emilio se refiere al chip 315-5750, también conocido como SVP (Sega Virtual Processor), un chip que calculaba entre 300 y 600 polígonos por frame, que corriendo a 15 frames por segundo resultaba entre 4500 y 9000 polígonos por segundo aproximadamente. 
+
+NOTAS: 
+
+Ninguna.
+--------------------------------------------------------------------------------------------------------------------
+
+[00:00]
+
+
+Emilio: ¿Cómo andas Nadir? 
+Nadir: ¿Todo bien? 
+Emilio: Bien, que grande ¿Cómo estan por ahí? 
+Nadir: ¿Todo en orden? 
+Nos encontramos en el tercer informe. 
+Emilio: El tercer informe vamos a hacer la cuarta generación de consolas. 
+Nadir: La más esperada. 
+Emilio: La más esperada. Si, a partir de ahora
+Nadir: Se viene lo bueno
+Emilio: La primera mitad del década del 90 cambian las cosas. En la Argentina empieza el famoso
+1 a 1. La gente empieza a comprar las máquinas. Nosotros hicimos nuestros esfuerzos. 
+Habíamos quedado que en el año 89 más o menos 90 Sega saca el Genesis, el Mega Drive que era
+la primera máquina de 16 bits que trataba de terminar con el reinado que tenía el Nintendo
+Entertainment System. 
+Nadir: Tenía todo reinado, marcaba todo prácticamente.
+Emilio: Todo. Recordemos que Sega había sacado la Master System, que era un sistema un poco
+más poderoso que el Nintendo Entertainment System, pero no había podido derrotarlo por
+cuestiones de juegos y ahora un sistema mucho más poderoso que si de a poco empezaba a
+Nadir: A vislumbras también. 
+EmilIo: Claro, un peligro para el reinado del Nintendo con
+algunos juegos que eran ahora sí exactas conversiones de los arcades como lo que se
+prometía mucho como el caso de Outrun. Nos estamos refiriendo obviamente al Sega Mega Drive.
+Tenemos la oportunidad de ver acá. 
+Nadir: Esto era lo primero que había entrado...  
+Esto es un Mega Drive. 
+Nadir: Esto es un Mega Drive. Acá dice Genesis. ¿Por qué dices Mega Drive? Sucede
+que el Mega Drive es el nombre que toma en Europa y en Japón principalmente la consola.
+Esa marca Mega Drive ya estaba registrada en Estados Unidos, entonces hubo que ponerle otra marca que fue
+Genesis. Genesis significa comienzo y Mega Drive significa un gran cambio, un mega cambio.
+Qué es lo que venían a imponer las máquinas de 16 bits
+Nadir: De hecho lo fue, fue un cambio grande. 
+Emilio: Lo fue porque esta máquina es mucho más poderosa que lo que se venía
+viendo y empieza como les decía a tener una determinada serie de juegos y podemos ver
+acá el caso principal como. 
+Nadir: Bueno, es el OutRun que era la conversión exacta. 
+Emilio: Prácticamente igual.
+También el caso de Golden Axe, Shinobi
+y tienen también algunas licencias en estos primeros años de 89, año 90 que todavía
+reinaba el Nintendo, pero a poquito se veía que esta máquina era mucho más poderosa
+con algunas licencias exclusivas como el caso de la película Moonwalker del recordado Michael
+Jackson que era, ahí tenemos también la posibilidad, un juegazo para la época. 
+Nadir: No era muy parecido. [ININTELIGIBLE] bastante lo que era el personaje en si. 
+Emilio: Sí, tenías la parte de thriller, tenía él [IMITA A MICHAEL JACKSON] "He, He!!"
+Otros juegos también de licencia como el caso de Batman, que estaba
+la película de Tim Burton. 
+Nadir: Con Jack Nicholson, que juegazo este. 
+Emilio: Muy buen juego, muy superior a la versión que presentaba el Nintendo Nintendo System así también como Spyro 
+Y algunos juegos de la casa como era el caso de Street of Rage. Esto era parecido a...
+Nadir: A Double Dragon
+Emilio: Igual el Double Dragon pero hasta un poquito mejor que el Double Dragon podemos decir y en tu casa
+Entonces esto, uno sumado a todos estos juegos también vamos a hacer una
+Mention al Pato Donald que hacía para el año 90, 91 aparece y este tipo de juegos 
+Este es un juego muy inteligente, que la gente no pudo saber valorar por una cuestión de lo que significaba un juego de estrategia
+Prácticamente para la época
+Estos juegos empiezan a ganar la pulseada y a demostrar sonido estéreo y muchísimo más color
+Mucha más velocidad y de a poco empiezan a derrotar al Nintendo que en 1991 iba a tener que ser
+Reemplazado como habíamos dicho en un informe anterior por el Super Nintendo
+Pero Sega para 1991 veía que también tenía la necesidad de tener una nueva mascota
+La mascota de Sega hasta el momento era Wonder Boy
+Que era más bien de arcade ¿no es cierto?
+Nadir: Sí, sí, sí
+Emilio: Y que había cambiado un poco la forma de manejarse digamos que el Wonder Boy 1 es una semejanza del Super Mario Bros
+Y el Wonder Boy 2 es una semejanza del Legend of Zelda
+Nadir: Tenia espadita escudo
+Emilio: Claro, el recordado escudito de oro y entonces se fue un poco más para el lado de los arcades
+No tuvo diferentes versiones en el caso del Master System y tampoco lo logró así Alex Kid
+Entonces para el 1991 Sega iba a recuperar su mascota que iba a mostrar la velocidad del potente Sega Genesis/Mega Drive
+Y no estamos hablando nada menos que obviamente del famoso Sonic
+
+[05:00]
+
+Sonic the Hedgehog, el erizo del puercoespín, mostraba la velocidad de la consola
+Y la gente comparaba directamente este juego con lo que era el Mario Bros 1, 2 o 3 del Nintendo
+Siendo aquellos juegos de 8 bits y este de 16 bits obviamente este ganaba
+Nadir: Como revoluciono este juego Emilio, era fuera de serie.
+Emilio: Era un juegazo.
+Nadir: Gráficamente [ININTELIGIBLE] 
+Emilio: Que mantuvo todas las generacion sosteniendo prácticamente lo que duró el período de vida que duró el Sega Mega Drive
+Pero bueno, estamos ya en el año 91 entonces habíamos dicho que Nintendo iba a contraatacar
+¿Y con qué iba a contraatacar?
+Nadir: Con la gloriosa, el cerebro de la bestia. Super Nintendo, está la verdad que es una fuera de serie.
+Esto es un Falcon 
+Emilio: Un Falcon Sprint de año 1972 con caja arriba, [ININTELIGIBLE] tercera
+Esto es una emoción para nosotros, una de las mejores consolas, con los mejores planteles de la historia de los videojuegos
+Que de a poco empieza a sacar los primeros juegos allá en el año 1991
+Uno de los más recordado sin duda obviamente iba a ser el regreso del fontanero italiano.
+Estamos hablando ya del juego Super Mario World que es el primer juego que venía con la máquina
+Para esta altura Mario estaba sacando una película.
+Nadir: Ay, qué desastre fue.
+Emilio: Con Bob Hoskins y John Leguizamo
+Nadir: El protagonista de Roger Rabbit.
+A Mario lo estaban sacando en varias cosas, lo estaban explotando.
+Emilio: Serie de dibujos animados, todo tipo de merchandising.
+Pero marcaba lo que era el dominio de Mario como personaje en este nuevo negocio rentable de videojuegos.
+Por eso también es el título de Super Mario World
+El mundo de Super Mario, un juego que podía también grabar partidas
+Algo así que era propio de un juego de aventura como un Zelda, como un Final Fantasy
+Nadir: Y los niveles que tenía.
+Emilio: Cantidad de 96 niveles, o sea la comparativos con Sonic 1 está en 18 niveles
+Este es el único juego de Mario, en el que manejas a Mario de todas la generaciones
+A diferencia de Sonic que se fue reeditando.
+Nadir: Aparte, vos me podras decir. ¿Vos viste la diferencia que había entre las placas, los colores?
+Emilio: Claro, o sea un Mega Drive por ejemplo trabajaba a 64 colores en simultáneo
+64 colores al mismo tiempo frente a Super Nintendo que tenía 256 colores en simultáneo
+Un programador de Mega Drive tenía una paleta de 512 colores para elegir
+Y luego poder seleccionar hasta 64 en simultáneo 
+Un Super Nintendo la paleta era de 32.768
+Se empieza a hablar de color real
+Nadir: Exactamente, en el Mario se nota más
+Emilio: El sonido por ejemplo, ambas consolas son estéreo pero la placa de sonido de Sega la hace Yamaha
+Y la placa de sonido de Super Nintendo la hace...
+Nadir: Sony
+Emilio: Y tuvo bastante mayor rendimiento en el caso de Super Nintendo.
+Nadir: Se notó la diferencia
+Emilio: Se notó la diferencia, es muy superior el sonido en Super Nintendo
+También el Super Nintendo maneja mayor cantidad de sprites
+Pero hay una característica en el que Mega Drive le gana al Super Nintendo.
+Nadir: En la velocidad.
+Emilio: El Mega Drive es el doble de rápido que el Super Nintendo
+Y se plasma en juegos como Sonic o juegos como por ejemplo
+Los juegos que iban a aparecer en el futuro de pelea
+Siempre en el Mega Drive iban a ir un poco más rápido que en lo que era el Super Nintendo
+Para 1992 podemos hablar de que se establece ya el duelo entre ambas consolas
+No desaparecen definitivamente ni el Nintendo ni el Master System
+Pero sí que eran como las hermanitas menores
+Nadir: Como se pusieron firme en ese momento, como reinaban todos
+Emilio: Reinaban entre todos, eran el mundo de videojuegos
+Para 1992 Sega contraataca con juegos recordados como el caso de Ernest Evans
+También juegos como Quack, vuelve a salir en 1992
+el juego de Aladdin También en 1992
+Pero sin duda el más importante fue el Sonic 2
+El regreso de Sonic ahora un cartucho de mayor cantidad de megas
+8 megas de memoria que era el doble del Sonic 1
+Nadir: Se notaba la diferencia, aparte estaba Tails
+Emilio: La incorporación de colitas que queda para siempre como el segundo personaje de Sonic
+Pero qué hacía en este caso el Super Nintendo en 1992
+Para frenar el avance del Sega que recordemos hacía dos años y medio que estaba en el mercado
+Y tenía cerca de 150 juegos cuando el Super Nintendo recién salía
+Nadir: Le costó remarla
+Emilio: Un poco sí, pero entre Mario y algunos amiguitos como el Super Castlevania IV
+Nadir: Que Juegazo.
+Emilio: Continuación de lo que era la trilogía Castlevania que había sido muy exitosa en el Nintendo NES
+En la máquina de 8 bits
+Nadir: Vos sabes que este juego ganó el premio al mejor música en Estados Unidos
+Emilio: Era increíble la música en su momento
+También mete en mano lo que es la saga Final Fantasy
+La saga Dragon Quest que eran los RPG exitosos
+En sus cuartos capítulos aparecen allá por Japón
+Y también en 1992 aparece que es a mi juicio probablemente el mejor juego de toda esta etapa
+Que influye a todas las aventuras a partir de ahí los próximos, desde 1992, fácil
+Los próximos 10 años sin ir más lejos
+Estamos hablando obviamente del Legend of Zelda a link to the past, el 3er capítulo de la saga Zelda
+Que alguna vez vamos a dedicar un informe exclusivo de esta saga que realmente lo merece
+Otro juego recordado de 1992 que en principio parecía que no iba a ser un gran juego
+
+[10: 00]
+
+Era el Super Mario Kart
+Nadir: [ININTELIGIBLE]
+Emilio: Es que uno lo veía y veía un jueguito de Mario, Donkey Kong, la princesa, todos en unos autitos, esto es una porquería, un [ININTELIGIBLE]
+Resultó ser uno de los mejores juegos del año y un juego que creó un género que existe hasta hoy en día, que son los juegos de carreras .
+Está claro entonces que a mayoría de los juegos, como el 70% de los juegos, salen para ambas consolas
+Entonces la pelea es muy pareja.
+Nadir: [ININTELIGIBLE] sus exclusividad también
+Emilio: Mega Drive tiene mucho mayor cantidad de juegos, Super Nintendo tiene algunas exclusividades muy fuertes.
+Nadir: Era una guerra hermosa.
+Emilio: Era una guera hermosa muy peleada
+Nadir: El que amaba los videojuegos disfrutaba con todo.
+Emilio: Y ya llegando al año 93, una pregunta que nos queda en el aire es
+¿Cómo estaba el resto del mundo del videojuego entonces?
+¿Qué pasaba por ejemplo con las computadoras?
+¿Qué pasaba también con los salones de alcalde?
+¿Cómo venían entonces las manos del otro mundo del videojuego?
+¿Cómo venían las computadoras que ahora se llamaban PC?
+Porque antes se llamaban Spectrum, Commodore
+Nadir: 64
+Emilio: ¿Sí? ¿Ahora XT, AT, 486?
+Uno no entiende
+Nadir: Venían bien, recordate que empezaron a arreglar las aventuras gráficas
+Estaba el Maniac Mansion, estaba Monkey Island, Juegazo
+Emilio: Distinto de lo que se jugaba consolas pero un éxito también
+Nadir: El Prince of Persia
+Emilio: El principe de persia, esa era una envidia, en las consolas después salió
+Nadir: Lo que pasa es que también ahí lo que empezó a surgir
+El reinado del shooter
+Emilio: El first person shooter aparece ahí ya hace 20 años
+El primero fue el Wolfenstein 3D
+Nadir: El Doom
+Emilio:  Ese lo popularizó definitivamente
+Nadir: Call Of Duty?
+Nadir: No, inventó nada
+Pero era otro mundo el de las computadoras
+Y por los arcades, ¿cómo andábamos?
+¿Cuál era el juego dominante? 
+Nadir: NO, esto sí que era dominante
+Emilio: Este era el rey, el líder
+Nadir: Empezaron a salir los juegos de pelea
+Emilio: Street Fighter 2, para los que dicen que las continuaciones nunca fueron buenas
+Nadir: No, esto fue terrible, nada que ver que el 1 no tuvo tanto éxito
+Emilio: El 1 fue un juego de éxito moderado que presentaba a un luchador que se llamaba Ryu
+El player 2 que era Ken
+Y tenían diferentes peleas
+Nadir: Y nada mas
+Nadir: Esto fue fuera de serie 8 personajes
+Emilio: 8 personajes de distintas partes del mundo
+Entonces ese juego se torna mucho más jugable, bien estereotipado los personajes
+Y una característica, ¿no?
+Nadir: 6 botones
+Emilio: 6 botones, yo no tengo 5, ¿cómo hago?
+No importa, se podía poner igual
+Era una locura, no sabíamos qué hacer
+Nadri: Esto era la verdad que no fue de la serie
+EMilio: Un local tenía 25 máquinas de videojuego
+9 y 10 eran Street Fighter 2
+Luego una de Wonderboy, una de Tetris
+Nadir: [ININTELIGIBLE] esto era para matarse
+Pero a la vez, también empezaron a salir los competidores
+El más fuerte, el que todos conocen hasta el día de hoy, es el Mortal Kombat
+Emilio: Mortal Kombat, que hoy presentaba otro sistema parecido al de Street Fighter.
+Nadir: Más digitalizadas eran.
+Emilio: Street Fighter también, gráficos digitalizados
+Y un sistema de terminación del oponente que pasaría en la historia conocido como las Fatalities
+El juego también era muy violento
+El Mortal Kombat
+Claro, fue el creador de que haya hoy un código
+Que en la cajita abajo se ve de la edad necesaria
+Para jugar al videojuego a partir de ahí
+Porque se armó bárbaro por la violencia gratuita que tenía el juego
+De hecho, cuando salen las versiones de consola
+Nadir: En Super Nintendo no sale con sangre
+Era fiel, era fiel al de [ININTELIGIBLE]
+Emilio: Era excelente a nivel técnico, en gráficos, en sonido
+A diferencia del de Mega Drive que no era tan bueno 
+Nadir: Pero tenía sangre
+Emilio: O sea, no la tenía, pero vos hacías un truco
+Que todo el mundo sabía que venía prácticamente en la cajita
+Que era A, B, A, C, A, B, B y GET OVER HERE!!
+Y que aparecía la sangre, las Fatalities y tal cual
+Ustedes preguntarán cuál vendió más
+Lógicamente, el Mortal Kombat del Mega Drive
+A partir de ahí, se crea una necesidad enorme
+Porque estas máquinas, nosotros en la época del año 92, 93
+No habían salido todavía y nos preguntaban si estas máquinas Super Nintendo, Mega Drive
+Serían capaces de realizar un Street Fighter o un Mortal Kombat
+El Family está claro que no iba a poder
+Y cuando salen, recordamos que el Street Fighter 2 aparece primero para el Super Nintendo
+Empieza generando que por eso le llamamos la pelea más grande de historia
+Nadir: Era igual.
+Emilio: Era igual a esto
+Nadir: La verdad es que hay que [ININTELIGIBLE] a SEGA
+Super Nintendo fue terrible
+Emilio: Si, pero no te olvides que dejó el tema de la sangre
+Entonces era una pelea, una pulseada encarnizada que se mataban
+Nadir: Hermosa, hermosa
+Nadir: Y la verdad había mucha ganancia
+Y vuelve a suceder ahora en 1993 ahora en 1993 a 10 años
+De que en los otros informes hablábamos del crash del año 83 del videojuego
+Cuando mueren, 
+Nadir: Ahora es un boom
+Emilio: Ahora están a full, salen permanentemente
+También existe el Game Boy y el Game Gear que vienen con su pelea aparte
+Existen a aun el Family y el Master System
+Existen Mega Drive y Super Nintendo
+Nadir: ¿Vos te acordas de lo que era una casa de videojuegos?
+Emilio: Por eso mismo, porque todas las empresas se empiezan a tomar fe
+Entonces hay un caso muy famoso que es el de Sanyo 
+Más Goldstar que es lo que hoy es
+Nadir: El 3DO
+Emilio: Goldstar es el LG y Panasonic que hacen el 3DO como bien decías
+Que era un sistema de 32 bits a CD
+
+[15:00]
+
+Super poderoso, super caro
+Pero que fue una porquería
+Estaba bien, pero no sacaba juegos
+Uno compraba el FIFA y venía la presentación impresionante
+Y el juego era igual
+Y había que esperar para que cargue
+Atari que había sido la empresa reinante
+Que había desaparecido para estos años
+Intenta volver con un sistema no de 32 sino de 64 bits
+Una locura
+64 bits de cartucho
+Entonces ese sistema tenía un doom perfecto
+Pero la verdad es que el sistema también se vino a pique
+Nadir: Era el Jaguar
+Emilio: El Atari Jaguar que también tenía una versión CD
+En estos momentos Nintendo mantenía su Super Nintendo
+Pero Sega también se contagia de la vorágine de de querer sacar
+Y querer innovar
+Nadir: Eso fue lo malo que empezó, fueron los grandes errores.
+Emilio: Malo podemos decir ahora
+La primera vez que nos tocó ver, ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Nadir: Esta es fuera de serie. 
+Emilio: Esto era un CD, se ve que ustedes también están asombrados
+esto era un CD que se le incorporaba al Sega Genesis O Mega Drive de 16 bits
+Nadir: Esto es una edición especial
+Emilio: Era increíble
+O sea vos podías en esto el juego y el juego había una película
+Claro que terminaba la película y el juego era igual al cartucho 
+Y había que esperar que cargue
+Y eran carísimos y no había copias
+Como si fuera poco luego sacaron un nuevo aditamento
+Que se ponía acá, una máquina aparte
+Nadir: La 32X
+Emilio: Era el 32X con sus propios cartuchos
+Que si tenías cartucho 32X
+Y los ponías en el Sega CD podías tener un Sega CD 32X
+Entonces uno el año 94
+Entraba a un local de videojuego
+Entonces vos tenías Family Game
+Master System
+Nadir: Super Nintendo
+Emilio: Mega Drive
+Sega CD
+Nadir: 3DO
+Emilio: Atari Jaguar
+Nadir: Game Boy
+Emilio: Game Gear
+¿Y cual compro!!?
+¿Qué pasó entonces en 1994, cómo respondieron los cartuchos a todo esto?
+Nadir: Bueno Emilio ¿Cómo contrarrestaron entonces los cartuchos?
+¿Cómo hacían frente a tantas consolas que había?
+Emilio: 32 bits, 32 megas, CD, 32X, CD+32 
+No se entendía nada
+Nadir: ¿Cómo contrarrestan todo esto?
+Emilio: Y con juegos, con buenos juegos
+Para 1994 el Super Nintendo y el Megadrive
+Ya están en cartuchos de 16 hasta 24 megas de memoria interna
+Lo que da juegos de altísimos niveles
+En gráficos 2D
+Nadir: Salían para ambas consolas
+Emilio: Algunos de los mencionados
+El Rey León
+El juego de Rey León era espectacular 
+Los mejores juegos de la época de Disney
+Nadir: Coincidio con la película también
+Gran época para Disney [ININTELIGIBLE] la película
+Podias crecer
+La verdad que excelente
+También hay que reconocer que se hizo la segunda versión
+Con mucha mayor calidad de Mortal Kombat
+Mortal Kombat 2 que ahora venía con sangre Nintendo aprendió 
+Venía con sangre en ambas consolas
+Así como grandes versiones de lo que era el FIFA
+Pero también estaban los juegos exclusivos
+En el lado del Megadrive por ejemplo
+Se hizo una versión increíble
+De un cartucho gigante
+Porque tenía un chip aparte
+Que movia 4000 peligonos
+Que para el momento era increíble
+Del Virtua Racing
+Un juegazo
+Muy bien hecho
+Para estar alquilando capaz que por 2 dólares
+En un localcito a la vuelta de tu casa
+Otro juego al Street of Rage
+Ya por su tercera versión que competía con el Final Fight del Super Nintendo 
+Street of Rage era excelente
+Un RPG muy a la línea Zelda como soleil, 
+o RPG de combate por listado como Fantasy Star 4
+Pero sin duda el que más ruido hizo
+Fue el Sony and Knuckles
+Que tenían la tecnología de ensamblar
+Los cartuchos
+Nadir: Y podías jugar los niveles con Knuckles que que volaba
+Emilio: Podía jugar a Sony 2 o a Sony 3
+La verdad que era una tecnología renovadora
+Podías alquilar el cartucho y meterte en el juego anterior
+Un juego excelente
+Ahora, ¿Cómo responde el Super Nintendo
+Para todo esto
+Estamos ya a esta altura
+Podemos hablar de lo que son para muchos
+Los mejores juegos de la historia
+En 1994 aparece el sexto capítulo
+De la saga de rol más importante
+De hasta entonces y hasta el día de hoy
+Del mundo que es Final Fantasy
+Y el sexto capítulo aquí tenemos la oportunidad
+De tener el quinto, como ven que dice Final Fantasy 2
+¿Por qué?
+Nadir: Obra maestra
+Emilio: Tambien, tambien,
+No lo tiene nadie
+Esto es increíble pagamos mucho dinero para tenerlo aquí
+Y el Final Fantasy 1, 2 y 3
+Era exclusivamente en Japón
+No salieron en Estados Unidos
+Entonces cuando salieron en Estados Unidos de 16bit
+Fueron llamados, mal llamados 1, 2 y 3
+Porque era la primera vez que salían en occidente
+Pero en realidad corresponde al capítulo 4, 5 y 6
+Está aquí en mis manos es Final Fantasy 2
+O realmente es Final Fantasy 5
+El 6, el que aparece en 1994
+Termina de doblegar definitivamente a Dragon Quest
+Que era su gran rival
+También a juegos como el de la competencia Phantasy Star 4
+Y para muchos el mejor capítulo en la historia de Final Fantasy
+Obviamente vamos a estar haciendo programas
+Totalmente dedicados
+Si fuera poco para este 1994
+Nintendo también saca que es una continuación
+De un juego que había inventado el password
+En el año 86 para el viejo NES
+Como habíamos visto en informes anteriores
+Este fue el Metroid
+Y ahora teníamos la oportunidad de tener la continuación
+El aclamadísimo
+Super Metroid
+
+[20:00]
+
+Porque la verdad que este es un juego
+Hasta el día de hoy quizás no ha sido superado
+En muchos aspectos que lo maneja
+Es una anventura 2D
+Nadir: Es un mapa que tenía
+Emilio: También vamos a estar haciendo informes correspondientes
+A la saga Metroid
+Este era un juego que probablemente
+Esté a las más altas alturas de lo que daba toda la etapa
+De estos 5, 6 años que duraban los 16 bits
+Pero realmente más allá de estos juegazos que eran juegos de tipo intelectual
+Para determinados públicos
+Específicos, ¿no es cierto?
+Había un juego que era para todo tipo de público
+Que marcaba el regreso de alguien que había sido
+Un ícono
+Un ícono del año 80, 81 como habíamos visto
+En la vieja época del coleco
+Me estoy refiriendo a no otro que
+Nadir: Donkey Kong Country
+Emilio: Donkey Kong es el mono que ahora puede protagonizar
+Por primera vez su juego
+Casi como estaba el mundo de Super Mario
+Teníamos el país de Donkey Kong
+Este juego que no era de 32 bits
+No era CD, que no era de 32X ni nada, era simplemente un cartucho
+Poderoso de 32 MB en 16 bits
+Tenía un sistema que en ese momento
+Era una novedad que era el render
+Este juego te ponía render
+Y los gráficos podemos ir viendo ahora
+Las imágenes parecen un juego de hoy
+O sea para la época fue una revolución increíble
+Y fue lo que determinantemente
+Destrozó a esas máquinas
+Que veníamos hablando como el 3DO
+Nadir: Las mato
+Emilio: El Atari Jaguar había que gastar mil dólares para tener un juego que al fin y al cabo
+Alquilaba por dos dólares a la vuelta de tu casa
+Y era muy superior
+Para 1995
+Ya estamos en el mejor momento de las consolas empiezan a avizorar
+Que las empresas más serias
+Como la propia Sega
+O nuevas erupciones de otras empresas
+Que hacen televisores muy importantes
+Se vienen en el mercado de los videojuegos
+Pero todavía se sostienen
+Nuestra querida Mega Drive, nuestro querido Super Nintendo
+Con juegos de altísima calidad
+Como el juego más esperado del año fue sin duda
+Mortal Kombat 3
+Que ahora no habías que esperar un año y medio para tenerlo en tu casa
+A los dos meses estaba la versión hogareña
+32 megas
+Mortal Kombat 3 en versión Sega
+Mortal Kombat 3 para el Super Nintendo También 
+la verdad que son juegos que estaban iguales
+Ahora sí iguales, todos idénticos
+Y también excelentes versiones de FIFA
+Excelentes versiones del juego El Pato Donald maui mallard
+Era increíble
+El Pato Donald de verdad un dibujo animado
+Estamos llegando a cotas que no se diferencia mucho
+Un videojuego 2D de un dibujito que vos ves
+En el Cartoon Network que era un canal nuevo
+Por entonces
+Para mí fue en 1995
+Sega casi que tenía vergüenza
+Por lo mal que había tratado a sus usuarios
+Con el 32X y el Sega CD
+Que ya los estaban abandonando definitivamente
+Y saca quizás dos de los mejores juegos
+De toda la época
+Uno fue el reconocido Action RPG
+Light Crusader que fue muy poco conocido
+Acá en Sudamérica
+Y otro es uno que ha sido muy conocido que fue
+Comix Zone 
+Probablemente el mejor juego de toda la etapa del Mega Drive
+Nadir: Acá pegó muy bien ese juego
+Emilio En todo el mundo porque era excelente
+Los gráficos 
+también vamos a dedicar un informe a continuación en su momento
+Nadir: Si se lo merece.
+Emilio: Aunque hay que decir que Super Nintendo
+No le tenía piedad al Mega Drive
+Si hablábamos de Final Fantasy 6
+Como el mejor RPG de historia
+O el mejor Final Fantasy que existe hasta estos días
+Solamente un año después
+La empresa Square logra sacar un juego que quizás
+Es aún mejor que fue
+El Chrono Trigger
+Que tenía diseños de Akira Toriyama
+Nadir: [ININTELIGIBLE]
+Akira Torijama es el creador de Dragon Ball
+Chrono Trigger es un juego que para muchos especialistas
+Es aún mejor que Final Fantasy 6
+Y estamos ya también hablando de los mejores juegos que hasta el día de hoy
+no ha sido superado, nunca el RPG ha vuelto a tener
+Ese nivel de popularidad
+Nadir: Un juego pintado a mano
+Emilio: Era una cosa increíble, 13 finales distintos
+70-80 horas de juegos
+Salía 150 dólares
+Es imposible de comprar
+Junto con una segunda versión
+De Donkey Kong Country
+Que mejoraba
+Mejora lo que se había visto increíble
+Ahora manejaba ser Mono Jr. de Didi Kong
+Y también obviamente estos juegos
+Graban partidas, se pueden jugar de a dos
+juegos completisimos que también tendrán su informe dedicado alguna vez
+Pero para marcar cómo se mantenía pareja la pulseada, 
+pero estos juegos marcaban una diferencia
+El Super Nintendo, no solo por el Mega Drive
+Sino por consolas más poderosas
+Pero para muchos el gran juego del año fue
+El regreso, no en forma activa
+Si, no en forma activa
+Sino en forma de bebito de Super Mario
+Y ahora en un bebé controlado por Yoshi
+Que era el dinosaurito
+Nos estamos refiriendo al Yoshi's Island
+No es cierto, un juego
+También de altísima calidad
+Uno de los mejores juegos de 1995
+Para muchos el mejor, con un sistema de roto-scaling
+Que permitía ver imágenes
+Enormes en Super Nintendo
+Y que definitivamente destruyó
+Todo lo que pueda haber hecho
+Los esfuerzos de Sonic por mantenerse como el líder
+De la generación en cuanto a los juegos de plataformas
+La verdad es que
+Fue una generación muy exitosa
+Y cuando uno dice que el Genesis
+Es en realidad el Sega
+Está bien porque la empresa nunca
+Ha vuelto a tener una máquina tan exitosa como esta
+Y esta fue mucho más exitosa que las que existían antes
+Así que es justo decirle El Sega a esta máquina
+Que en realidad se llamó Mega Drive
+
+[25:00]
+
+Que para el 96 se estaba retirando
+Con muy buenos juegos aún
+Como era el caso de Toy Story
+La versión de Toy Story el Mega Drive
+Rehabilizaba con Donkey Kong Country
+Increíble, estaba la película recién salida
+Pero el juego se parecía mucho
+Y las versiones de International Superstar Soccer Deluxe
+Que también estaba para Super Nintendo
+Esto es el abuelito de lo que ustedes hoy conocen como
+Winning 11 o Pro Evolution Soccer
+Y empezaba a generar el mismo nivel de vicio
+En todos los jugadores que se apreciacen
+En el 1996
+Es también el último año
+Fuerte de las consolas 
+Sonic
+Sega se despide
+De la saga Sonic
+Con un excelente juego
+Hecho por otra empresa, llamada Traveller's Tale
+Que era el 3D Blast
+Tenía una presentación
+Que eran gráfico poligonales
+Que de hecho competía con el juego de la máquina más poderosa
+Que estaba aún por salir de Sega
+Y quedaba mucho mejor parado este cartucho
+Y Super Nintendo también se retiraba
+Con una tercera versión del Donkey Kong Country
+Y algo que fue realmente
+Muy querido por todos
+Porque fue una versión diferente
+De lo que era el Super Mario RPG
+Una versión diferente de lo que conocíamos clásico de Mario
+Nadir: Esto si mostralo porque si que es una obra arte
+Emilio: Una excelente obra de arte
+Un juego que nunca más volvió a suceder
+Una unión entre Nintendo y Square
+La empresa de Final Fantasy
+Para darle un giro a la historia de Mario
+Para darle un por qué
+Esto es una especie de juego tipo Final Fantasy
+Con Mario, con 32 megas de memoria
+Render todas las características técnicas
+El chip de MD7, los aceleramientos 3D
+Todo lo que se pueda imaginar
+De un Super Nintendo
+Para dar cierre a esta de nuevo exitosa
+Estapa de consolas
+Es difícil decidir que fue un ganador
+Es cierto, entre el Super Nintendo y el Mega Drive
+Super Nitendo Mejores gráficos, 
+Mega Drive más rápido Más cantidad de juegos, y Mega Drive tenía copias
+Entonces era mucho más accesible
+Para todo el mundo
+Pero ya para 1996 estaban afirmadas
+Las nuevas consolas
+Tanto la nueva máquina de la que todo el mundo esperaba
+La nueva máquina de Sega
+Como la nueva máquina de la empresa de televisores Sony
+Que venía a irrumpir
+Así como también la salida
+De la reemplazante del Super Nintendo
+Que sale allá para fines de 1996
+Con el regreso de fontanero italiano
+por primera vez En gráficos poligonales, vectoriales
+Que nos iban a meter de una vez y para siempre
+En el mundo del 3D
+Del verdadero 3D de los videojuegos
+Pero esto va a ser parte
+Nadir: No me lo contéis más, dejámelo para el próximo informe
+Emilio: Informe la masa número 4, playstation
+Nadir: Hasta la proxima 
+
+[FIN]
+

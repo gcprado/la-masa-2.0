@@ -2,22 +2,19 @@ REGISTRO DOCUMENTAL: LA MASA 2.0
 TITULO: 
 SERIE: 
 FECHA ORIGINAL: YYYY-MM-DD (*)
-BACKUP: 720pHz@1234kbps H.264- 4.3GB (.mp4)
+BACKUP: 720pHz@1234kbps H.264 - 4.3GB (.mp4)
 
 DOCUMENTACIÓN:
-FECHA: XXXX-XX-XX | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 0h:00m:00s - 0.0%
+FECHA: XXXX-XX-XX | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 0h:00m:00s ~ 0.0%
 FECHA: XXXX-XX-XX | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA)
 FECHA: XXXX-XX-XX | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL)
 FECHA: XXXX-XX-XX | ESTADO: T4 (INTEGRACIÓN / INFORME FINAL)
 
 TIMESTAMPS DE INTERÉS: 
- - 10:30 (Ejemplo)
+ - Nignuno
 
 NOTAS: 
-
-Ejemplo1
-
-Ejemplo2
+ - Ninguna
 
 --------------------------------------------------------------------------------------------------------------------
 

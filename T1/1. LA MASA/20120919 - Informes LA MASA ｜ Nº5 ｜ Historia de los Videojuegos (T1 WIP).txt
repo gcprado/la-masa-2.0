@@ -1,0 +1,887 @@
+REGISTRO DOCUMENTAL: LA MASA 2.0
+TITULO: Informes LA MASA ｜ Nº5 ｜ Historia de los Videojuegos
+SERIE: LA MASA
+FECHA ORIGINAL: 2012-09-19 (d)
+BACKUP: 720pHz@1295kbps H.264 - 629.1MB (.mp4)
+
+DOCUMENTACIÓN:
+FECHA: 2026-04-19 | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 0h:00m:00s ~ 0.0%
+FECHA: XXXX-XX-XX | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA)
+FECHA: XXXX-XX-XX | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL)
+FECHA: XXXX-XX-XX | ESTADO: T4 (INTEGRACIÓN / INFORME FINAL)
+
+TIMESTAMPS DE INTERÉS: 
+ - Nignuno
+
+NOTAS: 
+ - Ninguna
+
+--------------------------------------------------------------------------------------------------------------------
+
+[00:00]
+
+Hola, como están? Bienvenidos al quinto informe de informes de la masa, a que vamos a hablar
+sobre la sexta generación de consolas y como podrán ver en este informe no contamos con
+la apariencia de Emilio, pero si con la de su hijo.
+Hola, esta vez como están? Hoy vamos a estar haciendo el quinto informe sobre la sexta generación
+de consolas y mi papá me pidió que por favor no deje hablar mucho a nadie. Cómo? Como
+si no quedara mucho. Silencio, quinto informe sobre la sexta generación de consolas vamos
+a estar llegando por fin al siglo XXI. No, no, no, bueno chaval, todo bien, muy bien,
+como están? Bienvenidos, quinto informe sobre la sexta generación de consolas ahora sí
+por fin llegamos al siglo XXI, la gente pensaba que los autos iban a estar volando o que se
+iban a ir a la pared del espacio, que si iban a pagar los bajos. Las gábulas de los
+solopios. Sí, sí, van a robar el dinero de los bancos. Bueno, Emilio, eso no pasa.
+Pero después, bueno la verdad es que no es nuestro tema, estamos con el tema de las consolas
+de videojuegos y uno cuando llega al siglo XXI seguramente espera que van a venir las
+nuevas consolas que van a acaparar todo y la verdad es que esto no sucede. Desde el año
+2000-2001 todavía dominan nuestra benemérita playstation, que tenemos como vimos en el
+porque tiene mucha antigüedad y saca continuaciones de exitosísimos juegos como es el caso de
+la saga Tomb Raider, la saga Syphon Filter, la saga Driver, Spiro del Dragón, muchos
+juegos que venían en continuaciones que permitían seguir dominando el mercado Crash Bandicoot
+y también los RPG, cierto, en el caso de Vagrant Storm, Parasite 2, en el caso también del
+emblemático Chrono Cross, continuación del aclamado Chrono Trigger de Super Nintendo
+o juegazos como Final Fantasy IX. Por esto es que aquel Playstation 1 había definitivamente
+obligado a la competencia y cuando uno cree que Sony iba a apostar por la máquina que
+venía claramente ganando el mercado, de la nada aparece muy calladita, sin muchísima,
+sin mucha bandera, la que va a ser su sucesor. Tera paz. Ahora sí, de 128, la máquina dueña
+de este informe. Aclarar que no es un prototipo esto. Esto es el Playstation 2.
+Qué maquinón, gente, qué maquinó.
+Que clarita.
+Funciona, eh, esta funciona, si.
+Esto era la Play Doj.
+La auténtica, la primera versión del Playstation 2 con este enorme tamaño, estos son 128 bits,
+la primera máquina que se puede poner así para ahí también de historia, 128 bits que
+estaban a la misma altura de lo que eran las Sega Dreamcast, pero en realidad era superior,
+hablamos de los polígonos mucho en el informe anterior, aquella poderosa máquina de Sega
+de la Dreamcast movía hasta 3 millones de polígonos por segundo, el Playstation 2
+con 2, 9, 10 millones de polígonos por segundo. No, es una barbaridad. Y también maneja
+mayor cantidad de texturas, tiene un sistema de sonido más desarrollado, tenía el chip
+de Motion Engine, se permitía tener... Un par de capacidades.
+...muy similares a lo que era en aquel momento lo que no se llamaba la realidad y también
+utilizaba Dividi, que era mayor a la capacidad del CD que lo que tenía aquel, este, son
+uno de los GCD que tenían las Sega Dreamcast, pero había otras ventajas que también tenían.
+Sí, tenía las ventajas de que podía reproducir películas, Dividi, que viste que estaba muy
+de modo en su momento. Claro. Mucha gente la compraba por eso más que nada. La gente
+no tenía Dividi. Era muy caro, era muy caro. Claro. Después se acordaba que tenía reto
+de compatibilidad con los juegos de Play 1, que eso fue en toda una novedad. Claro.
+Como los juegos de Play 1 podías volver acá. Después tenía otra cosa que la verdad que
+no se... Tenía dos puestos USB. ¿Qué es eso, mamíra? USB. No, pero bueno. Y tenía
+algo que la verdad que no... Tenía entrada para Internet. Internet. Nadie tenía Internet.
+No, no, no. Que había la... Preliminar. Era algo muy preliminar. La verdad es que el
+PlayStation 2 todavía no mostraba capacidades online, pero sí empezaba a dominar el mercado
+de a poco con los juegos, que es lo que más nos importaba a nosotros. Sí, no me acordaba.
+Pese a que en agosto del 2000 tiene un tibio arranque. Tibio. El PlayStation 2, sí, con
+lo que fue aquel juego Tekken Tag Tournament. Sí. Que no era Tekken 4, que venía como
+continuación de aquel histórico Tekken 3, el PlayStation 1, pero no se daba a superar.
+No, no se acabó. Tampoco las primeras versiones de FIFA le llamaban mucha atención. Quizás
+el shooter TimeSplitters, que empezaba a mostrar las capacidades de la máquina
+shooter culturista de la primera persona, pero era solamente para mostrar que la
+consola estaba ahí. Para mostrar. Llegado al año 2001, sí, el movimiento de anticipación
+de Sony comenzaba a dar sus frutos. De esta manera, podemos decir que con un Nintendo
+64 retirándose en el primer semestre del año, y lo mismo es suerte para el Sega Dreamcast,
+que sorpresivamente también se borra del mercado. Se borra del mercado. De una manera
+muy poderosa. Y junto con la Sega Dreamcast, se van también las máquinas de arcade, que
+ahora se veían superados por este nuevo hardware del PlayStation 2. Se encuentra
+sola la máquina que empieza a recibir el legado del centro del dominio de los grandes
+juegos, que salían también para el PlayStation 1, de parte del PlayStation 1, ahora al
+PlayStation 2. Y también versiona a grandísimos juegos, como era el caso de los juegos de
+la PC. Tal cual. Acordate que estaba el Maspen, que estaba en PC, bueno, la Play Doh lo
+absolvió. Y juegos de Dreamcast. Juegos de Dreamcast muy exitosos, como el caso de
+Crazy Taxi. O el segundo. El segundo que les dolió es el Code Eurónica Resident Evil.
+Lo que es claro, lo que pasa es que este Resident Evil Code Eurónica en Play Doh era
+mucho más completo. Y tenía algo bueno. Que no tenía el Code Eurónica. Exactamente.
+Entonces, de a poquito el PlayStation 2 empieza a demostrar también su poderío con nuevas
+salas que también hace Capcom, como es aquel juego que estaban probando para hacer un Resident
+Evil y pusieron espada en Kikero. Claro, ese era el final. Salió el Devil May Cry. Devil
+May Cry. Claro, este en realidad viene a suplantar en lo que debería ser el legado
+de Castelbaña. La 3D. No estaba bien ocupado por que era el Castelbaña del 64. No, no,
+y acá se encontró algún bonito que la verdad que fue favorito. Fue un excelente juego que
+muestra cómo iba a ser un juego de acción muchísimo más rápido en una máquina que
+recuerdo. Era rapidísimo. Un PlayStation 1 tiraba 33 MHz y un PlayStation 2 233 MHz.
+O sea que con este juego de Devil May Cry se mostaba la velocidad. También otro juego
+de acción que venía así de una continuación de algo que había sido muy exitoso en PlayStation
+1 había sido el Legacy of Pain. Ahora con juegos como el. Sí, el Soul Reaver. El Soul
+Reaver 2. Que la verdad que este sí fue esperado, Emilio. Este fue una construcción esperada
+porque uno fue muy bueno. Este la verdad que fue un muy buen juego y bueno, marcó un montón
+de cosas. Marcó un montón de cosas pero no vamos a hacer informes específicos para todas
+las salas. No, no, no. Pero fue bueno. No, no, pero fue bueno. Te voy a tirar uno que
+fue muy bueno que fue en su época muy esperado por la verdad. Tony Hawk Pro Skater 3. Bueno,
+Emilio. La verdad que dicen que fue bueno. Pero no acordate que también había salido
+de WNL. Es de sus propios fanáticos. Hay que mencionarlos porque si no no se amenazan
+todos los skaters. No, no, no. Pero también no acuerdan los más buenos. El WNL. El WNL.
+Dicen que fue bueno también. El Mayden también. El Mayden también. Iban vaciéndose pero
+había uno que realmente la gente esperaba que llegara una nueva versión que la gente
+quería sobre todo el juego de acción. Eso sí, señor. Pero. Por favor, versión original.
+Señoras y señores, el Gran Turismo 3. No, no, no. ¿Vos viste lo que era en estos? ¿Grafil?
+El Gran Turismo 3 demuestra las posibilidades de T-Station 2 por sobre las capacidades de
+T-Station 1. Un juego que realmente hacía entristecer a los dueños de T-Station 1 porque
+este era muy superior. Sí, muy superior. ¿Cuál era? Porque de 32 bit acá se pasan 128.
+Todos los opciones de autos. A Cloud que era más plasmado que en un club junto a este
+con el WNL eran los juegos que realmente más hacían sentir la falta de los sistemas
+para la gente. No, no. Cloud va para la gente. Hubo un juego que fue una sorpresa que también
+fue de autos, que también fue un tercero que también viene de un historial en T-Station
+2 pero que nadie esperaba que iba a ser un éxito tan grande. Nos estamos refiriendo al
+Gran TefAuto 3. Bueno, eso fue increíble. Por eso pensad que el 1 y el 2, en lo que
+es T-Station 1, no pegó tanto. Más que nada. Sí, era un tinto de juego. Se veía de arriba.
+Exactamente. Llamaba la atención porque robaba. Acá, escuchando, acá podía ser de todos
+3D, en vos ya podías agarrar un auto, te metías. Codazo del vidrio. Acá tenías una libertad
+terrible. Claro, un Miami todo para vos, un Nueva York todo para vos. La verdad que fue
+la gran sorpresa siendo este 2001. Uno ve que el T-Station 2 empieza a dominar, sobre
+todo en el género para adultos, como habíamos hablado, los jugadores habían crecido, pero
+no olvidaba también los más pequeños de la casa con grandes versiones de juegos de
+plataforma. Sí, que era fuerte. Continuaciones como Rayman 2, Tudonobo 2, o Shaky Duster,
+que era un nuevo juego de dúo, en este caso de plataformas, así como habíamos visto como
+No tomaron como un ícono, ¿viste? Sí, entonces, hay una nueva forma, que un juego que por
+fin estaba a la altura de clásicos como Super Mario 64. Claro. Pero de continuaciones es
+lo que vivía este año 2012 en principio, y la verdad es que como ya habíamos visto
+recién de Vico de Obrónica, o GTA 3, o Gran Turismo 3, había ciertos juegos de aventura
+que la gente estaba esperando mucho. A solo dos años, le salió lo que para muchos es
+el juego de terror más grande de la historia. Era miedo con que lo digas. Ya teníamos la
+historia, y esto es el Silent Hill 2, nada, este milio de meses. Silent Hill. Es para
+temer, mire lo que es esto. Espectacular, sí, original, esto es un mano de cito daba
+miedo. No, no, esto daba miedo. Esto es la verdad que lo que eran las expresiones faciales,
+la verdad que fue impresionante. Claro, acá en el de Mousen Engine, en el que estábamos
+hablando, la historia aparte era totalmente diferente, no tiene nada de verbo. Por eso
+era menos. No era menos. Y tipo que no tuvo el impacto que tuvo aquel, pero obviamente
+en informes específicos hablaremos más sobre la historia de Silent Hill 2. Otro juego que
+era muy esperado en las continuaciones, había sido parte de lo que es la exitosa trilogía
+que había aparecido en Primera en Family Game, luego en el Super Nintendo, luego en el PlayStation.
+Esto sigue en el pelo. Al Final Fantasy, en este caso, Final Fantasy X, el primero de
+la trilogía del PlayStation 2, que es el último en realidad de una saga tradicional
+de Final Fantasy que son en 2D, es que todavía sigue siendo un fondo pre-renderizado de altísima
+calidad en 2D con gráficos polygonales cuando quiere y se juega con un grado por computadora
+cuando necesitan, pero en sí, el Final Fantasy X lo que significa es el último juego de
+Square en el que está el cual, porque su rival, Enix, que hacía el juego Dragon Quest, que
+hemos visto en otros informes, había sido absorbida ahora por el éxito, sobre todo
+la trilogía de Final Fantasy. Yo fue barbo en ese momento. Porque fue bien visto la unión
+de Square, Enix en ese momento, cuando en realidad hoy podemos hablar de este como el último
+Final Fantasy tradicional y a partir de acá no hemos vuelto a tener la misma calidad.
+Ahora que nos servimos aquí, nos la pusimos.
+Ya en informes específicos lo estaremos viendo, pero cómo nos vamos a olvidar de que fue
+el juego más esperado del año, que era carísimo, que todos nos sentíamos muy macos, que acá
+en el año 2001, nuestro presidente se iba en helicóptero de la Casa Rosada superando
+cualquier fantasía que fuera a plantear un videojuego, pero solamente al caso de este
+muchacho que dejó todos sus dinerijos para comprar un solo videojuego, incluso a espesas
+de su salud, nos estamos hablando de lo que fue el Tactical F-Finish Action Metal Gear
+Solid 2 Sons of Liberty. No, esto fue bueno. La verdad que esto le daba la vida por este
+juego. Fue muy gráficamente infernal, la presentación, todo. Fue lo más esperado
+del año. Fue lo más esperado del año. Sí, fue lo mejor, pero tengo que confesar, trajo
+una decepción que no lo puedo decir. Una sorpresa. Trajo una sorpresa y así ya lo vamos
+hablando en informes específicos. Con todo esto podemos dejar bien en claro cuál fue
+la máquina dominante de este año 2001, cuál fue la que marcaba esa soledad que iba
+a tener en la gesta de juegos que prácticamente le iba a acompañar durante toda la generación
+con referencia a la desaparición de sus competidores, pero que amenazaba con nuevas y supuestamente
+más poderosas consolas. Pero ¿dónde estaba? ¿Dónde estaba, por ejemplo, Nintendo?
+Nintendo. Bueno, Emilio, ¿cómo estaba Nintendo 2? Bueno, Nintendo en 2001, ya hacía poquito
+que había presentado lo que iba a ser la sucesora del exitosísimo Game Boy Color,
+ahora con 32 bits que iba a ser una nueva máquina que iba a rendir como un Super Nintendo
+y casi iba a llegar a la altura de un PlayStation 1 también con cartuchos. Nos estamos refiriendo
+obviamente a la Game Boy Advance. Game Boy Advance, bueno, que es preciosa. Game Boy Advance
+era un sistema poderoso, lo más poderoso que hay en el mundo. Monopólico. Monopólico,
+no tenían competencia. Todo solo. Y también había otra empresa que sacase juegos portátiles
+y toda esta generación que iba a durar aproximadamente como 5 o 6 años también el dominio de Game
+Boy Advance. Iba a estar más que nada sostenida por juegazos como el Zelda, el Metroid, Mario
+y más que nada, la Sega. No, no, eso fue... Pokémon, su capítulo azul, rojo, blado,
+plateado, en el ala, como se llama, Pokémon ha hecho vender tanto que se acabó el plástico
+de los cartuchos en un momento en Japón para que puedan seguir fabricando este tipo de
+juegos. Increíble. Realmente un éxito que no tiene competencia y le permite a Nintendo
+poder agarrar y hacer una inversión más grande de lo que a nosotros nos importa que
+son las máquinas de control. El Nintendo 64 por primera vez había perdido el liderato
+que supo tener el Nintendo y el Super Nintendo en 12 años de etapa 2D, la primera etapa
+3D del Nintendo 64, perdido claramente como vimos en el informe anterior del presentation
+de PlayStation. No mucho se debió a los cartuchos que hablábamos de Pokémon. Los cartuchos
+que tenían menos memoria y eran mucho más carísimos, hicieron que de a poco la gente
+se fuese pasando a los CDs de PlayStation 1, fue por eso que ahora sí para la nueva
+Nintendo se pasaban los discos pero mini, fue así que a fines de 2001, allá por noviembre
+aparece la hermosísima, por favor, en sociedad la Nintendo Game. Es una cajita feliz. La
+cajita feliz de Madonna. La cajita de la alegría, la cajita mágica como quiero llamarla. Que
+cajita preciosa este Nintendo Gamecube es como la máquina definitiva en cuanto a la
+estética de lo que Nintendo considera este cierre de la primera etapa de consola, supuestamente
+el nuevo de esto iba a haber un gran cambio. Se tiraron todos los mini divididos. Se tiraron
+los mini divididos. Vamos a mostrar que es chiquitito el disco que no tiene la misma capacidad
+que los discos de PlayStation 2 que eran de 4.5 GB, estos son de apenas 1.5 GB pero este
+sistema así como el de 20 pequeñitos tenía también 128 bits, muy poderoso, manejaba
+entre 6 a 12 millones de polígonos, en la mayoría de los casos con menor cantidad de polígonos
+que los juegos de PlayStation 2 pero también le ganaba en capacidad de texturas, más el
+doble de la pintura de textura que se utilizaba para que se vea un entorno muchísimo más
+brillante en cuanto a los gráficos en 3D. También el Nintendo Gamecube era más rápido
+que el PlayStation 2 porque hablamos de 300 MHz, 233 era la velocidad de MHz en PlayStation
+2, 405 en Nintendo Gamecube. Era bastante. Pero recordemos que esta máquina no corría
+a dividir, esta máquina no tenía retrocompatibilidad con Nintendo 64 y esta máquina ahora no tenía
+el doble de procesador como supieron tener las máquinas anteriores. Pero acá lo que
+nosotros siempre hablamos son los juegos. Cuando estábamos acostumbrados sin que Nintendo
+empiece una generación con un juego de clásico, como fue el Bros en la época de Nintendo,
+el World en la época de Super Nintendo y como no en la época de 64, el Super Mario 64,
+ahora por primera vez Nintendo no empezaba la generación con un juego de Mario sino
+que era otro pero medio italiano, en este caso su hermano Luis. Claro, era una mansión
+que queda, vamos a mostrarlo, esto es glorioso. Una parodia. Una parodia, claro, y en el que
+a Mario lo secuestran. Lo secuestran. Claro. Y bueno. Hay una mansión llena de fantasma,
+Luigi queda dentro y la verdad es que queda solito ahí cuando estamos en la oscuridad,
+parece el Mario. Un pegaso. Luigi y Mancien demostrando que cuando ellos quieren también
+hacen un Resident Evil. La verdad es que junto a otros juegos como fue el Star Wars Rock
+Leader, también la saga del Wave Race y el Storm que siempre al principio de la generación
+mostraban para más que nada ver cómo se manejaban las nuevas consolas en efectos acuáticos,
+hay que hablar de otro gran juego que también fue el Super Smash Bros. Melee, ¿te acordás?
+Sí, como que no. Esto es la continuación de lo que ya era un juego de culto, muy esperado,
+más así, el juego de culto, el Nintendo 64 para ya de cuatro jugadores en mismo tiempo,
+esto era una versión muy mejorada de esto. Con gran cantidad de personajes. Sí, tenía
+modo de aventura. Ahora la gente empezaba a ver el poderío del Nintendo Gamecube respecto
+de esto, pero había un temita que tenía que esta máquina ahora ya no era el doble de
+potente que es la competencia como si pasaba con el Nintendo 64, también perdía algunas
+cositas como era la participación de la empresa Rareware que era muy conocida de tiempos como
+Donkey Kong Country, Killer Instinct, el Conker, el Conker, Bad For Dead y la Rija o Golden
+Knight que ahora seguían con la nueva empresa que estaba empezando a llegar al mercado
+del videojuego, la empresa característica del internet, una empresa más grande incluso
+que la monopónica Sony y que venía también a incorporar a Rareware. Nos estamos refiriendo
+a la empresa Microsoft que nos mostraba su nueva y poderosísima consola.
+A ver, a ver, a ver, hace un poquito. A ver, déjame, déjame.
+Mira que pesada, dale, dale.
+Bueno, estoy exagerando un poco, estoy exagerando, pero la verdad.
+Igual es pesada.
+Mira lo que es, hay que tomar aire.
+5 kilos, 5 kilos, una consola, pero eso es una grabadora de la primera etapa.
+Por favor, pero que potente.
+No, la caja X también 128 bit, pero ellos dicen que mueve 125 millones de polygones.
+Recordemos el PlayStation 2, 9 y 10, mijanos.
+Es mentira.
+No, esto es poder puro.
+O sea, tiene otro procesador, el procesador Intel que es diferente al procesador RISC
+con el que trabajaba en el GameCube y el PlayStation que es diferente.
+También la cuestión de las medajanas, lo que es cierto es que le ha expostido un poco más.
+De a poquito se empezaba a ver las capacidades económicas de Microsoft.
+Esta empresa venía también como supuestamente una continuación de lo que ibas a hacer a
+Sega Dreamcast, aunque no es tal, no es esta hecha por Sega.
+No.
+Sí tenía algunas exclusividades de Sega.
+Sí, sí, sí.
+Y luego empieza a demostrar un mayor poderío en cuanto a sumar grandes sagas como por ejemplo
+Devil May Cry, John Madden, también aparece la versión propia para el época de Resident
+Devil y código verónica y de a poquito también salen juegos como lo que fue Crazy Taxi o
+Max Payne.
+Sí, sí, muy bien.
+Aunque para mostrar el poderío de esta consola que ahora sí tenía capacidades similares
+o lo que era un sistema, un ordenador de entonces, una computadora.
+El gran juego que marcó la superioridad de ese sistema en ese 2001 fue el Shooter Futurista
+Halo.
+Halo.
+El Halo sí de verdad se manejaba como un tema superior de lo que podían marcar a este
+final del 2001.
+Era el líder de estas consolas por más perfectas, Soldado de la Fortuna o cualquier representante
+de la saga medalla.
+Para el año 2002 empezamos a ver cómo son las cosas, tenemos tres máquinas que compiten
+en una misma línea, así como la generación anterior era muy distinta con el de Steak y
+Nude de un Nintendo 64.
+Esto se parece más al Informe 3, cuando en la generación 16 bit veíamos que las máquinas
+eran prácticamente iguales, tanto el Mega Drive como el Super Nintendo.
+Ahora podemos hablar de un Xbox, un Gamecube y un PlayStation 2 a un mismo nivel, siempre
+un poquito mejor en la Xbox, luego un Gamecube nuevo y un PlayStation 2.
+Pero entre el Xbox y el PlayStation 2 hay muy poca diferencia y como siempre el PlayStation
+2 tiene los juegos mucho más accesibles, entonces la gente optaba por el PlayStation 2.
+Hablarle por ejemplo de la saga del FIFA, el Win 11, el Net For Speed, el Tony Hawk Pro
+Skater 4, también que lo tenemos por ahí, salían para todos, por ejemplo acá tenemos
+el Tony Hawk Pro Skater 4 y podemos gustar el FIFA 2002 que también estaba para el Nintendo
+Gamecube, o sea todos los juegos están de mi versión.
+Y yo en lo mejor de lo general, nada más que cuando nosotros en PlayStation 2 si prácticamente
+se lleven igual, la gente los compraba en PlayStation 2.
+Por ejemplo en este momento las películas del año, pues sin duda la primera película
+del Hombre Araña, el Spider-Man 1 salía para las tres versiones.
+El juego de James Bond de 077 y Pinkfonga para las tres versiones.
+El de Harry Potter, el Señor de los Anillos, por ejemplo acá vemos este muy bonito, basado
+en las dos torres, o juegos como Time Splitters 2 que empieza a demostrar que pierde también
+las exclusividades que tenía el PlayStation 2, el Mortal Kombat Death to Rise, también
+aparece el Battle Frame, Marvel vs Capcom, son muchísimos juegos que aparecen en este
+2002 que empiezan a marcar que lo que iba a ser distinto eran las exclusividades y que
+exclusividades manejaba el PlayStation 2 para todos.
+La primera película que esperaba sin duda era el Tekken 4, ahora sí no está actualmente,
+Tekken 4, pero que todavía seguía sin hacer un video de las tres.
+Otro juego fue el Ratchet and Clank que aparece como juego de plataforma.
+Sí, sí, sí, sí. Un dúo también. Un dúo también como había mostrado con Chuck y
+Duckter, como Mario Kazooie también que era muy notorio, muy normal en estos tiempos pero
+todavía seguía sin ser el fuerte de la consola.
+Puedo sacar un claro, había juegos que también. Este fue muy bueno.
+¿Este por qué fue muy bueno?
+Este por qué fue muy bueno porque era parecido a los arcades.
+Era también, era el viejo Ghost and Ghost.
+¿Te acordás que quedaba un cachorcillo, que tiraba balanzas?
+El Asir Arthor, sí, el carnetón era hermoso.
+La verdad que muy bien hecho.
+Muy bien hecho.
+Y había otro juego que también venía en los arcades.
+Claro, estamos hablando del Riegar, el fanfist también venía de los arcades, pero este
+particularmente va a ser el inicio de algo.
+Nadie se imaginaba que sobre la base de este juego iba a venir uno de los grandes éxitos
+de Pestigeon 2, así que prestan atención, este Riegar es la base de unos grandes juegos
+que vamos a estar viendo en el futuro.
+También por el lado de terror, como hablábamos recién de la saga Fatal Frame, aparece otra
+saga de terror que fue muy conocida en su huelga de horror, que estaba muy de moda por
+entonces.
+Este es el-o-ni-mu-u-sha, que era también de los mismos creadores de Resident Evil, pero
+claro, hicieron un juego con Samurai, gráficos personalizados, la verdad que es un bastante
+juego bastante sangriento, pero muy bueno, pero con Samurai, es un jugazo.
+En 2002 también queda para la historia, en el lado de Pestigeon 2, por un RPG que iba
+a ser una fusión entre SquareSoft, o
+Miami a disposición para hacer rígidas lecciones, pasaba de un jueguito de robar autitos a una
+zona que era muy bonitísima, donde se prometía hacer prácticamente todo.
+Como nos vamos a olvidar de las camisas de la camiseta?
+El 2002 continúa, y la verdad es que uno piensa donde está el Xbox, entonces el Xbox
+se mete en el exclusividad, lo que hace es ir tomando exclusividades de otras compañías,
+como también suma el caso de Fatal Frame, que ahora perdía las exclusividades de Pestigeon
+2, y también salía en el Xbox junto con otros juegos, pero tiene los usos propios como son
+los juegos como le gusta más a la gente, más que nada al mercado americano, los juegos
+de guerra, entonces el famoso escritor grilico Tom Clancy saca Ghost Recon, que Ghost Recon
+eso insusta en futurista, es la línea muy buena, que es el primero una saga que existe
+hasta estos días, así también como el Tom Clancy Splinter Cell, que es un juego más
+bien de espionaje, muy en la línea Metal Gear, pero en un corte más americano, que de
+gusta excelente juego tiene su propiedad.
+En 2002, así como se decía que tenía relación el Xbox con la Dreamcast, termina versionando
+un juego que ya había salido para la Dreamcast, pero era considerado de lo mejor, que fue
+HG Mue 2.
+Claro, sí, sí, sí, eso, acordate que era la Dreamcast muy bueno, bueno hasta el día
+de hoy, pero estamos esperando...
+Estamos esperando que salga el 3, estaba muy bien hecho la Xbox, pero tenía esa exclusividad,
+pero el gran juego sin duda de este año 2002, es el tercer capítulo de una saga que venía
+a la PC, que es muy importante, que se llama The Elder Scrolls, el tercer capítulo Morrowind,
+Morrowind era un juego, como les dije, venía de PC, que son RPGs en primera persona, muy
+bien logrados, que eso en consola casi nunca se había logrado hacer bien, con muchísimos
+mapas, posibilidades, aventuras, las cosas que hay para hacer, es un juego enorme, que
+muestra a las claras el potencial del Xbox, tiene una exclusividad, todavía no estaba
+a la altura de lo que estábamos esperando, nosotros un juego de acción contigo, pero
+totalmente distinto a cualquier otra aventura que veamos de ese estilo en consola, preste
+atención al director del futuro, para tener en cuenta, por el lado de la Gamecube, este
+2012 es el primer año que se firma, el fin del 2001 había sido solamente el inicio,
+y ahora en 2012 es cuando la Gamecube empieza a mostrar el potencial del que presumía,
+hablamos de que Luigi's Mansion era el inicio de la consola y fue una versión parádica,
+de Resident Evil, y Nintendo vuelve a sacar una versión de Resident Evil, en este caso
+un juego que supuestamente se había estado desarrollando para el Nintendo 64, no es
+igual tiempo y también haciendo unos primeros juegos de Nintendo Gamecube, nos estamos refiriendo
+a Eternal Darkness, un excelente juego de terror con más de 20 niveles que nos ponía
+en viajes en el tiempo, con 10 personajes distintos, muy bien hecho, muy largo, la verdad
+era una gran batalla, no vamos a estar haciendo cosas específicas ahora, pero era uno de los
+mejores juegos, pero si uno dice, está bien, arrancamos con una versión parádica de Resident
+Evil como fue Luigi's Mansion, sacamos un juego muy parecido a Resident Evil como Eternal
+Darkness, ya está, estaba traumado, Nintendo fue una de las grandes explicaciones de por
+qué el 64 pierde cuando le plegué uno, es la trilogía de Resident Evil, porque no tenía
+como pelearme, entonces Nintendo arrenda contratos de exclusividad con Resident Evil, con
+Capcom no quiero que se haga para más nadie, entonces fue así como aparece, por favor
+mostrame eso, esto fue increíble, esto fue Resident Evil 1, si veas las imágenes van
+a ver lo que es comparándole uno con el otro, es el mismo juego de PlayStation 1, pero
+con unos gráficos para el infarto, con un pre-renderizado, tenía un par de niveles
+diferentes, teníamos al final sobre todo, sí, más al final se alarga un poco, pero
+tiene un sistema de gráficos pre-renderizados que pareciera que no podía realizar un PlayStation
+2, si vemos la competencia y la comparativa en la máquina, las imágenes vamos a ver
+que este juego probablemente no se ha podido hacer en otra consola y encima, como si fuera
+poco, aparece otro Resident Evil más este mismo año, ahora nos referimos a un capítulo
+exclusivo que no es una versión, es el Resident Evil 0, lo que se llama Precuela, ante el
+Resident Evil 1 del PlayStation 1, pero con estos mismos gráficos del infarto, así que
+esto junto a la Eternal Darkness sumaba potencial espectaculares al Nintendo GameCube, lo que
+llamó muchísimo la atención en este año 2002 para Nintendo GameCube fue la aparición
+de un personaje rival de la histórica Nintendo, como es el caso de Sonic, de Sega, en Sonic
+Adventure 2, ahora fue una máquina de Nintendo y en forma oficial, ¿quién le iba a decir
+a eso solo 10 años atrás? Sonic Adventure 2 venía a engrosar un muy buen juego, venía
+a engrosar el catálogo de Nintendo GameCube que también mostraba la última fruta de la
+relación Rare Nintendo que fue el Star Fox Adventures, un juego con Fox McCloud que nos
+tenía con Fox McCloud a juegos de aventura, ahora siendo un juego más bien de tipo Zelda,
+de RPG, que es una excelente aventura que por fin venía a terminar con la relación
+en el mundo de los dinosaurios para Fox McCloud, la relación Nintendo Rare termina
+lamentablemente para todos nosotros a partir de ese juego, pero hablamos de Sonic en una
+máquina de Nintendo y no hablamos de su gran mascota que todavía no había aparecido,
+¿qué pasa con Mario? Mario aparece con Super Mario Sunshine, un juego que como su título
+lo dice alude a las vacaciones de Super Mario, Super Mario tiene ahora una mochinita de agua
+que lo va a ayudar a tener diferentes movimientos, un juego que tiene una perfección técnica
+que sin duda se lo ve como uno de los mejores juegos a nivel estético y de género de plataformas
+en la generación, lo que no logra superar la línea de aquel Super Mario 64 por lo que
+fue el impacto de aquella generación. Fue un excelente juego. Hasta acá en Adil vimos
+como por ejemplo el caso de Mario Sunshine no logra superar la línea de Mario 64, ¿qué
+pasa con esto con otros títulos que hemos visto acá? Claro, el Challenge el 1, perdón,
+no supera al 1, Final Fantasy X al 7 no supera al 1, y Metal Gear 2 al 1 lamentablemente
+tampoco supera al 1, y el Super Mario tampoco supera al 1. ¿Qué es lo que pasa que los
+juegos no superan a los originales? No en gráficos obviamente, estamos hablando de
+la crítica, la gente ya no estaba tan sorprendida por el paso al 3D, porque esta era una nueva
+generación, desde el impacto de la generación anterior fue superior, quizás sea por eso
+que este juego que vamos a estar hablando ahora más allá de lo que fue el éxito de
+ventas de GTA Vice City indiscutiblemente el juego de ventas del año, este fue el juego
+indiscutible e incrítica del año, quizás sea porque haya sido la primera versión 3D
+de una saga histórica de un juegazo como fue aquel viejo juego de 1994 para Super Nintendo,
+nos referimos al Super Metroid que no tuvo versión en Nintendo 64, así que este es
+el primero 3D, nos estamos refiriendo al Metroid Prime, Metroid Prime como se los digo
+es probablemente el mejor juego de toda esta generación, así como estarán ustedes
+boquiabiertos con los gráficos, esto es en gran adiv, uno de los mejores juegos en cuanto
+a la visual, esto está sostenido totalmente a 60 frames por segundo y cuando estábamos
+acostumbrados a un juego de acción crepidante en 2D ahora venía en 3D, cuando todos lo
+esperamos una tercera persona tradicional aparece el juego en primera persona como si
+fuera un Doom, para el principio fue una contra y después también lo siendo excelente
+porque el juego en si adapta todas las versiones de los que fue el juego de Super Metroid,
+o sea el juego se hace bolita, salta, trepa y aparte como decía bien vos tiene un escano,
+Metroid Prime se pone la vara muy alta en cuanto a juegos de calidad en esta generación
+se refiere, para mi juicio no ha sido superado en lo que resta de toda esta etapa y en la
+historia solo superado por grandiosas obras maestras como The Locality of Time.
+Ahora vamos a hablar del año 2003, el año 2003 no fue un gran año para el videojuego
+puesto que no salieron grandisimos juegos y no quedan...
+Vaya Emilio, te brigaste?
+Si creo que me brigadí un poquito, pero...
+Bueno, bueno, vamos a hablar la verdad el año 2003 es verdad no fue un gran año para
+el videojuego, no salieron grandisimos juegos que vayan a quedar victorias, si vamos a mencionar
+uno que destaca del resto fue el regreso de un excelente juego, un recordadísimo juego
+de la época de las PC monoclonomáticas, las ATX y el más exitoso de esa época obviamente
+nos referimos al Príncipe de Persia que ya había tenido una versión 3D en el Playstation 1
+pero ninguna tan exitosa como fue este, el Príncipe de Persia, Arenas del Tiempo, ahora
+en 128 bit, que es el origen a una trilogía que iba a desembocar en una película que nos pone
+al Príncipe de Persia en una aventura con mucho más argumento, mucha más acción, hasta
+violencia y muchos saltos, muchísimos saltos, casi exagerado, más bien es un Príncipe
+de Spider-mania podríamos decir, pero bueno, vamos a bien hablar de otros grandisimos juegos
+que salieron en este 2003, pese a que no es tan importante como el resto de los años,
+podemos hablar como no del Soul Calibur 2. Bueno, le dice la verdad que eran muy buenos.
+Que características tenemos en el juego? Y la característica principal es que en la
+parte de la versión Playstation, jugabas con el querido Heihachi, te acordas?
+Detecke. Detecke, en el sistema de Xbox podías jugar con Spawn. Spawn. Claro que tenía un
+Spawn grande, estaba muy bueno. Recordamos a Soul Calibur 2, un gran juego de espadachines
+que tenía exclusividad, ¿no? Heihachi en Playstation 2, Spawn y... Y acuérdate uno que se
+tocaba que lavaba en Gamecube, podías jugar con Link. ¿De Zelda en versión adulto? No,
+obviamente. No, yo lo decía que era el mejor, ¿no? Pero bueno, sí. Este 2003 también
+será recordado por aquel juego de las fotógrafas, que también se parecía a una aventura de
+estilo Zelda, muy bueno también, del francés creador del Raiman, estamos refiriendo a
+Beyond God and Evil. Otro de los grandes juegos de la época fue sin duda el Need for Speed
+Underground, para mí una de las mejores versiones de Need for Speed en toda la época,
+el famoso de los túneles pintados, era hermoso. El Winnie y the Levey estaban al máximo en
+su versión 7, cada vez mejor, la verdad que competían con los juegos de esta época inclusive.
+Podemos hablar de la Xbox, porque cada vez son menos juegos, entonces el Xbox, su gran
+escuicía más fuerte este año fue sin duda el primer RPG basado en la saga Star Wars,
+el Star Wars Night of the Old Republic, que también estaba en PC, fue para muchos uno
+de los mejores juegos del año, realmente excelente como se manejaba este juego, que
+iba a tener continuaciones muy próximas. El de Playstation 2 por su parte empezaba ya
+a mostrar continuaciones propios, como Ratchet and Clank, Shack and Daster 2, el regreso
+del juego de los monitos, el de IPX2 para el de Testejón 2, también juegos de terror,
+como el caso de Battlefraim 2, Silent Hill 3, muy bueno, de terror más alguna vez obviamente.
+Algunas continuaciones no son tan festicadas como el caso de Final Fantasy X-2, la primera
+vez que Final Fantasy VII tiene una continuación directa, este tipo de decisiones vienen luego
+de la incorporación de Enix a la compañía, este juego que era protagonizado por las chicas
+de Playstation 2 del Final Fantasy X, la verdad es que no por nada, pero fue uno de los peores
+juegos de la saga a partir de acá, es cuando empieza a caer lamentablemente esta saga.
+Otra saga que todavía no se lograba firmar bien en el mundo del 3D, una saga histórica
+que venía de la época del Family, que vos muy bien conocés.
+El Castelbaño, bueno, Lament of Innocence, ese era la verdad que era muy bueno a nivel
+gráfico, pero vamos a ir a una lista, el Delma que ya se ve en posto no lo lograba superar.
+No, todavía no lo lograba superar la línea de Game of Thrones. Ni dos veces.
+No, tampoco superaba la línea de los excelentes juegos 2D como había sido la época del Playstation
+1 del Symphony of the Night. Por el lado de Nintendo, la Gamecube tenía pocas exclusividades
+también en este año 2003, la más esperada para el grueso del público era la actualización
+del fenómeno Mario Kart que había salido en 1997, Mario Kart 64, ahora seis años después
+aparecía el Mario Kart Double Dodge como le decimos, una actualización de un juego de
+gran mejor, un poco más de lo mismo, pero obviamente que era muy necesario.
+Pero una saga, una actualización que realmente es de los esperados de Nintendo, que siempre
+esperamos que salgan, en este caso obviamente es la leyenda de Zelda, la leyenda de Zelda
+a cinco años de este muchísimo, a partir de Enough Time, aparece The Wind Waker, un
+juegazo, lo que sucede es que en su momento fue claro, utiliza el sistema Cell Hating
+en su mejor versión probablemente histórica, que es un sistema de pintura de polígonos
+que da a las claras un efecto de dibujo animado que era muy chocante al principio en contraste
+con el Link que habíamos visto en Ocarina y Majora que era un carácter más realista,
+más adulto, pero este que parecía un dibujo animado en realidad también era un juegazo
+en el que podías surcar los mares con la batuta de los vientos, podías dirigir la dirección
+del viento de esta manera con poquito el Wind Waker alcanza para estar seguramente con uno
+de los grandes juegos de este año 2003 junto con el Star Wars y el Príncipe de Persia
+a la edad del tiempo.
+Con el 2004 la cosa parece cambiar, el Xbox definitivamente quiere marcar una superioridad
+que la tiene en hardware con las competidoras, con este caso más que nada contra el Playstation
+2, entonces versiona juegos de las PC que venían un poquito más poderosos porque el
+Xbox podía versionar juegos de placas que estaban más arriba como era el caso del
+Dark Project, un juego recordado de RPG sobre los ladrones de The Dungeons & Dragons, muy
+buenos también hoy que eran crónicas de Ridley, David Diesel que era un shooter en
+primera persona, muy bueno pero muy pesado que no se podía realizar en un Playstation
+2 y el Xbox lo tenía, así también sale muy rápidamente como el Star Wars Knight of the
+Earth Republic 2 que la gente realmente no lo pudo procesar porque fue enseguida y no
+era tan exitoso como su primera parte que fue muy exitoso que venía también de una
+continuación del 1820.
+El Ninja Gaiden.
+El Ninja Gaiden, el regreso excelente marca una nueva pauta en cuanto a juegos de acción
+se refiere a su pedido porque no incluso lo que proponía David May Cry.
+Otro juego que venía de parte de la Xbox que era muy prometido por Microsoft desde los
+inicios del Xbox fue el juego Fable, un juego de aventura donde vos podés elegir si ibas
+a ser bueno o si ibas a ser malo que supuestamente iba a cambiar una juego de aventura que realmente
+fue más lo que se prometió que lo que terminó vendiendo, el que terminó cumpliendo con todo
+lo que prometía fue sin duda el tanque, el Halo 2.
+Halo 2 era una Nvidia incluso para los usuarios de PC que de esta manera podían ahora también
+empezar a jugar online con este juego que sí sostenía las partidas, este obviamente
+a nivel gráfico se disfrute, estamos hablando de lo mejor de la generación.
+En este 2004 como le decimos, como pasaban los informes que le estamos comentando, los
+juegos salen para las tres máquinas, entonces ¿quién se beneficia de esto?
+PlayStation.
+El PlayStation 2 porque como le decimos las versiones son prácticamente iguales y bastante
+más económicas, entonces juegos como por ejemplo una continuación rápida de principle
+de experiencia, el alma del guerrero que es un poco más de acción, muy buena, un poco
+más de acción para muchos no tan buenos como arenas del tiempo, también sale el juego
+de Manipackeado, el Five Nights en esta versión, el round 2 excelente, que era un nuevo juego
+que mejoraba lo que era el Knockout Kings en la época del 3D World, manejaba con los
+dos palanes, un excelente juego de boxeo como hacía mucho que no teníamos y empiezan a
+ser diversiones de lo que era el nuevo género de GTA pero en diferentes versiones, por
+ejemplo lo que conociamos como GTA Vice City hecho en Springfield teníamos el juego de
+los Simpsons.
+Hit and Run.
+Era un juego excelente donde pudieron ser de Homero en Springfield y vivir la vida a
+Homero así también te lo permitía el juego de la película Spider-Man 2 que ahora también
+tomaba las bases de los GTA entonces era una especie de action RPG con todo Manhattan
+que tuvo disposición y podía ser el hombre alante.
+Hubo un juego que marcó una pauta que fue el más exitoso para el PlayStation 2 este
+año y que el año siguiente iba a perder la exclusividad que tenía pero el de 2004 había
+salido primero para el PS2 y nos estamos refiriendo a que es uno de los más esperados
+de la saga el Tactical Spanish Action Metal Gear Solid 3.
+Ese sí que le gustó, realmente sí, ese es un juegazo, ese juego, podías cazar,
+te podías curar, era un comando, ambientaba unos años en la época fría, la guerra fría
+en la calesecencia.
+La verdad es que es uno de los mejores grafics.
+Al dolo pasó, llegando a estar a la altura de B1, puedes hacer lo que querías sobre
+el B.
+Obviamente, vamos a hacer informes específicos sobre este juego que como le decía al año
+siguiente iba también a salir en la Xbox pero otro juego que iba a salir un año antes en
+PlayStation 2 que también eran los más esperados y que parásplicamente salía una versión
+cada año y no paraba de vender era este sí, el más grande, el juego icono de toda la generación.
+Qué grande.
+GTA San Andreas, el GTA San Andreas más allá de los gustos es indiscutible el icono de
+la generación, que es icono, no del mejor juego, icono es, por ejemplo, en la época
+del Family, Super Mario Bros. es el juego icono, el que representa la generación en
+la época del Sega, Mortal Kombat es el juego icono, el que representa que uno ve una sola
+imagen y sabe de qué época estamos hablando, así como Tomb Raider, Resident Evil, en la
+época del GTA San Andreas por sí solo, ese juego que involucra todo, el mapa más grande
+que se haya visto en un videojuego, la personalidad de hacerlo todo, ya no es solamente robar
+también robar camiones, también robar motocicletas, entrenar, entrenar, entrenarse en el gimnasio,
+comerse y comer mucho de vuelve, tiene avión, tiene helicóptero, el juego que lo puede hacerlo
+todo, todo, todo y para la Gamecube no estaba, nada más, la Gamecube pobre lo intentó, estamos
+hablando de una de las máquinas más débiles de la historia de Nintendo a esta altura,
+Gamecube responde a GTA San Andreas con Mario Power Tennis, estaba lindo el Mario Tennis,
+la princesa, pero estaba viendo muy buenos gráficos, pero obviamente estamos en Twitter
+y no te van entendiendo porque Gamecube iba vendiendo menos, otro juego que sale que fue
+muy festejado fue el Paper Mario, las puertas de los mil años, para muchos el mejor de esta
+línea de RPG de Mario, pero no iba a voltear a los grandes tanques como Winnie the Pooh
+o Metal Gear 3 que no estaba en el Gamecube, la gente de Gamecube pobre solo se contentaba
+con una versión menor, que era una reversión del Metal Gear 1 de PlayStation 2 que nadie
+compraba, solamente coleccionistas que realmente estaban enamorados de Metal Gear,
+y que no se podían actuir un juego de este tipo, así como nadie, nadie compró el Metal Gear Solid 2
+es buenísimo, se ve con los gráficos de Souls of Liberty, pero ese mismo buenito de Nintendo no salía a 250
+está bien, nadie lo compró, porque había que tenerlo, hay que felicitarlo, así que el Gamecube
+junto con una segunda versión de Beautiful Joe, o una nueva versión también de Pikmin que había sido
+un juego éxito, una nueva versión de un clásico de Nintendo de Mijamoto, que todavía no había logrado pegar,
+le deja al juego que venía siendo la continuación del éxito del año 2002, para mí el mejor juego de esta saga
+nos estamos refiriendo al Metroid Prime 2, entonces, Metroid Prime 2 no termina de superar a su antecesor
+Metroid Prime 1, principalmente por cuestiones que tienen que ver con la dificultad y la longitud del juego,
+al enorme mapa que ya no llevaba meses y meses, tan citarme, Metroid Prime 1, este juego prácticamente
+exigía que vos hayas terminado el mundo para poder jugar, el mismo mapa que vos tenías ahora también
+estaba en versión oscura, así que era el doble, este juego realmente, casi años, de todas formas es uno de los mejores
+juegos del año, junto con Metal Gear 3 y GTA San Andreas, el mejor juego sin dudas del año del Gamecube
+en todo el 2004, pero aún así con todo esto, me cansó.
+Bueno hemos visto que hasta ahora la Gamecube no la canshó.
+La verdad es que no, lamentablemente el Nintendo Gamecube debido a tres sagas en particular,
+que son las que modificaron la suerte de esta consola de Nintendo en esta generación,
+nos estamos refiriendo a Metal Gear, nos estamos refiriendo a GTA y principalmente a Winnie the Pooh,
+el Pro Evolution Soccer no estaba en Nintendo Gamecube, o si estaba en una versión japonesa,
+entonces había que convertir la máquina, había que pagar mucho dinero, había que comprar de original,
+entonces la gente no se optaba, no se desigua por la máquina, no podía jugar al juego de fútbol
+y tampoco podía jugar a GTA y Metal Gear, solamente la versión que había comprado Nadib,
+de aquella reversión del Metal Gear de Playstation 1.
+Entonces podemos hablar ya a esta altura de la peor máquina en suerte que ha tenido Nintendo.
+En el mejor me quedé con 600 dólares y era la peor.
+La peor, menos que el Nintendo, igual que eso con Nintendo, obviamente menos que aquel exitosísimo Nintendo
+en la primera etapa, entonces ya peleando no solo el segundo, sino el tercer lugar con la Xbox,
+pero en inicios del año 2005, como estamos empezando ahora, allá por enero y por febrero,
+el fruto de la relación entre Nintendo y Capcom, que se habían fusionado o habían arreglado
+para sacar la saga Resident Evil en exclusividad para Nintendo Gamecube, ahora iba a dar su joya más preciada.
+A cinco años del Resident Evil 3, Némesis de Playstation 1 por fin salía ahora,
+no el Veronica, el auténtico, la verdadera continuación.
+No, el Rafa de los Milios.
+Resident Evil 4.
+Abril, por favor, esto hay que mostrar, mermes.
+Un juego excelente, un juego que la verdad estuvo muy para arriba de todo lo que se podía pretender
+para la época, para muchos el mejor Resident Evil, como en mi caso.
+Un juego revolucionario este juego.
+Revolucionario, para muchos el mejor juego de toda la generación, o por lo menos el mejor juego del Nintendo Gamecube.
+Está claro que para todos, como dice David, un juego revolucionario, un juego de la historia.
+¿Por qué? Porque hasta ahora veníamos todos, como hemos visto en los informes desde el anterior,
+acostumbrados a dos tipos de perspectivas tradicionales, la tercera y la primera persona.
+Tomb Raider como ejemplo principal de la tercera persona y Doom o Call of Duty me ha llegado a uno,
+como ejemplo de la primera persona.
+El Resident Evil 4 venía a cambiar lo que se conocía, venía a innovar, a revolucionar,
+inventando una nueva perspectiva que era sobre el hombro, donde la cámara se fija cuando vas a disparar
+y esa es la perspectiva que toman todos los juegos nuevos de acción en tercera persona.
+Que van a tomar al futuro.
+Para el futuro. Entonces podemos hablar de un juego que empieza ahora sí a torcer la pulsión en favor del Gamecube
+y es el juego más vendido de febrero y la máquina más vendida de febrero del Gamecube en 2005 en el mundo.
+En marzo pasa lo mismo, en abril. Entonces ¿cómo empieza a responder a la competencia?
+Contra el que era el mejor juego de la crítica, sin dudas, de este año 2005.
+Bueno, el Xbox sí, empieza a versionar juegos de PC, de shooter, de Fireperson shooter,
+que eran de hardware más poderosos, que podían por ejemplo rendir un PlayStation 2.
+Fue así que salen Far Cry, Doom 3 también que era muy esperado y el más esperado de todos,
+que era el Half Life 2, que demostraba que el Xbox sí podía hacer un juego, que el Half Life 1 era un problema
+para el PlayStation 2 y la Xbox podía hacer el Half Life 2 junto con Ninja Gaiden 2, Ninja Gaiden Black.
+Este fue un excelente juego de acción que vino a ser continuación de lo que era el éxito del año anterior.
+Pero ¿quién se beneficia del hecho de que salgan los juegos para todas las máquinas como siempre?
+A PlayStation 2. O sea que si todos los juegos están en todas las máquinas,
+si no sale el PlayStation 2 sale más barato porque no vamos a comprar otra máquina.
+Así que los juegos de la película por ejemplo del año que fue King Kong en PlayStation 2,
+la misma suerte con otra película de la primera, Batman Innocent, un muy lindo juego de electrónica
+que iba a sentar precedente para el futuro sobre juegos de Batman, que ahora no nos vamos a hablar más de esto.
+Otro juego de comics para que...
+A mí me gusta mucho Linkin Park y déjame decirle que este es el mejor juego de la historia de Linkin Park
+a uno de los años superados del 2005 y uno de los mejores juegos de superhéroes,
+por lo menos el mejor juego de superhéroes de toda esta etapa de este Informe 5 de los 128 bits.
+No hay ninguno mejor que este, un juego que después iba a ser prototipo para otro juego.
+El Linkin Park Ultimate Destruction es un GTA donde puedes destruirlo todo.
+Es una forma de experimentar la necesidad de perder el control.
+Otro juego que también aparece para todas las máquinas es el Time Speter 3, ahora cada vez más colorido,
+muy bien personado, pero salían para todos una tercera versión del Príncipe de Persia, ahora las dos coronas.
+También el Castlevania, el Corso de los Darned, que cambiaba la perspectiva.
+Cambiaba, sí, ya era más de costado pero era así.
+El mejor por ejemplo que es Devil May Cry 3, que era otro de los juegos de acción que venía ya teniendo a su propia puja
+con Ninja Gaiden por un lado, con Castlevania por el otro.
+Entonces el Destruction 2 seguía también versionando sus clásicos como Ratchet, como Jack.
+Otro grandioso juego de plataformas de la época fue el recordado juego de Tim Schaffer, el Psychonaut,
+un juego espectacular, bizarro, distinto, que seguramente no conocen, que les recomendamos que traten de averiguar
+o tenerlo en sus queta mira. Algo que apareció en Destruction 2 que fue una sorpresa, fue un adaptador para movimiento
+sin necesidad de agarrar ningún control que fue el Aito, lo que sucede es que muy bien no funcionaba.
+Uno pegaba dos, tres, cuatro, cinco veces y el otro no agarraba, pero no se vendió mucho precisamente por eso.
+Se lo relacionaba con juegos casuales y era una muestra de lo que iba a ser el futuro.
+Los juegos de guerra también estaban muy buenos.
+Los juegos de batalla, los de
+los que estaba en el segundo, tercero, empezaba a mostrar claro lo que eran los juegos de shooter en esta generación,
+que también estaban para las mayorías de los sistemas. Pero no nos vamos a olvidar de algo que fue muy importante
+entre el año 85, cuando hablamos de que la generación termina, aparecen juegos que aparecen, que revolucionan,
+que fue el juego de los de LEGO. Los LEGO basados en películas, ya existían juegos de LEGO de diferentes funciones
+como el fútbol, o carrerita, pero no hacer toda la guerra de las galaxias como si fuese una película de Playmobil.
+Fue un juego excelente para que empezaran a jugar a los padres con los hijos,
+algún gran doctor de la casa también disfrutando de juegos que luego se iban a transformar en saga.
+Pero sinceramente, lo que fue más importante este año 85 es un juego que también crea escuela
+y que parece que da imagen de una generación que empieza y no que termina, en el caso de Pestallan 2,
+como fue el Guitar Hero. Guitar Hero fue un juego excelente que permitía jugar una especie de Simon
+con los colores que ibas vos tocando de una manera real.
+Las mejores canciones de los fanáticos de los grupos que se hicieron.
+O así que salieron como más de 5 o 6 versiones en 3 años.
+Y esto provocó que también la gente primero comprase una guitarra, una guitarra abajo,
+una guitarra después para abajo, después comprar la batería, el micrófono,
+y después todo el mundo con la banda cantando.
+Claro, esto no daba imagen de que la generación de Pestallan 2 terminaba,
+sino que parecía que recomenzaba.
+Fue la segunda juventud para Pestallan 2, piensen que todos los que estamos diciendo los juegos que salieron
+solamente desde 2005 y todavía no hablamos de los exclusivos de Pestallan 2,
+que ahora sí iban a ser muchos.
+Sin duda al frente están dos grandes sagas que son ícono de PlayStation.
+Claro, tanto en el género de la pelea como en el género de las carreras,
+nos referimos a Tekken 5 y Gran Turismo 4, ambos.
+Sin como la verdad más la expresión del potencial de un Pestallan 2,
+ya dando medidas de lo que ibas a la generación siguiente.
+El Pestallan 2 no conforme con sacar los mismos juegos,
+se empieza a tomar también exclusividades que le gustaban del exo.
+Por ejemplo, el tal Tom Clancy a Trista Arcel me empieza a gustar,
+entonces lo suma a su plantel junto con lo que ya tenía Metal Gear,
+entonces Tom Clancy y Trista Arcel primero cuando lo estaba en teoría dedicado,
+se empiezan a salir en el Pestallan 2 juntos con el juego de los culleros.
+¡Por favor! ¡Ya te lo fue!
+¡Ah! ¡Sí, sí que era!
+Esto es algo distinto, por eso lo queremos mostrar,
+porque también conocido como el único profecy.
+Podrías estar en papel y en dos papeles.
+Claro, eras el asesino o eras la policía.
+¡Sí, increíble!
+Tomabas decisiones, algunos dicen que tienes relación con el Gemue,
+yo creo que tanto no llega, pero en sí es uno de los mejores,
+uno de los mejores juegos en cuanto a la innovación.
+¿Quién es yo en este día?
+Apropiadamente terminan la generación y salen juegos innovadores.
+Otro juego innovador fue La sombra de los polosos.
+Sí.
+Yo pude pelear con Vital, el gigante, era fuera de serie,
+eran gigantes las batallas épicas que tenías que hacer para salvar a tu amada,
+que estaba en la parte de lo que era bibliográfico,
+aparte de acordémoslo desde la mano de quien venía.
+Claro, de creador delico, de fumito uera,
+entonces estos juegos se transformaban ahora de carácter artístico,
+algo que no tenía la competencia, un juego distintivo,
+todo lo que hayan jugado desde los polosos.
+Saben por qué también deben estar dedicando informes exclusivos a una saga
+que realmente innova y eso es muy importante en el mundo del videojuego.
+Pero lo que no se iba a esperar nadie es no una innovación,
+sino una mejora del género olvidado de la época del beat'em up,
+algo así como las tortugas ninja, los doble dragon.
+¿Quién iba a decir que el viejo Riga que vimos en este informe
+en su nueva versión iba a transformarse en lo que se transformó?
+En God of War.
+God of War, sí.
+God of War es tan bueno que a nosotros por su violencia
+nos da miedo no hacer un informe exclusivo alguna vez
+sobre este juego que renueva la historia y la mitología griega
+y nos pone en la piel de Kratos,
+probablemente el personaje más carismático de toda esta etapa
+que se suma a algún dicho del videojuego.
+God of War es un juego excelente,
+que tiene que ver con la acción pero renovada,
+ya no se ve viejo como un juego de las tortugas ninja,
+es un juego que también involucra a purdes,
+que también involucra a plataformas,
+unos escenarios, unos gráficos que hacían pensar
+que PlayStation 2 no iba a terminar ahora.
+Pero si con todo esto no alcanza,
+si todo esto no deja bien en claro que con juegos como God of War
+o K2 Polosis que eran solamente de PlayStation 2,
+no alcanza a PlayStation 2 por la pelotona, por la bolosa.
+Dice, todavía no sacamos el mejor juego del año.
+Al principio del año salió uno que es el verdadero campeón de la crítica,
+entonces cuando nadie lo esperaba,
+Sony junta millones y millones de dólares,
+dice acá con cuánto quieren.
+Sí, abuso.
+Diversionando.
+Es un juego.
+No, increíble.
+Es el 4 para PlayStation 2.
+No, nadie lo esperaba.
+Estamos hablando por nadie, lo esperaba.
+Es increíble.
+Para encima, encima tenía más cosas.
+Claro, porque como tiene mayor capacidad,
+un disco común que tiene 4.5 siglas.
+No a nivel gráfico, viste.
+No, a nivel gráfico era un poco menos.
+Venía en español, por ejemplo, para acá para las chicas,
+fue importante.
+No, eso era una barbaridad.
+Y el precio.
+No, por eso no iba a hablar y después tenía más cosas.
+Con esto queda bien claro que a partir de la salida de este R6 2004,
+Nintendo prácticamente queda en coma,
+y Microsoft decide sacar una nueva consola.
+Sacar una nueva consola.
+Pero logró su cometido.
+Logró su cometido, pero sacó una nueva máquina,
+entonces para el año 2006 todos esperan que ya se termine la etapa del PlayStation 2,
+porque ya está, porque ya ganó.
+No, no, no, no, no.
+La PlayStation 2 vive una gloriosa y eterna realidad en el año 2006,
+con la salida, por ejemplo, de enormes continuaciones de juegos que ya ahora eran históricos,
+como Kingdom Hearts 2,
+El Heatman,
+salen más legos también, como Star Wars 2,
+Marvel Ultimate Alliance,
+una especie de Diablo con 24 personajes,
+la Marvel parecía que nunca había sucedido.
+No parecía que terminaba la generación.
+No, era un revolucionario.
+El Bully, un juego de una escuela secundaria,
+y una suerte de GTA que vuelve a poner en el tapete
+el tema de la violencia en los videojuegos,
+como versiones también del padrino,
+de Scarface al estilo GTA,
+o juegos de violencia explícita como Death Jam.
+Este 2006 no termina para el PlayStation 2,
+que no da muestra de morir.
+Y sale también RPGs de altísima calidad,
+como era el viejo Dragon Quest,
+que era de Enix, que había desaparecido,
+porque el 7 le fue mal en 31,
+ahora Dragon Quest 8, hecho por Square Enix,
+un juego de cell shading,
+gráficos de Asirato y Hama, recordemos el Grondo Trigger,
+y recordemos el autor de Dragon Ball.
+Dragon Quest 8 era un RPG de la era tradicional,
+de la vieja old school gamer,
+uno que era renovado,
+fue uno que también nos puede seguir acercando,
+el juego Action RPG de campo,
+este era espectacular,
+un juego, una pintura vivo,
+del logo de la mitología japonesa,
+nos referimos a Okami, Okami, Okami.
+No, no, es un juego exceso.
+Es una relente de la línea de Zelda,
+y para muchos, al mismo nivel,
+algún día también estaremos hablando de este juego en particular,
+y el mundo pensaba que también a Questiajón 12,
+seguía sacando juegos que eran de una calidad inusitada,
+que no podían competir ni siquiera máquinas más poderosas,
+con lo que nos mostraba,
+pero no termina ahí la cuestión,
+el juego de rol más esperado del año,
+no es Dragon Quest 8, no es Okami,
+es el tercero de las acostumbradas trilogías,
+de Final Fantasy,
+este sí vino,
+muy esperado, porque es el primero,
+así como escuchan, el primero de verdad, en 3D,
+Final Fantasy 12,
+un juego fantástico, fabuloso,
+con un gráfico,
+que muestra el poderío del PlayStation 2,
+y de su placa Nvidia,
+que siendo un argumento,
+más bien de tipo político,
+muy en la línea de lo que había sido el background story,
+también criticado por su sistema de combate,
+demasiado innovador para la época,
+que no fue continuado por los siguientes Final Fantasy,
+pero podemos decir que es un cierre con trompetas,
+un cierre de excelente calidad,
+a nivel visual,
+para este PlayStation 2.
+El Xbox, por su parte,
+tiraba del mercado, como decís vos,
+habiendo logrado el cometido de dar a conocer la marca,
+tranquila, sabiendo que iba a ser
+replazada rápidamente por otra consola,
+que era la verdadera apuesta de Microsoft,
+pero no antes sin sacar un grandioso juego de shooter,
+un juego hecho por la empresa
+de Magic Honor, que había perdido mucho terreno
+frente a Activision, de Call of Duty,
+y que volvía, cambiando un poco,
+la tradición de juegos de guerra, en la segunda guerra mundial,
+a ir a algo moderno, como fue
+el Black, Black,
+un shooter, la primera persona fantástico,
+del 2006, y parecía que
+todavía nos mostraban cosas nuevas,
+lo que pasa que muy lindo el Black para Xbox,
+pero también salió en el PS2 por dos pesos.
+Entonces, la gente
+volvía optando para el PS2, que queda
+bien clarito quién fue la ganadora,
+no sólo de esta generación, sino la generación anterior,
+lo cual le daba la despedida
+definitiva a la vieja
+y olvidada Nintendo Gamecube que
+todavía le quedaba uno por sacar
+todavía le quedaba uno, pero
+era tal, mal desempeño de la Gamecube
+que a dos años casi de la salida de Resident Evil 4 nos preguntábamos
+después de tanto tiempo sacará la Nintendo Gamecube el juego que estamos esperando
+o lo sacaran para la máquina que viene
+todos dudábamos, viste lo que esperábamos
+vos sabés que es Mijamoto
+Mijamoto no es prav, no es prav
+para la última semana de 2006 aparece nuestro esperadísimo
+Legend of Zelda Twilight Princess
+el Legend of Zelda Twilight Princess es ahora sí el verdadero juego
+que no le esquiva al bulto hacer la continuación histórica de aquel juego de 8 años atrás
+el Ocarina of Time
+este sí a diferencia de Majora, a diferencia de We Waker
+este mejora la cuestión y lo pone en la línea más tradicional
+un juego fantástico que está un cierre fantástico a las aventuras de 128 bits en esta generación
+que a diferencia de Ocarina, como vimos con otros juegos, no logra superar a lo que fue aquel en su día
+como pasó también con Silent Hill 2, con Metal Gear 2, con Final Fantasy X
+pero si discutimos un juego fantástico, un juego increíble
+que en templos está a la altura del Ocarina of Time
+y no es el mejor en todos y cada uno de los sitios como pasó anteriormente con el Ocarina en la época del 64
+ahora el Twilight Princess en gráficos estaba a la altura de fantásticos juegos como Black o Final Fantasy XII
+en acción, capaz no era superior a lo que había mostrado Ninja Gaiden o el propio World of War
+y ciertamente tampoco era el juego más grande como había sabido ser el Legend of Zelda Ocarina of Time en su día
+este mapa era superado por lo que habíamos visto en Morrowind o en GTA San Andreas
+pero junto para mí al Duometroy Prime y al Resident Evil 4
+Legend of Zelda Twilight Princess se sitúa en las más altas esferas de las aventuras de 128 bits
+dándole un increíble cierre a esta etapa de la generación y abriendo una nueva
+una nueva generación que va a ser muy importante, ¿por qué?
+va a ser muy importante porque el Zelda va a venir espejado
+entonces vas a estar la espada en la mano derecha y la vas a poder usar con un control
+en serio, vas a poder usar así, vas a pegar espadazo
+vamos a tocar, te lo cuento, ¿eh?
+You don't want my love
+No satisfaction
+As you go
+You don't need my love
+You gotta find yourself another
+Piece of the action
+
+[FIN]

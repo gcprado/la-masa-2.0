@@ -1,84 +1,169 @@
+REGISTRO DOCUMENTAL: LA MASA 2.0
+TITULO: Informes LA MASA ｜ Nº4 ｜ Historia de los Videojuegos
+SERIE: LA MASA
+FECHA ORIGINAL: 2012-08-15 (d)
+BACKUP: 720p30@742kbps H.264 - 319.4MB (.mp4)
+
+DOCUMENTACIÓN:
+FECHA: 2026-04-19 | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 0h:16m:48s ~ 34.2%
+FECHA: XXXX-XX-XX | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA)
+FECHA: XXXX-XX-XX | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL)
+FECHA: XXXX-XX-XX | ESTADO: T4 (INTEGRACIÓN / INFORME FINAL)
+
+TIMESTAMPS DE INTERÉS: 
+
+Ninguno.
+
+NOTAS: 
+
+Ninguna.
+
+--------------------------------------------------------------------------------------------------------------------
+
+[00:00]
+
 ¡Dun, dun, dun, dun, dun, dun!
-¡Dun, dun, dun, dun, dun!
-¡Dun, dun, dun, dun, dun!
-Muy importante, muy especial
-5, 6 años
-Vico Le Cobillo
-Super Mario
-Super Nintendo
-No, no, no
-Mario
-3D
-Sega
-Sega
-Super Nintendo
-Theory
-de la Fondadota que venía con un largo historial como es el caso de SEGA, esto por qué, una
+¡Dun, dun, dun, dun, dun, dun!
+
+Emilio: Nadir creo que estamos entrando en una nueva dimensión 
+Nadir: De que me estas hablando emilio
+que haces emilio
+Emilio: todo bien 
+Nadir: bien y vos 
+Emilio: que grande grande Todo tranquilo acá estamos en el cuarto informe de la quinta generación de consolas 
+Nadir: muy importante muy esepecial
+Emilio: muy esperado muy distintivo cambiante para lo que fue la historia del videojuego habíamos visto hasta ahora las generaciones duran aproximadamente 
+Nadir: cicno o seis a;os 
+Emului: sí vimos como la primera generación del pong presenta lo que es el videojuego o sea manejar lo que está en pantalla con aquel videojuego de tenis recordado una segunda generación que fue la atari 
+Nadri: y colecovision
+EMilio: exactamente que puso el color puso los géneros puso diferentes cartuchos vimos también como todo eso se cayó y aparece la tercer generación de videojuegos
+también impar que que fue la del Nintendo con Super Mario la cabeza reinventa lo que es el videojuego
+Nadir: [ININTELIGIBLE] mejores gráficos
+Emilio: las grandes sagas revistas especializadas locales de videojuegos por todos lados la película de Mario vimos en la generación anterior Cómo se había llegado a una mejora lo que ya estaba con los 16 bit de mega drive y
+Super Nintendo llegando en en el aspecto de los gráficos a poder rivalizar incluso con lo que se veía en un dibujo animado siempre en 2D claro hasta el momento siempre teníamos una noción 2D siempre pensábamos en 2D cuando uno recordaba por ejemplo En aquel momento cuando Super Nintendo recordaba el primer juego de Batman uno hasta le causaba gracia luego en family iba tomando un poco más de forma hasta llegar en los 16 bit con un Batman super convincente pero siempre para el costado 
+Así que cuando uno pensaba en Cómo serían los juegos de 32 bits los juegos de 64 bits, como serían los
+juegos de 128 bits qué imaginaríamos? imaginabamos algo como esto 
+[MUESTRA GAMPLAY DE BATMAN ASYLUM PANTALLA 2D DEL ESPANTAPAJAROS]
+claro eso es lo que nosotros teníamos por noción por qué Porque siempre pens algo mejor pero para el costado no teníamos una noción 3D pero es que Qué es el 3D si uno imagina por ejemplo un pequeño cuadrado No es cierto un cuadradito sí medio desparejo como los míos otro cuadradito más chiquito y uno une las lineas del cuadrad le queda lo que es la forma de un cubo es cubo da la imen de profundidad podes estar dentro
+entonces Esto es lo que se llama polígono polígono empieza a ser la
+palabra más mencionada en videojuegos siempre hablamos de bits ahora hablamos de polígonos Los polígonos van a marcar qué tanto potencial tiene una consola
+Nadir: fue un aantes y un después 
+Emilio: Claro si uno agarra y empieza a considerar que el polígono depende de donde est dibujado se puede ver diferente es ángulos Y todavía mantiene la profundidad uno puede dar diferentes
+formas al polígono ya sea ser un brazo eh o un arma o un automóvil o por qué no 
+Nadir: a Mario 
+EmILIO: entonces eh vimos que
+Esta generación Sí ya va a ser algo totalmente distintivo porque se empieza a manejar el uso de Los polígonos y no nos va a cambiar la forma de de considerar el videojuego porque hasta ahora así como en la vida uno no se maneja en 2D uno no va hacer las compras para el costado Viendo para todos lados viviendo 2D para acá vivendo 2 para allá La vida es 3D y uno se maneja en un  entorno Sí donde puede mirar hacia arriba hacia abajo y por eso decimos que como la vida es 3D y esta fue la primera generación 3D del videojuego y no hay
+una cuarta dimensión podemos hablar de que esta fue la generación más Revolucionaria de la historia de los videojuegos por fin los videojuegos ya no iban para el costado ahora iban para dentro 
+Bueno pero En qué habíamos quedado Sí más o menos estábamos en el año 95 en el informe anterior y veíamos
+como acá en la Argentina por lo menos había dominado el sega megadrive por cuestiones también de la venta de los juegos la posibilidad con la pirtaereia
+entonces la gente lo que esperaba era la nueva máquina de sega 
+Nadir: si era lo que más esperaba 
+Emilio: quea se llamaba 
+Nadir: Saturno 
+Emilio: la nueva máquina de sega tiene 32 bits y era a CD recordemos que sega ya había sacado una máquina de 32 bit y una máquina de CD periféricos para el megadrive 
+Nadir: No confiaba mucho la gente
+Emilio había tenido muy poco éxito y había perdido un poco de confianza le daban Esta última oportunidad y salía sega como la primer consola seria de los nuevos 32 bi
+
+[05:00]
+
+lo que nadie esperaba 
+Nadir: y lo que prometía también 
+Emilio: lo que prometía no es cierto que era Era lo esperado los juegos de los arcades como siempre pero lo que nadie esperaba era la salida de una empresa que nunca se había metido aún en el mundo de videojuego y que era mucho más grande que el resto de las
+empresas bastante más grande no una empresa que tenía un sejo discográfico 
+Nadir: una propio canal de televisión 
+Emilio: una empresa que haca también un sello de películas nos estamos refiriendo a la monopólica Sony que había tenido una participación en el mundo de los videojuegos haciendo el
+chip de sonido de Super Nintendo como vimos en el informe anterior y rendía muchísimo mejor que el chip de sonido de megadrive entonces Sony le propone a
+Nintendo hacer una máquina en conjunto 
+Nadir: Sí sí sí pero Nintendo no no acepta 
+EMilio: Nintendo no acepta porque dice que ellos no que ellos trabajan solos a Sony no le
+falta dinero entonces se largan solos y aparece el primer proyecto que llaman estación de juego lo que conocemos como
+PlayStation 
+Nadir: acá tenemos una 
+Emilio: fue una sorpresa es una ploteada alguien que la amaba y
+en este caso la la puso con su juego preferido y sale directamente a los pocos días de la salida del sega Saturno
+ambas máquinas muy similares con 32 bits a CD Sí y el 
+Nadir: fue una sorpresa más que nada 
+emilio: sí fue una sorpresa más que nada
+por el hecho de que tenía las mismas características técnicas prácticamente 
+y la gente se iba volcando por esta consola y no por la otra 
+que venía con un largo historial como es el caso de SEGA, esto por qué, una
 cosa particular es el tema de los juegos en el año 95 cuando salen en los arcades como
-siempre dominaba SEGA con dos juegos característicos que todos recordarán, el Daytona y USA por
-los juegos de hoy, excelentes juegos de hoy, y el Virtua Fighter en los juegos de pelea,
-entonces SEGA lo que prometía era hacer estas versiones de juegos para el SEGA Saturn, como
-hacía desde la época de Master System y otra vez como la época de Master System que
-sucede no están a la altura ni siquiera de la altura, no estaban mal pero no estaban
-a la altura de lo que eran las versiones de lo que veía la gente, la placa era superior,
+siempre dominaba SEGA con dos juegos característicos que todos recordarán, el Daytona USA por por juegos de autos
+un excelente juego hasta el dia de hoy, y el Virtua Fighter en los juegos de pelea,
+entonces SEGA lo que prometía era hacer estas versiones de juegos para e l SEGA Saturno
+Nadir: sí llevarlo a lo hogareño
+EMilio: como hacía desde la época de Master system
+y otra vez como la época de Master System que sucede 
+Nadir: No era lo mismo, no eran malos pero no estaban a la altura 
+Emilio: no estaban a la altura de lo que eran las versiones de lo que veía la gente, la placa era superior,
 en cuanto a Sony tenía la placa de Namco, Namco hacía la competencia en los arcades
 a los juegos que hacía SEGA, un poquito menos, no, pero Tekken era un poquito menos que Virtua
 Fighter pero estaba a la altura y Ridge Racer estaba a la altura del Daytona, era un poquito
 menos, en arcades era menos, cuando se trasladan a consolas estas versiones se hacen para el
 Playstation y en Playstation están iguales, entonces esto saca una ventaja sobre el Saturn,
-estas máquinas movían ambas 32 bits, en los informes de interés hablábamos de las cuestiones
-de los colores, recordemos el Mega Light trabajaba con 64 colores en simultáneo y 512 de paleta,
-en Mega Light 64 al mismo tiempo 512 la paleta, bueno el Saturno o el Playstation 1 que eran
+estas máquinas movían ambas 32 bits, en los informes de antetiores hablábamos de las cuestiones
+de los colores, recordemos el Mega  Drive trabajaba con 64 colores en simultáneo y 512 de paleta,
+en Mega Drive 64 al mismo tiempo 512 la paleta, bueno el Saturno o el Playstation 1 que eran
 lo mismo en gráficos en simultáneo podían poner 32.768 colores y la paleta para elegir
 era de 16.7 millones de colores, la gente sabrá entender que a partir de ahora no hablamos
-más de colores, porque un Playstation 1 tiene 16 millones de colores para elegir, la cuestión
+más de colores, porque ya no se pueden contar, un Playstation 1 tiene 16 millones de colores para elegir, la cuestión
 más importante es como veníamos explicando la cuestión de los polígonos, en la generación
 anterior vimos como para Mega Drive se hizo un juego de Virtua Racing que no era 2D que
-era 3D, un cartucho enorme que tenía un chip especial que con el chip especial ese cartucho
-lograba mover 4000 polígonos por segundo, una barbaridad cuando te movías un auto,
+era 3D, muy bien logrado, un cartucho enorme que tenía un chip especial que con el chip especial ese cartucho
+lograba mover 4000 polígonos por segundo, una barbaridad 4000 poligonos te movías un auto,
 bueno un Playstation 1 mueve 350 mil polígonos por segundo, o sea ya no solo un auto sino
 todo un entorno, el árbol, una caja, una puerta, la entrada, una persona, se puede crear con
 polígonos en 3D, entonces en esto es que el Playstation empieza a marcar la diferencia
-en un juego que sale al principio en vez de ser de 2D como el caso del Rayman, no es cierto,
-que en la comparativa con los juegos que estaban en el mercado, como los valores que tenía
-en Super Nintendo, tenían muy buenos colores pero había que esperar que cargue y no era
-superar a un Donkey Kong Country 2 al momento, a un Sonic & Knuckles de Mega Drive tampoco,
-a la cuestión del cine, aparte de estos cambios de pasar de 16 bit a 32 bit y de pasar a hablar
-de gráficos 2D a gráficos poligonales en 3D, una cuestión también que cambió esta
+en un juego que sale al principio en vez de ser de 3D es 2D como el caso del Rayman, no es cierto,
+que en la comparativa con los juegos que estaban en el mercado ya de Meda Drive y Super Nintendo, 
+tenían muy buenos colores pero había que esperar que cargue 
+nadir: y no era superior a un Donkey Kong Country 2 al momento, 
+emilio: a un Sonic & Knuckles de Mega Drive tampoco, pes a la cuestión del cine, aparte de estos cambios de pasar de 16 bit a 32 bit y de pasar a hablar de gráficos 2D a gráficos poligonales en 3D, una cuestión también que cambió esta
 generación fue el formato, veníamos hablando hasta el momento de los cartuchos, los cartuchos
 que tienen su propia forma de memoria que se llaman megas, megas físicos, si uno tenía
-la mala experiencia de agarrar un cartucho de Family, abrirlo, abrirlo, abrirlo y ver
+la mala expe    riencia de agarrar un cartucho de Family, abrirlo, abrirlo, abrirlo y ver
 que tenía dentro, había una plaquetita verde con otras plaquetitas negras, esas plaquetitas
 negras eran los megas, la memoria del juego, cuanto pesa el juego, bueno un juego de Family
 tenía de 2 a 4 plaquetitas siempre, porque esas eran los megas de 2 a 4 megas, un cartucho
 de Sega llegó, de Mega Drive llegó hasta 32 hasta 40 megas, con eso te hacían un Street
-Fighter 2, un Mortal Kombat 3, un Donkey Kong Country 2, bueno un CD cualquiera tiene 650
+Fighter 2, un Mortal Kombat 3, un Donkey Kong Country 2, 
+
+[10:00]
+
+bueno un CD cualquiera tiene 650
 megas, no saquen cuentas, 20 veces más, eso da origen a las secuencias de video que no
-existían, quiero que lo deslumbramos, deslumbramos, los juegos eran mucho más largos, las posibilidades
+existían, deslumbramos, los juegos eran mucho más largos, las posibilidades
 del color, fue un cambio muy grande esta generación, para mi en 1996 ya se limpiaba el mercado,
-o sea ya no existe el de todo el Family, ya el Sega System, no existe el Sega System,
-no existe la Master System y la propia Mega Drive y Super Nintendo se están retirando
+o sea ya no existe el de todo el Family, 
+Nadir: ya el 3do no existe mas, la jaguar no existe mas
+Emilio: ya el Sega CD no existe la Master System,
+y la propia Mega Drive y Super Nintendo se están retirando
 con buenos juegos se están despidiendo, dejándole el campo libre al mano a mano entre el Saturn
-y el Plutonius, exacto, entonces en 1996 la gente lo que espera es que Saturn pegue el
+y el Playstation, exacto, entonces en 1996 la gente lo que espera es que Saturn pegue el
 gran golpe y sepa lo que todos quieren, que Saturn saque un Sonic y no se da, aparece el
-Sonic 3D Blast que vimos en el informe anterior también para Mega Drive, o sea sale en cartucho
-y dice, miren igual tenía mejor presentación en la versión de Saturn, y cantar Fortuna
-y el esquema de arde cargue, entonces considerando que no estaba también en el Vectors Fighter,
-que no estaba también en la Itona, empezaba a perder terreno y Sony saca su propia mascota,
-que lo que necesitaba fue el marsupial Crash Bandicoot de la empresa Notty Dog, que fue
-un grandísimo juego que hizo que la gente no extrañase a Sony, pero esta generación
+Sonic 3D Blast que vimos en el informe anterior también para Mega Drive, o sea sale en cartucho y en CD
+y era igual tenía mejor presentación en la versión de Saturn, 
+Nadir: Y habia que gastar fortuna y esperar que cargue, 
+Emilio: entonces considerando que no estaba tan bién en el Virtua Fighter,
+que no estaba tan bién el Daytona, empezaba a perder terreno y Sony saca su propia mascota,
+que lo que necesitaba fue el marsupial Crash Bandicoot de la empresa Naughty Dog, que fue
+un grandísimo juego que hizo que la gente no extrañase a Sonic, pero esta generación
 como hablamos la quinta generación ya estamos a 10 años de lo que era la tercera, la que
-nos llevó en la época de Family, si un niño en aquel momento tenía 6 u 8 años, hoy tenía
-16 o 18 años, nunca me trabajaba, y te puede comprar dos juegos, entonces había que hacer
-dos juegos para él también, es por eso que esta primera generación, aparte del 3D,
+renovo en la época de Family, si un niño en aquel momento tenía 6 u 8 años, hoy tenía
+16 o 18 años, 
+Nadir: capaz trabajaba, 
+emilio: y te puede comprar los juegos, entonces había que hacer
+juegos para él también, es por eso que esta primera generación, aparte del 3D,
 de los 32 bits del CD, también hablamos de la primera generación de videojuegos para
 adultos, un juego que no vamos a olvidar era el caso del D, un juego de terror de dos discos
-para el Saturn y tres discos en la versión de Saturn.
-Que duro, que duro.
-Muy duro, porque era una historia de una chica que la pasaba muy mal, que tenía que caminar,
-que no suena, y uno la pasaba mal como en ese juego o en el City of the Chills también,
-o el primer, el Alonin de Dark, cuando claro, no se podía manejar, cuando uno se acercaba
-la pared se iba corriendo y uno no entendía donde estaba y dejame jugar al Sonic que yo
+para el Saturn y tres discos en la versión PlayStation.
+Nadir: Que duro, 
+EMilio: Muy duro, porque era una historia de una chica que la pasaba muy mal, que tenía que caminar,
+Nadir: uno la pasaba mal 
+Emilio: y uno la pasaba mal como en ese juego o en el City of Lost Children también,
+o el primer, el Alonin de Dark,
+Nadir: [ININTELIGIBLE] 
+Emilio: claro, no se podía manejar, cuando uno se acercaba la pared se iba corriendo y uno no entendía donde estaba y dejame jugar al Sonic que yo
 venía muy bien.
 Esto en 1996 iba a cambiar con un juego que iba a marcar un antes y un después, me estoy
 refiriendo a Tomb Raider, Tomb Raider es el primer juego que logra marcar las bases de
@@ -86,91 +171,97 @@ bueno tenemos que seguir la esbelta figura de Lara Croft, y no nos apartamos det
 de eso esbelta figura, todos felices, entonces a partir de ahí la gente empieza a entender
 cómo es que se diagrama un juego en 3D, este Tomb Raider también fue un punto de quiebre
 en la pelea Saturn-PlayStation porque en la versión PlayStation estaba muy superior o
-mejor dicho en la versión Saturn era un desastre, les faltaba un pulido.
-Que diferencia había.
-Claro, entonces la gente de a poquito empieza a ganar en PlayStation la pulseada, pero para
+mejor dicho en la versión Saturn era un desastre, les faltaban poligonos.
+Nadir: Que diferencia que había.
+Emilio: Claro, entonces la gente de a poquito empieza a ganar en PlayStation la pulseada, pero para
 mi en 1996 aparece un juego que definitivamente va a poner el género de terror del lado de
-las consolas más allá de lo que les mencionábamos de juegos como Alumni The Dark o el de el
-que vamos a mencionar ahora es el.
-Querido Resident Evil.
-Resident Evil.
-Con voz y voz.
+las consolas más allá de lo que les mencionábamos de juegos como Alone in The Dark o el D 
+el que vamos a mencionar ahora es el.
+Nadir: Querido Resident Evil.
+Emilio: Resident Evil.
 Con esa voz, no es cierto, el Resident Evil fue una cosa increíble, nosotros no lo podíamos
 creer, o sea este juego aparecía con unos videos de personas que no estaban tan buenos
-La presentación así.
+PLEASE DONT GO
 Pero tenía escenarios pre-rendervizados como Donkey Kong Country, tenía un sistema de
-mapa como lo que era un Legend of Zelda, un set de mapas que la gente dijo ¿dónde está
+mapa como lo que era un Legend of Zelda, la gente dijo ¿dónde está
 este juego?
 En PlayStation, compre PlayStation, dejo el Saturn.
 Uno dice bueno está claro que el Saturn viene a ocupar el segundo lugar de la generación
-pero todo es muy lindo pero ¿qué pasaba con la empresa de la granene?
-¿Dónde estaba?
-¿Dónde estaba?
+pero todo es muy lindo pero ¿qué pasaba con la empresa de la gran N no?
+Nadir: ¿Dónde estaba?
+Emilio: ¿Dónde estaba?
 ¿Qué pasaba con Nintendo?
 ¿Dónde estaba Nintendo?
 Nintendo bueno, cierra el ciclo del Super Nintendo, el exitoso ciclo del Super Nintendo
 y cierra un exitoso ciclo de 12 años entre el Nintendo y el Super Nintendo en 12 años
 de juegos 2D.
-Nintendo insiste en que esta generación no es lo más importante en CD que lo más importante
+Nintendo insiste en que esta generación no es lo más importante el CD que lo más importante
 en sí es el 3D y proponen y prometen que su máquina va a tener los mejores y más
-realistas en torno a 3D de la generación.
-Es más, insisten con el cartucho.
-Insisten con eso porque no sacan una máquina con formato CD y tampoco sacan una máquina
+realistas entornos 3D de la generación.
+Nadir: Es más, insisten con el cartucho.
+Emilio: Insisten con eso porque no sacan una máquina con formato CD y tampoco sacan una máquina
 de 32 bits, sacan una máquina de 64 bits.
 Nos estamos refiriendo a Nintendo 64.
 El Nintendo 64.
-Esto yo yo yo yo yo.
-Esto yo yo yo yo.
-Gente veníamos de 16 bits y más tarde.
-Esto no.
-La máquina de 64.
+Gente veníamos de 16 bits y nos traian una de 64.
 Esto fue increíble.
 Esto generaba mundos 3D.
-Reales.
-Con vincentes similares a los juegos de hoy.
-Uno pregunta ¿por qué 64 por 2 bits?
-La primera pregunta es ¿rinde el doble esta máquina que el pestejo en uno que tiene 32?
-A medias.
-Sí, a medias.
-Pero a medias.
+Nadir: Reales.
+Emilio: Convincentes similares a los juegos de hoy.
+Uno pregunta ¿por qué 64? por los bits
+La primera pregunta es ¿rinde el doble esta máquina que el playsation 1 en uno que tiene 32?
+Nadir: A medias, a medias.
+Emilio: Sí, pero a medias.
 O sea, tiene su trampa.
 Es muy importante la cuestión de los bits.
 En eso se marca que esta máquina desde el entorno 3D que es donde está el personaje
-o el arma donde se crea y cómo gira el entorno alrededor, esta máquina destruye el pestejo.
+
+[15:00]
+
+o el arma donde se crea y cómo gira el entorno alrededor, esta máquina destruye el playstation.
 Otra cuestión es las texturas de los polígonos.
-Mucho más suaves.
+Mucho más suaves. Y si uno se acerca a una pared.
 Este sistema tiene anti-aliasing entonces no se despixela, no se ven los puntitos como
-si ocurre en los juegos del pestejo en la primera etapa.
+si ocurre en los juegos del playstation de la primera etapa.
 Por otro lado, estamos hablando mucho de la cuestión de los polígonos que era tan importante
-como los bits y si un pestejo en uno movía 350 mil polígonos por segundo uno dice ¿Nintendo
+como los bits y si un playstation en uno movía 350 mil polígonos por segundo uno dice ¿Nintendo
 64 debe mover?
-Sí, mucho más.
-No, no.
+Nadir: Sí, mucho más.
+Emilio: Sin embargo, no.
 El Nintendo 64 movía solo 100 mil polígonos por segundo.
 Casi cuatro veces menos.
-Increíble.
-Nintendo prefirió el entorno 3D al manejo de polígonos.
-El manejo de polígonos hace que los juegos de autos quedaran cuadrados, no quedaran tan
+Nadir: Increíble.
+Emilio: Nintendo prefirió el entorno 3D al manejo de polígonos.
+El manejo de polígonos hace que los juegos de autos aca quedan cuadrados, no quedaran tan
 bien redondeados como en un juego de PlayStation 1.
-Los juegos de personas no se pueden tomar unas figuras delta como en el caso de Lara
+Los juegos de personas no se pueden tomar unas figuras esbelata como en el caso de Lara
 Croft.
 Entonces es que es mucho mejor las figuras redondeadas, las figuras familiares y una
 figura redondeada y muy familiar que marcó el inicio de la generación 3D para que todo
 el mundo entendiese fue lógicamente nuestro...
-Mario 64.
-It's me, Mario.
+Nadir: Mario 64.
+EMulio: It's me, Mario.
 El Super Mario 64.
 Sí, Mario.
 Es un videojuego que definitivamente enseña al mundo lo que es el 3D.
-Sí, el momento que era el principio, el castillo y el bosque.
-Mario corriendo por el bolo, no, no, yo no.
-Era el 3D puro.
-Esto era el 3D puro para todos que alguna vez nos gustó el videojuego y que venimos
+Nadir: Sí, el momento que era el principio, el castillo y el bosque.
+Emilio: Mario corriendo por el bosque va a ser inovlidable para todos.
+Nadir: Era el 3D puro.
+Emilio: Esto era el 3D puro para todos que alguna vez nos gustó el videojuego y que venimos
 de las primeras etapas.
 Sabemos todos que a partir de ahí empieza una situación que no se va a volver a repetir,
 que no se ha vuelto a repetir en cuanto a la impresión que da un nuevo videojuego.
 El Nintendo 64 le peleaba por otro lado, también tenía la característica de tener
 cuatro controles incorporados en la consola que esto hacía que juegos como Wave Race,
+
+
+
+
+
+
+
+
+
 recordemos, también el Creasy se podían jugar a muchos y fue una de las características
 que ayudó al Nintendo 64.
 Para el 97 ya tenemos definitivamente sólo tres empresas peleando, tres consolas firmes.
@@ -743,3 +834,5 @@ Informe la masa.
 Nos vemos con...
 Nos vemos con los cinco kilos.
 ¡Suscríbete al canal!
+
+[FIN]
