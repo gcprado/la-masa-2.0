@@ -86,7 +86,7 @@ Emilio: ¡Cinco!
 En este caso, tenemos tenis, fútbol de cuatro, frontón de dos, frontón de uno y fútbol de cinco. Como pueden ver, el tenis era la misma versión de Pong, uno contra otro. Era dos contra dos, fútbol de cuatro. Y el frontón, en sí, era la misma versión, pero rebotando hacia los costados de las paredes. O sea, no tenía grandes posibilidades gráficas y, más bien...
 
 Nadir: Pero era una revolución esto.
-Emilio: Sí, esta fue la primer consola de videojuegos, o la versión argentina de lo que fue el Pong, que fue toda la revolución también en los años 70. Pero hay que reconocer que fue Atari la empresa que se dirigió como mayor rédito.
+Emilio: Sí, esta fue la primer consola de videojuegos, o la versión argentina de lo que fue el Pong, que fue toda la revolución también en los años 70. Pero hay que reconocer que fue Atari la empresa que se erigió como mayor rédito.
 
 Nadir: Fue el que pisó fuerte realmente.
 Emilio: Sí, por eso pudieron evolucionar. Y pasaron lo que fue la segunda generación con Atari 2600.
@@ -212,5 +212,3 @@ Nadir y Emilio: Circus Charlie.
 Emilio: Mappy, Antarctic Adventure y muchos más, que tuvieron un enorme éxito, que cambiaron la concepción del videojuego y que en 1985 iban a ser presentados en Estados Unidos para ver cómo funcionaban, con, en este caso, un excelente truco comercial, como lo vamos a estar viendo, y la presentación de quien es seguramente el personaje más importante de la primera historia y seguramente, hasta el día de hoy, de la historia de los videojuegos, me refiero a Super Mario Bros. Así que eso va a ser parte de nuestro siguiente informe la masa. Muchas gracias. Hasta luego.
 
 [FIN]
-
-
