@@ -115,18 +115,16 @@ La **SERIE** de cada vídeo corresponde al **directorio más profundo donde se e
 ├── 9.REACCIÓN
 │
 ├── 10.CHARLAS Y ENTREVISTAS
-├── 11.ANÉCDOTAS
 │
-├── 12.ESPECIALES Y NIGHT FIGHT
+├── 11.PROGRMAS Y PODCASTS
+│   ├── BLENDER
+│   ├── Press Over
+│   └── Vorterix
+│
+├── 12.ANECDOTA
+│
+├── 13.ESPECIALES Y NIGHT FIGHT
 │   └── NIGHT FIGHT
 │
-├── 13.SHORTS
-│
-└── 14.VARIADO
-    ├── clips lives
-    ├── GAMEPLAY
-    │   ├── Vlad Circus
-    │   └── Vlad Circus 2
-    ├── standup
-    └── streams completos
+├── 14.SHORTS
 ```
