@@ -18,14 +18,16 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🟡 ESTRUCTURACIÓN (T2)
 
-- [20120623 - Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=vJ0p7iAndXU): OK
+- [20240512 - TOP 5 DE MI VIDA, Parte 2: Family Game](https://www.youtube.com/watch?v=xtyfwhRCEgY): OK
+- [20240412 - TOP 5 DE MI VIDA, Parte 1： Colecovision](https://www.youtube.com/watch?v=HEJUk9C1TnU): OK
 - [20120625 - Informes LA MASA ｜ Nº2 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=wxnOS1WXNsc): OK
+- [20120623 - Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=vJ0p7iAndXU): OK
+
 ---
 
 ## 🟠 TRANSCRIPCIÓN BRUTA (T1)
 
-- [20240512 - TOP 5 DE MI VIDA, Parte 2: Family Game](https://www.youtube.com/watch?v=xtyfwhRCEgY): ~0%
-- [20240412 - TOP 5 DE MI VIDA, Parte 1： Colecovision](https://www.youtube.com/watch?v=HEJUk9C1TnU): ~0%
+- [20120815 - Informes LA MASA ｜ Nº5 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=nOV-w09tos8): ~0%
 - [20120815 - Informes LA MASA ｜ Nº4 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=POLYmWpNFZ4): ~100%
 - [20120711 - Informes LA MASA ｜ Nº3 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=er3JOh96jPY): ~100%
 
