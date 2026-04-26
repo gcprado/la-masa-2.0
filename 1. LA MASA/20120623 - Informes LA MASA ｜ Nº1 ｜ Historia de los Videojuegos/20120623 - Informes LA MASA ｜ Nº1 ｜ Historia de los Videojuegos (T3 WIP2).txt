@@ -1,0 +1,83 @@
+REGISTRO DOCUMENTAL: LA MASA 2.0
+TITULO: Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos
+SERIE: LA MASA
+FECHA ORIGINAL: 2012-06-23 (d)
+BACKUP: 720p30@1042kbps H.264 - 138.8MB (.mp4)
+
+DOCUMENTACIÓN:
+FECHA: 2026-04-10 | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 0h:15m:42s ~ 100%
+FECHA: 2026-04-22 | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA) - OK
+FECHA: XXXX-XX-XX | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL)
+FECHA: XXXX-XX-XX | ESTADO: T4 (INTEGRACIÓN / INFORME FINAL)
+
+TIMESTAMPS DE INTERÉS: 
+
+  - 11:21 Nintendo no saco el Family Computer al ver el exito del SG-1000. Ambas consolas salieron el mismo dia a la venta. Fuente: https://archive.org/details/game-machine-magazine-19850715p/page/n8/mode/1up
+
+NOTAS: 
+--------------------------------------------------------------------------------------------------------------------
+
+pasar a limpio aqui
+
+--------------------------------------------------------------------------------------------------------------------
+
+Emilio y Nadir arrancan con los informes de la masa en junio de 2012 para empezar a informar. Creen que hace falta un informe relacionado con los videojuegos. Y tienen ganas de que haya unos informes completos e informativos. Ese año 2012 se cumplia el 40 aniversario de la salida de la primera consola de videojuegos y la idea seria ir desandando un poquito ese camino desde los inicios. Las salidas de las consolas más importantes, como estaban los arcades, los salones de videojuegos, que pasaba en el mundo de las computadoras, aunque no va a ser el cuerpo principal, y también las portátiles. Un repaso general de la historia pero arrancando desde el inicio, desde las raíces, casi como una ameba.
+
+Creemos que lo que hace falta es informar de cómo se originó esto, por qué es que estamos y el vicio que tenemos con los videojuegos. Cómo fue evolucionando todo, al punto que hoy tenemos situaciones en las que los propios jugadores de fútbol juegan a los juegos de fútbol, la película se basa en el videojuego, el videojuego genera más que la propia industria de cine, esto ya hace bastante. Entonces, bueno, ¿cómo se da origen esto? Osea, ¿desde dónde arranca?
+
+Y bueno, tenemos que remitir al primero que pueda manejar luces en pantalla. Pero esto se va casi hasta la década de 40. En la década del 50, una computadora que ocupaba toda una oficina podía mover apenita las luces en pantalla. Digamos que, para fines de la década de 60, empieza el primer control, que después deriva en lo que nosotros conocemos como Pong. 
+
+La primera consola es de 1972, el Magnavox Odyssey en Estados Unidos, que al mismo tiempo, alguien copia la idea, pero la mejora, como siempre sucede. Y ese alguien era el que fundó Atari. Entonces, el Atari Pong era la máquina más vendida de entonces, incluso más que el Magnavox Odyssey. Y era la famosa barrita que frente a otra barrita que simulaban un tenis de mesa, como un frontón. Como esto no estaba regulado, cada empresa sacaba su propio Pong. Entonces, en el caso, por ejemplo, del Magnavox, que tenía el Odyssey, también estaba el Televisor que incluía el Pong que ya venía incorporado. Cualquier compañía que se aprecie agarraba, invertía y sacaba su propio electrodoméstico, como una heladera o una licuadora.
+
+Tenemos en particular una compañía en el caso de la Argentina, como siempre decimos, a fines del 70, después de que pasaron todos los inconvenientes que no estaban para los juegos acá en el país. Más allá de que la más famosa era el Telemach. La versión sudamericana del Pong más famosa fue Telemach. También en el caso de Magiclick, que es una compañía de electrodomésticos de encendedores para hornallas que duraban 104 años. Magiclick nos tiró el Teleclick. Magiclick nos dio la oportunidad de poder conocerlo acá en la Argentina. Digamos que esto, en su momento, fue visto como un aparato de última tecnología que se conectaba al televisor. Y tania cinco juegos, tenemos tenis, fútbol de cuatro, frontón de dos, frontón de uno y fútbol de cinco. El tenis era la misma versión de Pong, uno contra otro. Era dos contra dos, fútbol de cuatro. Y el frontón, en sí, era la misma versión, pero rebotando hacia los costados de las paredes. O sea, no tenía grandes posibilidades gráfica pero era una revolución esto, esta fue la primer consola de videojuegos, o la versión argentina de lo que fue el Pong, que fue toda la revolución también en los años 70. Pero hay que reconocer que fue Atari la empresa que se erigió como mayor rédito, el que pisó fuerte realmente, por eso pudieron evolucionar. Y pasaron lo que fue la segunda generación con Atari 2600, luego sale el 5200, ya para competir, en otro caso, más adelante. 
+
+Pero el 2600 incorpora el scroll, principalmente incorpora el color. Estas máquinas no tenían color. Lo que vamos a ver de aquí es que era todo blanco y negro y con destellos de sonido.
+
+Y en el caso de la Atari trataba de emular música, los juegos tenían color. Y empieza a haber scroll, o sea, un juego puede ir hacia el costado. Empiezan los primeros juegos de plataformas. El caso más famoso seguramente es el de Pitfall. También empiezan los géneros; en estos momentos veíamos que emulaban algunos deportes. O incluso algunas versiones de juegos de automóviles de de conducción.
+
+Empiezan los juegos de aventura, el caso de Adventure. La más esencial de las formas de juego, era una aventura. El Adventure era un cuadradito que tenía que ir agarrando llaves de diferentes colores. Y entraba en laberintos que tenía que resolver. O sea, la base de cualquier juego que estemos jugando hoy arranca en ese Adventure. 
+
+Empiezan a ver juegos de cosas que veíamos en televisión. Como, por ejemplo, Superman o el Hombre Araña. Y fue súper exitoso, ¿no es cierto? Y el resto de las compañías que había, como Pongs; hubo más de 20 compañías que sacaban su propio Pong. El Coleco Telstar y entre tantas otras. Y no fue tanto así con el Atari 2600, que desde el año 77 hasta el año 81 revoluciona y casi domina monopolitcamente el mercado de videojuegos.
+
+Atari empieza a ser la palabra más referida a videojuegos en el mundo. Automáticamente se lo relaciona. Y bueno, la competencia que había tenido en un primer momento con el Coleco Telstar, se le hace una competencia más fuerte en el año 1981. Y sacan una máquina mucho más poderosa que el Atari, con 16 colores, con más de 3 MHz de velocidad. Esta máquina fue muy exitosa incluso acá en la Argentina. Este es el Colecovision, con sus controles que parecen teléfonos celulares de antaño. Esto quiero decirlo. Esta fue mi primera consola.
+
+La verdad que era un lujo y había que tener plata, era muy caro y más en esa época en el país. Era muy difícil porque estábamos recuperando la democracia, pero empezamos a agarrar hiperinflación. Y en Estados Unidos esta máquina tuvo un éxito moderado, menor incluso capaz que el que tuvo aquí en la Argentina. Esta máquina [ININTELIGIBLE] en el año 81, argumentando que iban a sacar el juego dominador de arcades en aquel momento El Donkey Kong. Vos podías jugar un arcade igual. Los arcade los podías jugar, eso era lo que te ofrecía el ColecoVision.
+
+Muchos [ININTELIGIBLE] era mejor que el propio Asteroids, o que lo que era el Space Invaders. El Coleco podía superar. El Coleco rendía como una máquina de generaciones posteriores.
+Pasa que Coleco sacó muy poquitos juegos, tenía una ranura de expansion que permitían poner cartuchos de un Atari 2600, lo cual trajo varios problemas con Atari. Pero después le ganó el juicio igual. 
+
+El Coleco, junto con el Atari, y con lo que pasaba con el resto de las máquinas, ya estamos hablando de que el Coleco llega hasta el año 81, 82, 83, a 10 años de la salida del primer Magnavox Odyssey, de lo que era el Pong. Y cuando hablábamos de que la industria empezaba a crecer y sacaba juegos de películas y todo, la industria súbitamente se cae. Pero, ¿se cae? ¿Qué significa se cae? 
+
+O sea, sale en CNN un informe diciendo que si usted compra un Coleco o un Atari, usted es un estúpido. Entonces, lo que usted tiene que comprar es una computadora, como la nueva Spectrum o la nueva Commodore 
+
+Y la diferencia era que, ¿cómo fue que se fue desarrollando eso? ¿De qué manera? ¿Y por qué? Bueno, tiene que ver con los juegos. Esa es la verdadera razón. El Atari 2600, por ejemplo, en Argentina, tenían un caudal gráfico menor que el Coleco. Le ganó al Coleco en ventas porque tenía mayor cantidad de juegos. Los juegos se tornan repetitivos. Son todos clónicos del Donkey Kong o clones del Pacman o clones de Space Invaders. Hay tres o cuatro géneros que se repiten. Por lo general, si no están bien hechos, son iguales. O sea, no dispara bien, no responde bien. La gente se empieza a cansar y se empieza a ver al videojuego como una moda pasajera. Como quien iba a comprar un disco de bandana o ir a jugar al padel o comprar un Tamagotchi, el videojuego desaparecía. Todos los dueños de cadenas de jugueterías retiraban las consolas de videojuegos, pensando que era un evento pasajero.
+Lo que fue denominado el Crash del videojuego el Crash sucede en 1983. 
+
+En 1983-84, esas consolas como este Colecovision o el Atari 2600, incluso el 5200, se envían a Sudamérica y llegan en precios accesibles acá. Y por eso que se inunda el mercado. Y para mucha gente, como para mí, el Colecovision fue la primer máquina de videojuego que tuvimos. Pero hay que reconocer que en aquel momento uno no tenía grandes expectativas de un videojuego. Uno no esperaba ver un grandísimo juego de fútbol. Estaba el juego de Rocky en el Coleco, pero era malo el juego de Rocky del Coleco. era Stallone contra Mr. T. Pero solamente Stallone contra Mister T. El juego de E.T. del Atari. El propio juego del hombre araña del Atari. El juego del Superman del Atari. Y la gran mayoría de juegos del Coleco. Estas máquinas aún no tenían forma de pausa, no tenían continuación, ni los juegos tenían final. Entonces la industria se acaba. Esto ocurre en el año 82-83 en Occidente. En Estados Unidos, en Europa. Y, consiguientemente, también lo que pasa en Sudamérica. Pero ¿qué pasaba… en la otra parte del mundo?. ¿Qué pasaba… en Oriente?, ¿No es cierto?, ¿Qué pasaba… en Japón?.
+
+En Japón había una empresa, no muy grande, de desarrollo de productos electrónicos, que se llamaba SEGA, que había sacado una consola de poder similar al Colecovision, que tenía un gran éxito en Japón, principalmente por los colores y por tener juegos mejores, incluso que el Atari 2600. El Atari Pong y el Atari 2600 también existían en Japón y eran distribuidos por otra juguetería. En este caso, una juguetería que tenía un gran historial en el desarrollo de naipes, juguetes de madera, cuando salían juguetes de madera, juguetes de chapa, cuando salían juguetes de chapa, de cuerda, cuando salían de cuerda, de pila, cuando salían de pila, y, cuando salían juguetes de video, los videojuegos. Ahí estaba también Nintendo distribuyendo las consolas. En este caso, al ver el éxito del SG-1000, deciden sacar su propia consola. Su propia consola, basada en la ganancia que había tenido Nintendo, tanto con el juego Donkey Kong para arcades, los mal llamados fichines.
+
+Los fichines ahora, porque a partir de nivel X, antes no se llamaban fichines ni Arcades eran los videos o videojuegos. Pero bueno sin irnos por las ramas, digamos que Donkey Kong, que era el gran título rendidor de Nintendo, que había tenido un Donkey Kong Jr., un Donkey Kong 2, donde Mario es malo, que no había tenido tanto éxito y es parte del crash, digamos, del videojuego. Había otro terreno donde Nintendo triunfaba, y era el terreno de las portátiles. ¿Tenemos alguna portátil acá para ver?
+
+[muestra el donkey kong del game & watch]
+Esto es el Donkey Kong que estaba en los videojuegos, muy parecido, pero portatil, hoy es algo de coleccionismo. Estamos hablando del año 82 y tenía un solo juego, solo el Donkey Kong. Es un solo juego, dos pilas de reloj. Con el personaje que van apareciendo diferentes gráficos pre-dibujados, digamos, como si fuese la definición gráfica de una calculadora. Es una calculadora con dibujitos muy lindos.
+
+Otro fue el Fire. Este ya era así. Era una pantallita, pero no era doble, un poco más económico, pero no eran dobles pantallas, pero lo particular de esto que tenía traía una patita. entonces este tenía despertador y reloj.
+
+Emilio: Ya estamos en el año 84, 85 y Nintendo nos mostraba esto. Era furor en Japón, en Estados Unidos, en Indonesia, en donde fuere.
+
+[MUESTRA LA PANORAMA SCREEN]
+Esto es a color directamente. Tenía doble, un espejo, entonces aparecía el juego directamente abajo. Y la particularidad es que era a color. Esto ya era lo TOP.
+
+Entonces Nintendo, en aquel momento, no tenía competencia con este tipo de máquinas.
+
+NOTA: Ni la tiene hoy
+
+Bueno, a lo que voy es que en aquel momento no la tenía y le permitía tener grandes dividendos, junto con los dividendos que había permitido el Donkey Kong y la propia distribución de Atari en Japón. Entonces lanzó su propia consola. Fue llamada el Famicom, el Family Computer. En el año 83-84. Con una serie de juegos que eran esos, jugables. O sea, un sistema de 8 bits también como el Coleco, un poco más poderoso que el Atari. Un sistema hogareño que tenía grandísimos juegos, como hoy la gente puede recordar, así en  1942. Battle City, Excitebike, Circus Charlie, Mappy, Antarctic Adventure y muchos más, que tuvieron un enorme éxito, que cambiaron la concepción del videojuego y que en 1985 iban a ser presentados en Estados Unidos para ver cómo funcionaban, con, en este caso, un excelente truco comercial, como lo vamos a estar viendo, y la presentación de quien es seguramente el personaje más importante de la primera historia y seguramente, hasta el día de hoy, de la historia de los videojuegos, me refiero a Super Mario Bros.
+
+[RELACIONADO A ARGENTINA]
+NOTA: Vamos a ir haciendo referencia a la salida oficial de las consolas en Estados Unidos pero vamos a ir viendo cómo estaba la mano acá en Argentina también, siempre un poco más tarde, todo en Argentina; pero vamos a ir informando cómo se fue dando la mano, que es como arrancamos nosotros, ¿no es cierto? SACA UN INFORME ESPECIFICO AQUI
+
+
+[RELACIONADO A EMILIO]
+Nunca tuvo Game & Watch, 

@@ -12,6 +12,8 @@ FECHA: XXXX-XX-XX | ESTADO: T4 (INTEGRACIÓN / INFORME FINAL)
 
 TIMESTAMPS DE INTERÉS: 
 
+  - 11:21 Nintendo no saco el Family Computer al ver el exito del SG-1000. Ambas consolas salieron el mismo dia a la venta. Fuente: https://archive.org/details/game-machine-magazine-19850715p/page/n8/mode/1up
+
 NOTAS: 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -354,7 +356,7 @@ Fue llamada el Famicom, sí?
 El Familycomputer.
 En el año 83-84.
 Con una serie de juegos que eran esos, jugables.
-O sea, un sistema de 8 bits también como el Codeco, un poco más poderoso que el Atari.
+O sea, un sistema de 8 bits también como el Coleco, un poco más poderoso que el Atari.
 Nadir: hogareño, hogareño
 Emilio: Un sistema hogareño que tenía grandísimos juegos, como hoy la gente puede recordar, así en 1942.
 Battle City, Excitebike. 
