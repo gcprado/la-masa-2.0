@@ -32,7 +32,12 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🔴 PENDIENTES
 
+- lo mejor que jugue
+- evolucion del videjuego por decadas
+- evolucion del juego del año
+- top 5 de mi vida
 - Informe la masa 5 y 6
+- debut de tdv
 
 ---
 
