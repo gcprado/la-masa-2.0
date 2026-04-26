@@ -6,7 +6,7 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🟢 INTEGRACIÓN FINAL (T4)
 
-- (lista cronológica de vídeos por añadir)
+- Informe la masa 1 y 2
 
 ---
 
@@ -20,11 +20,12 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 - [20120623 - Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=vJ0p7iAndXU): OK
 - [20120625 - Informes LA MASA ｜ Nº2 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=wxnOS1WXNsc): OK
-- 
 ---
 
 ## 🟠 TRANSCRIPCIÓN BRUTA (T1)
 
+- [20240512 - TOP 5 DE MI VIDA, Parte 2: Family Game](https://www.youtube.com/watch?v=xtyfwhRCEgY): ~0%
+- [20240412 - TOP 5 DE MI VIDA, Parte 1： Colecovision](https://www.youtube.com/watch?v=HEJUk9C1TnU): ~0%
 - [20120815 - Informes LA MASA ｜ Nº4 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=POLYmWpNFZ4): ~100%
 - [20120711 - Informes LA MASA ｜ Nº3 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=er3JOh96jPY): ~100%
 
@@ -50,7 +51,7 @@ Cada archivo debe comenzar con el siguiente formato:
 ```text
 REGISTRO DOCUMENTAL: LA MASA 2.0
 TITULO:
-SERIE: ver mas abajo lo refente a SERIE
+SERIE: ver mas abajo lo referente a SERIE
 FECHA ORIGINAL: YYYY-MM-DD (*)
 BACKUP: 720p@1234kbps H.264 - 4.3GB (.mp4)
 
