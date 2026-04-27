@@ -19,8 +19,8 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 ## 🟡 ESTRUCTURACIÓN (T2)
 
 - top five 5,6 y 7
-- [20240730 - TOP 5 DE MI VIDA, Parte 4： Nintendo 64 y Playstation 1](https://www.youtube.com/watch?v=PPWq7Ucvu0U): OK
-- [20240611 - TOP 5 DE MI VIDA, Parte 3： Sega y Super Nintendo](https://www.youtube.com/watch?v=qS10MAa_glo): OK
+- [20240730 - TOP 5 DE MI VIDA, Parte 4： Nintendo 64 y Playstation 1](https://www.youtube.com/watch?v=PPWq7Ucvu0U): OKOP
+- [20240611 - TOP 5 DE MI VIDA, Parte 3： Sega y Super Nintendo](https://www.youtube.com/watch?v=qS10MAa_glo): OKOP
 - [20240512 - TOP 5 DE MI VIDA, Parte 2: Family Game](https://www.youtube.com/watch?v=xtyfwhRCEgY): OK
 - [20240412 - TOP 5 DE MI VIDA, Parte 1： Colecovision](https://www.youtube.com/watch?v=HEJUk9C1TnU): OK
 - [20120625 - Informes LA MASA ｜ Nº2 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=wxnOS1WXNsc): OK
