@@ -18,7 +18,16 @@ NOTAS:
 
 --------------------------------------------------------------------------------------------------------------------
 
+Utiles base:
 [00:00]
-
 [FIN]
+
+Utiles T3:
+[REFERENTE A INFORME GENERAL]
+[REFERENTE A INFORMES ESPECIFICOS]
+[REFERENTE A CRONOLOGIA]
+[REFERENTE A PUNTAJES]
+[REFERENTE A EMILIO JUEGOS]
+[REFERENTE A EMILIO PERSONAL]
+
 
