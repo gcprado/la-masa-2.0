@@ -31,8 +31,8 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 - [20241127 - TOP 5 DE MI VIDA, Parte 7： Playstation 4, Xbox One y Nintendo Wii U ⧸ Switch](https://www.youtube.com/watch?v=Tv6UbtvJBWk): ~0%
 - [20240918 - TOP 5 DE MI VIDA, Parte 6： Playstation 3, Xbox 360 y Nintendo Wii](https://www.youtube.com/watch?v=ZyXF755fu4s): ~0%
 - [20240815 - TOP 5 DE MI VIDA, Parte 5： Playstation 2 y Nintendo Gamecube](https://www.youtube.com/watch?v=Yzy8de4qR1g): ~0%
-- [20240730 - TOP 5 DE MI VIDA, Parte 4： Nintendo 64 y Playstation 1](https://www.youtube.com/watch?v=PPWq7Ucvu0U): ~0%
-- [20240611 - TOP 5 DE MI VIDA, Parte 3： Sega y Super Nintendo](https://www.youtube.com/watch?v=qS10MAa_glo): ~0%
+- [20240730 - TOP 5 DE MI VIDA, Parte 4： Nintendo 64 y Playstation 1](https://www.youtube.com/watch?v=PPWq7Ucvu0U): ~100%
+- [20240611 - TOP 5 DE MI VIDA, Parte 3： Sega y Super Nintendo](https://www.youtube.com/watch?v=qS10MAa_glo): ~100%
 - [20120815 - Informes LA MASA ｜ Nº5 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=nOV-w09tos8): ~0%
 - [20120815 - Informes LA MASA ｜ Nº4 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=POLYmWpNFZ4): ~100%
 - [20120711 - Informes LA MASA ｜ Nº3 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=er3JOh96jPY): ~100%
