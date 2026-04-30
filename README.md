@@ -31,6 +31,7 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🟠 TRANSCRIPCIÓN BRUTA (T1)
 
+- [20250417 - EVOLUCIÓN del TOP 10 de Videojuegos de 2010 a 2023 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=rhp777V5z3I): ~0%
 - [20250309 - EVOLUCIÓN del TOP 10 de Videojuegos de los 2000 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=3uFkR43tHes): ~0%
 - [20250223 - EVOLUCIÓN del TOP 10 de Videojuegos de los '90 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=lalKFeuOXCA): ~0%
 - [20250218 - EVOLUCIÓN del TOP 10 de Videojuegos de los '80 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=PftT2SEzKVU): ~0%
@@ -43,7 +44,6 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🔴 PENDIENTES
 
-- evolucion del videjuego decada 2010
 - lo mejor que jugue
 - evolucion del juego del año
 - Informe la masa 5 y 6
