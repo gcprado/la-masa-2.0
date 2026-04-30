@@ -16,7 +16,7 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ---
 
-## 🟡 ESTRUCTURACIÓN (T2)
+## 🟡 TRANSCRIPCIÓN ORDENADA (T2)
 
 - [20240918 - TOP 5 DE MI VIDA, Parte 6： Playstation 3, Xbox 360 y Nintendo Wii](https://www.youtube.com/watch?v=ZyXF755fu4s): OK
 - [20240815 - TOP 5 DE MI VIDA, Parte 5： Playstation 2 y Nintendo Gamecube](https://www.youtube.com/watch?v=Yzy8de4qR1g): OK
@@ -31,7 +31,10 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🟠 TRANSCRIPCIÓN BRUTA (T1)
 
-- [20241127 - TOP 5 DE MI VIDA, Parte 7： Playstation 4, Xbox One y Nintendo Wii U ⧸ Switch](https://www.youtube.com/watch?v=Tv6UbtvJBWk): ~0%
+- [20250309 - EVOLUCIÓN del TOP 10 de Videojuegos de los 2000 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=3uFkR43tHes): ~0%
+- [20250223 - EVOLUCIÓN del TOP 10 de Videojuegos de los '90 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=lalKFeuOXCA): ~0%
+- [20250218 - EVOLUCIÓN del TOP 10 de Videojuegos de los '80 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=PftT2SEzKVU): ~0%
+- [20241127 - TOP 5 DE MI VIDA, Parte 7： Playstation 4, Xbox One y Nintendo Wii U ⧸ Switch](https://www.youtube.com/watch?v=Tv6UbtvJBWk): ~100%
 - [20120815 - Informes LA MASA ｜ Nº5 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=nOV-w09tos8): ~0%
 - [20120815 - Informes LA MASA ｜ Nº4 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=POLYmWpNFZ4): ~100% OP
 - [20120711 - Informes LA MASA ｜ Nº3 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=er3JOh96jPY): ~100% OP
@@ -40,8 +43,8 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🔴 PENDIENTES
 
+- evolucion del videjuego decada 2010
 - lo mejor que jugue
-- evolucion del videjuego por decadas
 - evolucion del juego del año
 - Informe la masa 5 y 6
 - debut de tdv
