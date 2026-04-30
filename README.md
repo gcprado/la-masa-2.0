@@ -18,12 +18,13 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🟡 TRANSCRIPCIÓN ORDENADA (T2)
 
-- [20240918 - TOP 5 DE MI VIDA, Parte 6： Playstation 3, Xbox 360 y Nintendo Wii](https://www.youtube.com/watch?v=ZyXF755fu4s): OK
-- [20240815 - TOP 5 DE MI VIDA, Parte 5： Playstation 2 y Nintendo Gamecube](https://www.youtube.com/watch?v=Yzy8de4qR1g): OK
-- [20240730 - TOP 5 DE MI VIDA, Parte 4： Nintendo 64 y Playstation 1](https://www.youtube.com/watch?v=PPWq7Ucvu0U): OK
-- [20240611 - TOP 5 DE MI VIDA, Parte 3： Sega y Super Nintendo](https://www.youtube.com/watch?v=qS10MAa_glo): OK
-- [20240512 - TOP 5 DE MI VIDA, Parte 2: Family Game](https://www.youtube.com/watch?v=xtyfwhRCEgY): OK
-- [20240412 - TOP 5 DE MI VIDA, Parte 1： Colecovision](https://www.youtube.com/watch?v=HEJUk9C1TnU): OK
+- [20240918 - TOP 5 DE MI VIDA, Parte 6: 7ma Generación](https://www.youtube.com/watch?v=ZyXF755fu4s): OK
+- [20240815 - TOP 5 DE MI VIDA, Parte 5: 6ta Generación](https://www.youtube.com/watch?v=Yzy8de4qR1g): OK
+- [20240730 - TOP 5 DE MI VIDA, Parte 4: 5ta Generación](https://www.youtube.com/watch?v=PPWq7Ucvu0U): OK
+- [20240611 - TOP 5 DE MI VIDA, Parte 3: 4ta Generación](https://www.youtube.com/watch?v=qS10MAa_glo): OK
+- [20240512 - TOP 5 DE MI VIDA, Parte 2: 3ra Generación](https://www.youtube.com/watch?v=xtyfwhRCEgY): OK
+- [20240412 - TOP 5 DE MI VIDA, Parte 1: 2da Generación](https://www.youtube.com/watch?v=HEJUk9C1TnU): OK
+
 - [20120625 - Informes LA MASA ｜ Nº2 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=wxnOS1WXNsc): OK
 - [20120623 - Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=vJ0p7iAndXU): OK
 
@@ -31,11 +32,13 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🟠 TRANSCRIPCIÓN BRUTA (T1)
 
-- [20250417 - EVOLUCIÓN del TOP 10 de Videojuegos de 2010 a 2023 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=rhp777V5z3I): ~0%
-- [20250309 - EVOLUCIÓN del TOP 10 de Videojuegos de los 2000 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=3uFkR43tHes): ~0%
-- [20250223 - EVOLUCIÓN del TOP 10 de Videojuegos de los '90 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=lalKFeuOXCA): ~0%
-- [20250218 - EVOLUCIÓN del TOP 10 de Videojuegos de los '80 | Análisis de Tiempo de Videojuegos](https://www.youtube.com/watch?v=PftT2SEzKVU): ~0%
-- [20241127 - TOP 5 DE MI VIDA, Parte 7： Playstation 4, Xbox One y Nintendo Wii U ⧸ Switch](https://www.youtube.com/watch?v=Tv6UbtvJBWk): ~100%
+- [20250417 - EVOLUCIÓN del TOP 10 de Videojuegos de la decada 2010](https://www.youtube.com/watch?v=rhp777V5z3I): ~0%
+- [20250309 - EVOLUCIÓN del TOP 10 de Videojuegos de la decada 2000](https://www.youtube.com/watch?v=3uFkR43tHes): ~0%
+- [20250223 - EVOLUCIÓN del TOP 10 de Videojuegos de la decada 1990](https://www.youtube.com/watch?v=lalKFeuOXCA): ~0%
+- [20250218 - EVOLUCIÓN del TOP 10 de Videojuegos de la decada 1980](https://www.youtube.com/watch?v=PftT2SEzKVU): ~0%
+
+- [20241127 - TOP 5 DE MI VIDA, Parte 7： 8va Generación](https://www.youtube.com/watch?v=Tv6UbtvJBWk): ~100%
+
 - [20120815 - Informes LA MASA ｜ Nº5 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=nOV-w09tos8): ~0%
 - [20120815 - Informes LA MASA ｜ Nº4 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=POLYmWpNFZ4): ~100% OP
 - [20120711 - Informes LA MASA ｜ Nº3 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=er3JOh96jPY): ~100% OP
