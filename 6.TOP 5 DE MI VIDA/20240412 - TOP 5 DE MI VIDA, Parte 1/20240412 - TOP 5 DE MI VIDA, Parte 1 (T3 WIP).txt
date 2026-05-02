@@ -7,22 +7,16 @@ BACKUP: 720p60@1842kbps H.264 - 177.7MB (.mp4)
 DOCUMENTACIÓN:
 FECHA: 2026-04-26 | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 11m:57s ~ 100%
 FECHA: 2026-04-26 | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA) - OK
-FECHA: 2026-05-02 | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL) ~ 30%
+FECHA: 2026-05-02 | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL) ~ 65%
 
 TIMESTAMPS DE INTERÉS: 
- - Nignuno
+ - Ninguno
 
 NOTAS: 
  - Ninguna
 
 --------------------------------------------------------------------------------------------------------------------
-[3:45]
 
-En el puesto número 4, ahí sí hay una diferencia; puesto que este juego es de la primer camada que yo tuve en el coleco en aquella época, y que era uno de los que más jugaba quizás de todo este top. Está en un puesto 4 porque hoy entiendo también los parámetros de calidad que manejaba; acá todavía no podemos hablar de puntajes, los puntajes de la época de coleco son en la gran mayoría insuficientes o como muchos regulares. Lo cierto es que este Cosmic Aveneger es un matamarcianos de la línea de Defender lateral que tenía la habilidad de tener dos botones; uno para disparar y el segundo era para tirar una bomba. Este juego, que se jugaba en la línea del score de tratar de hacer la mayor cantidad de puntos posibles, era de los que yo lograba los mayores récords entonces; nadie hacía tantos puntos como yo en aquel Cosmic Avenger. Que como verán es el único juego de matamarcianos, un género dominante en la segunda generación de consolas con la línea de Space Invaders; pero el único juego de este género que habrá en todos los siguientes tops, te tiro un spoiler, de lo que habrá hasta que lleguemos a la era octava. Estamos en la segunda generación y nunca habrá de nuevo un género de matamarcianos; quiere decir entonces que qué es lo que representa, no si los matamarcianos sino el Cosmic Avenger representa los juegos de acción. Un juego en el que yo frenéticamente tenga que disparar o golpear o trozar lo que fuera en función de ir matando la mayor cantidad de enemigos en pantalla, que eso era el score; hoy es pasar de los niveles. Y de alguna manera el Cosmic Avenger va a ir teniendo una evolución clara, como les digo en otros juegos de acción que irán apareciendo en siguientes tops, en siguientes programas. Este Cosmic Avenger quizás no sea los más conocidos, pero es bastante respetado en el catálogo, bastante limitado si que tiene el Colecovision.
-
-[05:30]
-
-Para el puesto número 3, ahí sí digamos que este top quizás sea más corto porque el Coleco en sí no llegó a tener 100 juegos de catálogo, pero entre todas las personas que tuvieron hay uno de esos juegos que probablemente esté en el top 5 de todos y cada uno de las personas que hayan tenido el Colecovision, y obviamente me refiero al más famoso, el único quizás realmente famoso que tiene este top, que es el Donkey Kong. Donkey Kong junto con Cosmic Avenger fueron los dos juegos iniciales de mi vida en esta etapa del Coleco, como les digo entre el 88 y el 93, y uno entendía que este juego estaba en otro parámetro de calidad. Si bien la figura del personaje que uno maneja todavía más bien era Jumpman, el Saltarín, el Galleguito en mi casa, lo que luego sabríamos que se llamaba Mario, la realidad es que este Donkey Kong es un juego ejemplar de toda la época. Que si bien teniendo solo tres niveles no era para mí lo máximo, aunque manifestaba un sistema de control de salto en el que iba a ser el día de las plataformas de la historia como Super Mario, superior a lo que habíamos por ejemplo en juegos como El pitufo, la realidad es que era bastante difícil. Pero no podemos dejarlo afuera por una cuestión de que también tenía algo que a los demás le faltaba bastante… como música. El Donkey Kong obviamente es el primer gran juego de la factoría Nintendo, quizás hoy la empresa más grande en relación con el mundo de los videojuegos, y si bien este Colecovision no era el Nintendo, sí decía Nintendo de cartuchito del Donkey Kong, y uno sabía que algo grande se armaba por esos lares, que iba a crecer mucho con el correr de los tops que iremos viendo en siguientes programas. Ahora cuando termine con los tops voy a hacer una referencia general de todos, pero poder llegar ahora a lo que son los primeros dos puestos en una etapa como les digo un Coleco que no tiene una gran cantidad de juegos de una calidad excelsa; puesto que digamos que incluso no estarían en los 60 o 50, no importa el puntaje, esto es previo al renacimiento de los videojuegos que supone la tercera generación. Pero hay dos juegos que si bien eran de mi conocimiento en aquella época, con el correr de los años habiendo encontrado a otras personas que también los conocieron, casi todos coincidimos que están entre lo mejor que supo entregar el Coleco. La particularidad de mi caso es que ambos estaban en un mismo cartucho que existía en aquel momento con una palanquita que vos podías tener uno u otro juego, y ese mismo cartucho, obviamente considerado el santo grial, incluía el segundo y el primer puesto de este top 5.
 
 [07:50]
 
@@ -46,10 +40,35 @@ uno puede identificar que aproximadamente cada 5 o 6 años los ciclos de las con
 --------------------------------------------------------------------------------------------------------------------
 [REFERENTE A INFORMES ESPECIFICOS]
 
+--------------------------------------------------------------------------------------------------------------------
+[REFERENTE A CRONOLOGÍA]
+
+Consolas mencionadas:
+- ColecoVision
+- Atari
+
+Videojuegos mencionados:
+- Space Invaders (1978)
+- Donkey Kong (1981)
+- Defender (1981)
+- Venture (1982)
+- The Smurfs (1982)
+- Rocky (1982)
+- Keystone Kapers (1983)
+- Cosmic Avenger (1983)
+- Super Mario Bros. (1985)
+
+--------------------------------------------------------------------------------------------------------------------
+[REFERENTE A PUNTAJES]
+
+- La mayoria de juegos de coleco no llega ni a 50 puntos: https://youtu.be/HEJUk9C1TnU?si=yIdikfhXgNzHW5eo&t=433
+--------------------------------------------------------------------------------------------------------------------
+[REFERENTE A EMILIO JUEGOS]
+
 Introduccion al TOP 5 DE MI VIDA:
 Siempre me ha resultado algo muy propio —casi una necesidad, si soy honesto— identificar cuáles han sido los cinco videojuegos más importantes que han definido mi gusto por este medio, y que a su vez funcionan como una referencia para evaluar el periodo que uno vivió en una determinada generación, aquellos que fueron la justificación para continuar siendo gamer con el correr de los años. No los mejores. No los más revolucionarios. Los míos.
 
-Porque al final, si uno se detenie a pensarlo, se da cuenta de que ser gamer no es solo una afición que se arrastra por inercia, es una construcción. Y esto, en realidad, se refiere sobre todo a esa primera etapa de juegos que uno experimenta, la que termina definiendo el punto de partida de todo lo demás. Quizá no haga falta ponerse excesivamente filosófico, pero sí entender una cosa: esta contruccion es esa serie de elecciones tempranas que, sin que lo supieras en ese momento, terminaron moldeando tu criterio, tu sensibilidad, incluso tu forma de enfrentarte a un juego.
+Porque al final, si uno se detiene a pensarlo, se da cuenta de que ser gamer no es solo una afición que se arrastra por inercia, es una construcción. Y esto, en realidad, se refiere sobre todo a esa primera etapa de juegos que uno experimenta, la que termina definiendo el punto de partida de todo lo demás. Quizá no haga falta ponerse excesivamente filosófico, pero sí entender una cosa: esta contruccion es esa serie de elecciones tempranas que, sin que lo supieras en ese momento, terminaron moldeando tu criterio, tu sensibilidad, incluso tu forma de enfrentarte a un juego.
 
 La primera generación de consolas que yo tuve corresponde a la segunda generación, la era donde el Atari era dominante y a mí me tocó tener el Colecovision. De ahí que empiece por hacer un top 5 de los juegos que me toco jugar entre el año en que la compré en 1988 y el año que aquella Coleco (una máquina que, vista hoy, podría parecer una nota al pie en la historia del videojuego… pero que para mí fue el origen de todo) fue reemplazada, en 1993, por la siguiente consola.
 
@@ -74,29 +93,31 @@ Uno no quería simplemente jugar; quería controlar algo que ya existía en su i
 
 Por eso, más allá de su calidad objetiva, este juego ocupa el puesto número cinco, como una primera manifestación de algo que después sería constante: la importancia de poder interactuar con personajes que ya formaban parte de mi imaginario.
 
---------------------------------------------------------------------------------------------------------------------
-[REFERENTE A CRONOLOGÍA]
+PUESTO NUMERO 4:
+En el puesto número cuatro ya aparece una diferencia clara, puesto que este es parte de la primera camada de juegos que tuve en la ColecoVision, y probablemente uno de los que más jugué dentro de todo este Top 5.
 
-Consolas:
-- ColecoVision
-- Atari
+Su posición, sin embargo, también tiene que ver con una lectura posterior. Hoy es posible entender mejor los parámetros de calidad con los que operaban estos títulos. En esta etapa todavía no tiene demasiado sentido hablar de puntajes: gran parte del catálogo de ColecoVision se mueve entre lo insuficiente y lo simplemente correcto. Y aun así, algunos juegos lograban imponerse.
 
-Videojuegos:
-- Keystone Kapers (1983)
-- Venture (1982)
-- The Smurfs (1982)
-- Rocky (1982)
+Ese es el caso de Cosmic Avenger. Un matamarcianos de desplazamiento lateral, claramente heredero de la línea de Defender, que incorporaba dos acciones básicas: disparo y bomba. Era un juego construido alrededor del score, de la acumulación de puntos, de resistir lo máximo posible. En aquel Cosmic Avenger, yo lograba los mayores récords para entonces, nadie hacía tantos puntos como yo.
 
---------------------------------------------------------------------------------------------------------------------
-[REFERENTE A PUNTAJES]
+Este tiene la particularidad de ser el único matamarcianos de todo el Top… y, de hecho, el único que aparecerá en todos los siguientes. Un género absolutamente dominante en la segunda generación, con Space Invaders a la cabeza, que, sin embargo, desaparece por completo de mi recorrido personal a partir de aquí, y eso no es casual. Porque más que representar a los matamarcianos como género, Cosmic Avenger representa los juegos de acción. La idea de un juego en el que se tenga que pulsar frenéticamente el botoncito para disparar, golpear, trocear, lo que fuera en función de ir mermando la mayor cantidad de enemigos en pantalla. Algo que luego evoluciona a sistemas más complejos, con progresión de niveles. Pero en ese momento, todo estaba condensado en esa lógica de hacer crecer el numerito.
 
---------------------------------------------------------------------------------------------------------------------
-[REFERENTE A EMILIO JUEGOS]
+Cosmic Avenger no es el juego más recordado, aunque sí es respetado dentro del limitado catálogo del Coleco. En este contexto ocupa el puesto número cuatro porque funciona como punto de partida de algo que se va a desarrollar más adelante: mi relación con los juegos de acción, entendidos no como género específico, sino como una forma de interactuar con el videojuego.
 
-Primera consola:
-- ColecoVision, período 1988–1993
+PUESTO NUMERO 3:
+La ColecoVision con su catálogo limitado, probablemente no superior a los cien juegos tenia un título que que si uno habla con cualquiera que haya tenido la consola, siempre es mencionado. El más famoso, el único quizás realmente famoso, el Donkey Kong, que junto con Cosmic Avenger fueron los dos juegos iniciales de mi vida en esta etapa del Coleco, entre 1988 y el 1993, ya desde entoces uno percibia que este juego estaba en otro nivel de calidad. 
 
-Vio Los Pitufos de niño, por eso jugó al juego, aunque en realidad lo que le gustaban eran los superhéroes: Hulk, Superman y Spider-Man.
+Aunque el personaje que uno controla todavía no era “Mario” como lo conocemos hoy, sino Jumpman —el “saltarin”, el “galleguito” en mi casa—, la realidad es que este Donkey Kong ya funcionaba como un prototipo perfecto de lo que luego serían las plataformas modernas. Porque a pesar de tener solo tres nievles, al compararlo con juegos como Los Pitufos, la diferencia era evidente: aquí el salto manifstaba una precision y control superior. Y aunque todavía estaba lejos de la sofisticación que vendría después con títulos como Super Mario Bros., ya había una idea clara de diseño detrás.
+
+Aun así, no era un juego perfecto ni mucho menos sencillo. De hecho, era bastante exigente. Pero tenía algo que muchos otros no: música. Y en aquel contexto, eso ya lo distinguía de forma inmediata.
+
+Donkey Kong es, además, el primer gran título de la factoría Nintendo, una compañía que con el tiempo se convertiría en una de las más importantes de la historia del videojuego. Y si bien esta ColecoVision no era “Nintendo”, el cartucho si lo dejaba claro: decía Nintendo. Y uno sabia que algo grande se armaba por esos lares.
+
+PUESTO NUMERO 2:
+En aquel escaso catálogo del Coleco, quizá la mayoría de sus juegos no resistirían una evaluación moderna estricta, muchos ni siquiera llegan a los 50 puntos; no importa el puntaje, esto es previo al renacimiento de los videojuegos. Pero hay dos títulos que, con el correr de los años y habiendo encontrado a otras personas que también los conocieron, casi todos coincidimos en que están entre lo mejor que supo entregar el Coleco.
+
+En mi caso particular, ambos estaban contenidos en un mismo cartucho que, con una pequeña palanca, permitía seleccionar uno u otro juego. Ese cartucho, considerado como el “santo grial” de la consola, incluía los puestos número dos y uno de este Top 5.
+
 --------------------------------------------------------------------------------------------------------------------
 [REFERENTE A EMILIO PERSONAL]
 
@@ -113,6 +134,9 @@ sinonimos:
 los representativos
 los mas influyentes
 cinco juegos que fijarían el rumbo de todo lo que vino después[usarlo al final:].
+
+idea para juegos de score:
+Era una competencia implícita, una especie de dominio personal sobre un sistema simple pero exigente. No había progresión en niveles como hoy la entendemos; lo que había era resistencia, reflejos y consistencia.
 
 --------------------------------------------------------------------------------------------------------------------
 [LINKS DE INTERES] (video o timestamp)
