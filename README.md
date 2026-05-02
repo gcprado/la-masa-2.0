@@ -37,7 +37,7 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 - [20250223 - EVOLUCIÓN del TOP 10 de Videojuegos de la decada 1990](https://www.youtube.com/watch?v=lalKFeuOXCA): ~0%
 - [20250218 - EVOLUCIÓN del TOP 10 de Videojuegos de la decada 1980](https://www.youtube.com/watch?v=PftT2SEzKVU): ~0%
 
-- [20241127 - TOP 5 DE MI VIDA, Parte 7： 8va Generación](https://www.youtube.com/watch?v=Tv6UbtvJBWk): ~100%
+- [20241127 - TOP 5 DE MI VIDA, Parte 7: 8va Generación](https://www.youtube.com/watch?v=Tv6UbtvJBWk): ~100%
 
 - [20120815 - Informes LA MASA ｜ Nº5 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=nOV-w09tos8): ~0%
 - [20120815 - Informes LA MASA ｜ Nº4 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=POLYmWpNFZ4): ~100% OP
@@ -49,8 +49,8 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 - lo mejor que jugue
 - evolucion del juego del año
-- Informe la masa 5 y 6
-- debut de tdv
+- Informe la masa 6
+- debut de tdv los 4 (parte 1 y 2 + puntajes + goty revisionimso historico)
 - criterio de puntajes
 - puntajes por generacion
 
