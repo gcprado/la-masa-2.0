@@ -12,7 +12,7 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🔵 EDICIÓN FINAL (T3)
 
-- Informe la masa 1 y 2
+- [20240412 - TOP 5 DE MI VIDA, Parte 1: 2da Generación](https://www.youtube.com/watch?v=HEJUk9C1TnU): ~30%
 
 ---
 
@@ -23,7 +23,6 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 - [20240730 - TOP 5 DE MI VIDA, Parte 4: 5ta Generación](https://www.youtube.com/watch?v=PPWq7Ucvu0U): OK
 - [20240611 - TOP 5 DE MI VIDA, Parte 3: 4ta Generación](https://www.youtube.com/watch?v=qS10MAa_glo): OK
 - [20240512 - TOP 5 DE MI VIDA, Parte 2: 3ra Generación](https://www.youtube.com/watch?v=xtyfwhRCEgY): OK
-- [20240412 - TOP 5 DE MI VIDA, Parte 1: 2da Generación](https://www.youtube.com/watch?v=HEJUk9C1TnU): OK
 
 - [20120625 - Informes LA MASA ｜ Nº2 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=wxnOS1WXNsc): OK
 - [20120623 - Informes LA MASA ｜ Nº1 ｜ Historia de los Videojuegos](https://www.youtube.com/watch?v=vJ0p7iAndXU): OK
