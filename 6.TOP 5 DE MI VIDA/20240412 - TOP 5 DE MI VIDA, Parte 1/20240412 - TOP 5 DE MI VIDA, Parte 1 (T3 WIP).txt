@@ -7,7 +7,7 @@ BACKUP: 720p60@1842kbps H.264 - 177.7MB (.mp4)
 DOCUMENTACIÓN:
 FECHA: 2026-04-26 | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 11m:57s ~ 100%
 FECHA: 2026-04-26 | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA) - OK
-FECHA: 2026-05-02 | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL) ~ 65%
+FECHA: 2026-05-02 | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL) ~ 80%
 
 TIMESTAMPS DE INTERÉS: 
  - Ninguno
@@ -17,14 +17,33 @@ NOTAS:
 
 --------------------------------------------------------------------------------------------------------------------
 
+El puesto número uno de este Top 5 corresponde a un juego de 1984, prácticamente del la última etapa de juegos del Coleco, y que ya mostraba un salto técnico evidente incluso frente a versiones en otros sistemas como Commodore 64 o Atari 2600.
 
-[07:50]
+Se trata de H.E.R.O. (Helicopter Emergency Rescue Operation), también conocido como Helicoptero de Rescate acá en la Argentina. Era un en el que controlábamos a un personaje con camiseta azul, casco, y una mochila de helice que le permitía volar brevemente. A esto se sumaban dos mecánicas clave: un rayo láser y la colocación de explosivos, que obligaban al jugador a tomar distancia para no eliminarse a sí mismo.
 
-En el segundo lugar entonces encontramos a un juego de plataformas con un sistema no lineal de salto, no solamente hacia la derecha sino que podías ir hacia la izquierda, con un sistema de search action antes de la existencia incluso del famoso Metroid; me refiero al Moctezuma's Revenge, que es de una capacidad de salto superior incluso de Super Mario, un juego que había que agarrar llaves de un mismo color para abrir puertas de ese mismo color, algunas monedas para poder después tener la posibilidad de adquirir nuevas vidas, en un trayecto que era difícil de entender en un mapeado propio de una etapa claramente precámbrica del videojuego. Por el Moctezuma's Revenge parecía ser lo que de alguna manera se gestaba como los juegos de aventura; si los Pitufos era algo que yo quiera manejar, el Cosmic Avenger era algo de acción, el Donkey Kong era el juego de saltar, esto era la aventura, que luego tendría otros títulos que la referencien. Pero de acá yo salía a jugar el Moctezuma's Revenge sin saber bien para dónde ir y qué podía pasar. Moctezuma's Revenge es para muchos el mejor juego de ColecoVision y yo lo pongo solamente segundo en un juego que compartía cartucho, siendo como le digo el santo grial de los cartuchos, puesto que para mí está muy bien, pero el otro es solamente que está un poco mejor.
+El objetivo era avanzar y descender a través de cavernas, abrirse paso entre obstáculos, y rescatar personas atrapadas en un entorno que remitía claramente a esa estética de cosmico-espacial con ciencia ficción que dominaba la época —muy en la línea de lo que había instalado Alien en el imaginario colectivo.
+
+Pero lo importante no era solo su ambientación ni sus herramientas, sino su estructura.
+
+Si lo comparamos con otros juegos de este mismo Top, como Donkey Kong que se limitaban a repetir tres niveles, o el Pitufo que era solo un nivel largo, simplemente giraban en torno al score como el Cosmic Avenger, H.E.R.O. proponía una progresión real con niveles diferenciados, cada uno con difentes ambientaciones, dificultad creciente, sensación de avance. Llegué a ver niveles cercanos al 20, yo mismo lograba avanzar hasta el nivel 15, 16 de ese tal H.E.R.O..
+
+Si Moctezuma’s Revenge insinuaba la exploración, H.E.R.O. consolidaba una idea más clara: la combinación entre acción y descubrimiento. Todavía no podemos hablar de rol, ni de sistemas complejos, pero sí de una tendencia. Una forma de jugar que exigía algo más que reflejos: exigía entender, anticipar, resolver.
+
+Y ahí es donde ambos juegos —el segundo y el primero— marcan una dirección que va a continuar en los siguientes años: un tipo de experiencia más pausada, más reflexiva, más cercana al goce intelectual que a la pura reacción inmediata.
 
 [09:05]
 
-El puesto número 1 de este top 5 de Coleco de mi historia corresponde a un juego de 1984, de la última etapa prácticamente de juegos de Coleco, con una calidad técnica superior a las mismas versiones del otro juego en otros sistemas como Commodore 64 y el Atari 2600, pero era multiplataforma; me refiero al HERO. El HERO, también conocido como Helicóptero de rescate en la Argentina, era un juego lateral de un personaje de remerita azul, un casquito, que tiene como una mochilita con una hélice que le permite disparar un rayito rojo láser y poner una bombita, pero tiene que alejarse porque si no su propia bomba puede matarlo, para abrir unas puertas que a veces requiere la bomba, a veces no, y tratar de ir rescatando al secuestrado en un planeta de la línea lo cósmico espacial, un planeta abandonado muy a la línea de lo que había sido una película de ese tiempo Alien. Antes también, antes también de la existencia de Metroid, será una [ININTELIGIBLE] Moctezuma Revenge y Hero lo veremos en siguientes top; lo importante es que el Hero sí tenía un sistema de niveles, pero comparado con los tres niveles que tienen juegos de este mismo top como Donkey Kong o el Pitufo, que era un nivel largo que llegaba siempre al mismo final, la realidad es que yo recuerdo haber visto hasta el nivel 20; yo llegaba a nivel 15, 16 de este tal Hero, que era un juego que mostraba lo que iba a ser el futuro en cuanto a juegos de acción de investigación. Capaz sin hablar todavía de rol, pero entre estos dos, el Hero y el Moctezuma Revenge claramente iba a una tendencia que iba a marcar un juego con un goce más intelectual que lo que me iba a identificar. Un Donkey Kong que sería para el top de cualquiera un juego obviamente elegido y justo de nominar que también marcaría una relación para con Nintendo. Un Cosmic Avenger que es algo más bien personal, como les digo ubica a los juegos de acción, pero es muy difícil que en un top 5 de esta época cualquiera tenga fuera a un juego de matamarcianos. Y un Pitufo que entiendo que si bien explicando las circunstancias personales de que yo era un niño entonces por estas mismas características está en el top 5 de más de uno.
+Antes también, antes también de la existencia de Metroid, 
+
+lo importante es que el Hero sí tenía un sistema de niveles, pero comparado con los tres niveles que tienen juegos de este mismo top como Donkey Kong o el Pitufo, que era un nivel largo que llegaba siempre al mismo final,
+
+un juego que mostraba lo que iba a ser el futuro en cuanto a juegos de acción de investigación. Capaz sin hablar todavía de rol, pero entre estos dos, el Hero y el Moctezuma Revenge claramente iba a una tendencia que iba a marcar un juego con un goce más intelectual que lo que me iba a identificar. 
+
+Un Donkey Kong que sería para el top de cualquiera un juego obviamente elegido y justo de nominar que también marcaría una relación para con Nintendo. 
+
+Un Cosmic Avenger que es algo más bien personal, como les digo ubica a los juegos de acción, pero es muy difícil que en un top 5 de esta época cualquiera tenga fuera a un juego de matamarcianos. 
+
+Y un Pitufo que entiendo que si bien explicando las circunstancias personales de que yo era un niño entonces por estas mismas características está en el top 5 de más de uno.
 
 [11:10]
 
@@ -107,7 +126,7 @@ Cosmic Avenger no es el juego más recordado, aunque sí es respetado dentro del
 PUESTO NUMERO 3:
 La ColecoVision con su catálogo limitado, probablemente no superior a los cien juegos tenia un título que que si uno habla con cualquiera que haya tenido la consola, siempre es mencionado. El más famoso, el único quizás realmente famoso, el Donkey Kong, que junto con Cosmic Avenger fueron los dos juegos iniciales de mi vida en esta etapa del Coleco, entre 1988 y el 1993, ya desde entoces uno percibia que este juego estaba en otro nivel de calidad. 
 
-Aunque el personaje que uno controla todavía no era “Mario” como lo conocemos hoy, sino Jumpman —el “saltarin”, el “galleguito” en mi casa—, la realidad es que este Donkey Kong ya funcionaba como un prototipo perfecto de lo que luego serían las plataformas modernas. Porque a pesar de tener solo tres nievles, al compararlo con juegos como Los Pitufos, la diferencia era evidente: aquí el salto manifstaba una precision y control superior. Y aunque todavía estaba lejos de la sofisticación que vendría después con títulos como Super Mario Bros., ya había una idea clara de diseño detrás.
+Aunque el personaje que uno controla todavía no era “Mario” como lo conocemos hoy, sino Jumpman —el “saltarin”, el “galleguito” en mi casa—, la realidad es que este Donkey Kong ya funcionaba como un prototipo perfecto de lo que luego serían las plataformas modernas. Porque a pesar de tener solo tres nievles, al compararlo con juegos como Los Pitufos, la diferencia era evidente: aquí el salto manifestaba una precision y control superior. Y aunque todavía estaba lejos de la sofisticación que vendría después con títulos como Super Mario Bros., ya había una idea clara de diseño detrás.
 
 Aun así, no era un juego perfecto ni mucho menos sencillo. De hecho, era bastante exigente. Pero tenía algo que muchos otros no: música. Y en aquel contexto, eso ya lo distinguía de forma inmediata.
 
@@ -116,13 +135,29 @@ Donkey Kong es, además, el primer gran título de la factoría Nintendo, una co
 PUESTO NUMERO 2:
 En aquel escaso catálogo del Coleco, quizá la mayoría de sus juegos no resistirían una evaluación moderna estricta, muchos ni siquiera llegan a los 50 puntos; no importa el puntaje, esto es previo al renacimiento de los videojuegos. Pero hay dos títulos que, con el correr de los años y habiendo encontrado a otras personas que también los conocieron, casi todos coincidimos en que están entre lo mejor que supo entregar el Coleco.
 
-En mi caso particular, ambos estaban contenidos en un mismo cartucho que, con una pequeña palanca, permitía seleccionar uno u otro juego. Ese cartucho, considerado como el “santo grial” de la consola, incluía los puestos número dos y uno de este Top 5.
+En mi caso particular, ambos estaban contenidos en un mismo cartucho que, con una pequeña palanca, permitía seleccionar uno u otro juego. Ese cartucho, considerado como el “santo grial” de los cartuchos, incluía los puestos número dos y uno de este Top 5.
 
+En el segundo lugar lo ocupa un juego de plataformas, con capacidad de salto superior inclso a Super Mario, con un sistema no lineal, es decir, ya no se limitaba a avanzar hacia la derecha, sino que proponía un desplazamiento en múltiples direcciones, con un sistema de exploración que hoy podríamos identificar como una forma primitiva de search-action, incluso anterior a referentes como Metroid. En aquel momento, sin embargo, no había categorías claras para describirlo: simplemente era distinto. era: Moctezuma’s Revenge.
+
+El juego se estructuraba en torno a la recolección de llaves de distintos colores para abrir puertas correspondientes, la obtención de monedas para sumar vidas, y un recorrido laberíntico difícil de descifrar, sin mapas, ni indicaciones, algo propio de una etapa todavía “precámbrica”, aún, del videojuego.
+
+Y ahí estaba su fuerza.
+
+Si Los Pitufos representaban el deseo de controlar algo conocido, si Cosmic Avenger encarnaba la acción pura, y Donkey Kong establecía las bases del salto, Moctezuma’s Revenge era otra cosa: era la aventura.
+
+Una aventura en el sentido más literal. Salir a jugar sin saber hacia dónde ir, ni qué podía suceder. Explorar por el simple hecho de explorar.
+
+Con el paso del tiempo, muchos lo han considerado el mejor juego del catálogo de ColecoVision. En mi caso, ocupa el segundo lugar por una razón muy concreta: compartía cartucho con el que, para mí, es ligeramente superior.
+
+PUESTO NUMERO 1:
 --------------------------------------------------------------------------------------------------------------------
 [REFERENTE A EMILIO PERSONAL]
 
 Frase típica de comienzo de un video:
 "Que tal, muy buenas tardes, muy buenas noches, muchísimas gracias por estar acá, una vez más..."
+
+Frase típica al final de un video:
+"Y como siempre, gracias por estar ahí."
 
 Muletilla típica:
 "La realidad es que..."
@@ -137,6 +172,9 @@ cinco juegos que fijarían el rumbo de todo lo que vino después[usarlo al final
 
 idea para juegos de score:
 Era una competencia implícita, una especie de dominio personal sobre un sistema simple pero exigente. No había progresión en niveles como hoy la entendemos; lo que había era resistencia, reflejos y consistencia.
+
+conclusion:
+Por el Moctezuma's Revenge parecía ser lo que de alguna manera se gestaba como los juegos de aventura;
 
 --------------------------------------------------------------------------------------------------------------------
 [LINKS DE INTERES] (video o timestamp)
