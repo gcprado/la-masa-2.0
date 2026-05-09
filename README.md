@@ -12,7 +12,7 @@ Sistema de seguimiento del pipeline de documentación del proyecto LA MASA 2.0. 
 
 ## 🔵 EDICIÓN FINAL (T3)
 
-- [20240412 - TOP 5 DE MI VIDA, Parte 1: 2da Generación](https://www.youtube.com/watch?v=HEJUk9C1TnU): ~80%
+- [20240412 - TOP 5 DE MI VIDA, Parte 1: 2da Generación](https://www.youtube.com/watch?v=HEJUk9C1TnU): ~100% (revisión)
 
 ---
 

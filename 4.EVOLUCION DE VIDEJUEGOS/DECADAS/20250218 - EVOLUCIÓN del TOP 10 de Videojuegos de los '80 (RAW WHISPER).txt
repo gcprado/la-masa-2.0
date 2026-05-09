@@ -1,7 +1,7 @@
 Muy buenas tardes, muy buenas noches, bienvenidos una vez más a nuestros videos clásicos ya a esta altura de evolución de los videojuegos
 donde vamos viendo precisamente cómo ha sido el paso año a año en algo que es muy satisfactorio
 que es ver cómo mejoran los gráficos con el tiempo en este mundo de los videojuegos, ¿no es cierto?
-Así que vamos a tomar otra vez como referencia a quizás el canal número uno en este formato
+Así que vamos a tomar otra vez como referencia quizás el canal número uno en este formato
 que es Video Games Evolution para cual dejamos el link del canal ahí en la descripción
 que tienen millones de suscriptores y ni se entera que hacemos esto pero como lo permiten
 le agradecemos muchísimo a este muchacho que hace este trabajo y en este caso con su criterio
@@ -10,47 +10,87 @@ lo que son los 10 mejores juegos de cada año, este no es un criterio personal, 
 es simplemente una excusa sobre todo para los más jóvenes para poder ver cuáles fueron los juegos que más se destacaron
 los 10 por cada uno de la década del 80, luego habrá el video de la década del 90 y de los 2000 como corresponde
 pero lo cierto es que vamos arrancando y vamos a ir haciendo menciones arriba de cada uno de ellos
+[1980]
+[10.PHOENIX]
 así que el primero que aparece como décimo para este criterio es el Phoenix de Arcade
-como verán el Matamarcianos empieza a ser el dominante, no es cierto? Crazy Climber
-uno dice muy parecido a otro que también es de esa época, bueno la realidad es que este es previo
+como verán el Matamarcianos empieza a ser el dominante, no es cierto? 
+[9.CRAZY CLIMBER]
+Crazy Climber uno dice muy parecido a otro que también es de esa época, bueno la realidad es que este es previo
 de alguna manera según el criterio que puede tener algún error cronológico
-el video le aviso desde ahora porque lo tiene, 1980 el Wizard of War, todos estos juegos yo también era un niño
+el video le aviso desde ahora porque lo tiene, 
+[8.WIZARD OF WOR]
+1980 este Wizard of War, todos estos juegos yo también era un niño
 los recuerdo de haber visto y ya eran viejos para cuando yo iba a los arcades allá por el 85, 86, 87 y también era un niño
-todos estos son muy conocidos, eso es lo que se considera una aventura de texto, este Zork por ejemplo
+[7.BATTLEZONE]
+todos estos son muy conocidos, 
+[6.ZORK 1]
+eso es lo que se considera una aventura de texto, este Zork por ejemplo
 de texto, sin gráfico, no aventura gráfica, lo que va pasando es lo que va leyendo y tenés un manual que viene con el juego
-que te indica que palabras hay que poner este berserk, es una cuestión de supervivencia
-si se quieren de acá, yo jugaba mucho Adventure en Colecovision que era muy parecido a este berserk
-estos son los que se consideran los Roguelite, vieron cuando dicen Roguelite? es por este, por el Rog
-un juego que vuelves a hacer el formato que habías realizado anteriormente con alguna modificación Adventure
-ya bien específico como juego de rol de acción de consola en la década, en el año 80
-fíjense que el personaje cuadradito que es con la nevárvote y una espada
-Missile Command, ahí lo vamos a poner de vuelta porque la verdad que un poquito hay que ver el Adventure ahora cuando venga
-porque la verdad es que está peleando con un dragón que tiene una llave y él ve como una espada que es eso amarillo
-y ahí va el típico que dice agarra la espada o agarra la llave y trata de escapar
+que te indica que palabras hay que poner 
+[5.BERZERK]
+este berserk, es una cuestión de supervivencia
+si se quieren de acá, yo jugaba mucho a Venture en Colecovision que era muy parecido a este berzerk
+[4.ROGUE]
+estos son los que se consideran los Roguelike, vieron cuando dicen Roguelike? es por este, por el Rogue
+un juego que vuelves a hacer el formato que habías realizado anteriormente con alguna modificación 
+[3.ADVENTURE]
+Adventure ya bien específico como juego de rol de acción de consola en la década, en el año 80
+fíjense que el personaje cuadradito que es Conan El Barbaro tiene una espada
+[3.ADVENTURE]
+ahí lo vamos a poner de vuelta porque la verdad que un poquito hay que ver el Adventure ahora cuando venga
+porque la verdad es que está peleando contra un dragón que tiene una llave y él ve como una espada que es eso amarillo
+y ahí va el típito que dice o agarro la espada o agarro la llave y trata de escapar
 y se jugaba así en diferentes laberintos mucho antes de existencia de juegos como Legend of Zelda
-Missile Command por ejemplo muestra también un colorido propio de unos sistemas que no eran de hogareño, de arcade
+[2.MISSILE COMMAND] 
+Missile Command por ejemplo muestra también un colorido propio de unos sistemas que no eran de hogareño, eran de arcade
+[1.PAC-MAM]
 y acá obviamente el líder de los años 80 tiene alguna duda, este es el que conoce tu mamá, el Pacman
-o sea que está bien el criterio que emplea cuando no había una primación oficial todavía en los años 80 de ninguna manera
+o sea que está bien el criterio que emplea cuando no había una primación oficial todavía en la decada del 80 de ninguna manera
+[1981]
+[BOSCONIAN]
 Bosconian en la línea de lo que podía ser, Asteroids pero con mejores gráficos que son los que disparan para todas partes
-y acá son con una perspectiva que era novedosa entonces como la perspectiva isométrica ya con una capacidad de color
+[9.ZAXXON]
+Zaxxon con una perspectiva que era novedosa entonces como la perspectiva isométrica ya con una capacidad de color
 más propia como siempre de los arcades que eran la vanguardia de lo que eran los videojuegos entonces
-mucho más que la PC de Scramble, me pareció que ellos jugaban sumamente el cosmic abyss y el enicoleco
+mucho más que la PC 
+[8.SCRAMBLE]
+Scramble, muy parecido al que yo jugaba en su momento, el Cosmic Avenger en el Coleco
 que tiene la particularidad de disparar hacia adelante y tirar bombas hacia abajo, no es cierto?
-esa es la característica de este juego del año 81, Castle World Festain para muchos el papá del Metal Gear
-no solo los World Festain de primera persona, el primer World Festain de verdad para el Apple II
-la realidad es que este Tempes también de arcade, estas imágenes se pueden imaginar que eran impactantes para la época
-casi casi se podría conseguir a una realidad virtual, no es cierto?
-por la cuestión de la profundidad de los vectores que aprovecha el Defender, su característica es que dispara para ambos lados
-hacia un lado y hacia el otro y eso modificando también el scroll para donde se tiene y arriba hay un mapita que indica donde estás
-ese típede también con condiciones propias de una mezcla entre shooter y la bivorita
-también famoso juego, juego de la época, el Frogger ni hablar, no es cierto?
+esa es la característica de este juego del año 81, 
+[7.CASTLE WOLFENSTEIN]
+Castle Wolfenstein para muchos el papá del Metal Gear
+no solo los Wolfenstein de primera persona, el primer Wolfenstein de verdad para el Apple II
+[6.TEMPEST]
+la realidad es que este Tempest también de arcade, estas imágenes se pueden imaginar que eran impactantes para la época
+casi casi se podría considerar una realidad virtual, no es cierto?
+por la cuestión de la profundidad de los vectores que aprovecha 
+[5.DEFENDER]
+el Defender, su característica es que dispara para ambos lados
+hacia un lado y hacia el otro y eso va modificando también el scroll para donde se tiene y arriba hay un mapita que indica donde estás
+[4.CENTIPEDE]
+El centipede también con condiciones propias de una mezcla entre shooter y la viborita no?
+también famoso juego, juego de la época, 
+[3.FROGGER]
+el Frogger ni hablar, no es cierto?
 es su versión capaz más conocida en las versiones hogareñas de Atari o hasta Super Nintendo llegó a salir
 pero este es un histórico juego y no es el creador del concepto
-el Gálaga también la gente lo recuerda más que nada, es su versión para family game pero siguen dominando
-para estos juegos de matamarcianos con pequeñas modificaciones, este tiene zoom pero el día del 81 es este
-fíjense que son todas navecitas o cuadraditos y esto es una persona con un martillo que tiene que ir a escatar una rubia
+[2.GALAGA]
+el Gálaga también la gente lo recuerda más que nada, es su versiónes para family game pero siguen dominando
+para estos juegos de matamarcianos con pequeñas modificaciones, este tiene zoom 
+[1.DONKEY KONG]
+pero el [ININTELIGIBLE] del 81 es este
+fíjense que son todas navecitas o cuadraditos y esto es una persona con un martillo que tiene que ir a rescatar una rubia
 con un mono que le tira barriles, o sea se empieza a entender el concepto de aventura y la personificación mucho más clara
-a partir de la salida de Mario que todavía se llamaba Mario Tron, es una película del año 82 también
+a partir de la salida de Mario que todavía no se llamaba Mario 
+[1982]
+[10.TRON]
+
+
+
+
+
+
+Tron, es una película del año 82 también
 que era muy futurista entonces, QBert, obviamente como juego de plataformas específico que sigue siendo un sistema
 que prácticamente existe hasta estos días donde se va haciendo más pequeño la plataforma donde tenemos que ir saltando, no es cierto?
 Microsoft Flight Simulator en este no es el primero, por eso estamos estando en la antigüedad de Microsoft

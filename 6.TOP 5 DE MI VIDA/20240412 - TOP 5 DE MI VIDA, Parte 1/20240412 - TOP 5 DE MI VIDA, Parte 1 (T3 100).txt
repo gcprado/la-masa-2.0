@@ -7,7 +7,7 @@ BACKUP: 720p60@1842kbps H.264 - 177.7MB (.mp4)
 DOCUMENTACIÓN:
 FECHA: 2026-04-26 | ESTADO: T1 (TRANSCRIPCIÓN BRUTA) - 11m:57s ~ 100%
 FECHA: 2026-04-26 | ESTADO: T2 (TRANSCRIPCIÓN ORDENADA) - OK
-FECHA: 2026-05-02 | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL) ~ 80%
+FECHA: 2026-05-02 | ESTADO: T3 (REVISIÓN / EDICIÓN FINAL) ~ 100% (revision)
 
 TIMESTAMPS DE INTERÉS: 
  - Ninguno
@@ -17,37 +17,7 @@ NOTAS:
 
 --------------------------------------------------------------------------------------------------------------------
 
-El puesto número uno de este Top 5 corresponde a un juego de 1984, prácticamente del la última etapa de juegos del Coleco, y que ya mostraba un salto técnico evidente incluso frente a versiones en otros sistemas como Commodore 64 o Atari 2600.
-
-Se trata de H.E.R.O. (Helicopter Emergency Rescue Operation), también conocido como Helicoptero de Rescate acá en la Argentina. Era un en el que controlábamos a un personaje con camiseta azul, casco, y una mochila de helice que le permitía volar brevemente. A esto se sumaban dos mecánicas clave: un rayo láser y la colocación de explosivos, que obligaban al jugador a tomar distancia para no eliminarse a sí mismo.
-
-El objetivo era avanzar y descender a través de cavernas, abrirse paso entre obstáculos, y rescatar personas atrapadas en un entorno que remitía claramente a esa estética de cosmico-espacial con ciencia ficción que dominaba la época —muy en la línea de lo que había instalado Alien en el imaginario colectivo.
-
-Pero lo importante no era solo su ambientación ni sus herramientas, sino su estructura.
-
-Si lo comparamos con otros juegos de este mismo Top, como Donkey Kong que se limitaban a repetir tres niveles, o el Pitufo que era solo un nivel largo, simplemente giraban en torno al score como el Cosmic Avenger, H.E.R.O. proponía una progresión real con niveles diferenciados, cada uno con difentes ambientaciones, dificultad creciente, sensación de avance. Llegué a ver niveles cercanos al 20, yo mismo lograba avanzar hasta el nivel 15, 16 de ese tal H.E.R.O..
-
-Si Moctezuma’s Revenge insinuaba la exploración, H.E.R.O. consolidaba una idea más clara: la combinación entre acción y descubrimiento. Todavía no podemos hablar de rol, ni de sistemas complejos, pero sí de una tendencia. Una forma de jugar que exigía algo más que reflejos: exigía entender, anticipar, resolver.
-
-Y ahí es donde ambos juegos —el segundo y el primero— marcan una dirección que va a continuar en los siguientes años: un tipo de experiencia más pausada, más reflexiva, más cercana al goce intelectual que a la pura reacción inmediata.
-
-[09:05]
-
-Antes también, antes también de la existencia de Metroid, 
-
-lo importante es que el Hero sí tenía un sistema de niveles, pero comparado con los tres niveles que tienen juegos de este mismo top como Donkey Kong o el Pitufo, que era un nivel largo que llegaba siempre al mismo final,
-
-un juego que mostraba lo que iba a ser el futuro en cuanto a juegos de acción de investigación. Capaz sin hablar todavía de rol, pero entre estos dos, el Hero y el Moctezuma Revenge claramente iba a una tendencia que iba a marcar un juego con un goce más intelectual que lo que me iba a identificar. 
-
-Un Donkey Kong que sería para el top de cualquiera un juego obviamente elegido y justo de nominar que también marcaría una relación para con Nintendo. 
-
-Un Cosmic Avenger que es algo más bien personal, como les digo ubica a los juegos de acción, pero es muy difícil que en un top 5 de esta época cualquiera tenga fuera a un juego de matamarcianos. 
-
-Y un Pitufo que entiendo que si bien explicando las circunstancias personales de que yo era un niño entonces por estas mismas características está en el top 5 de más de uno.
-
-[11:10]
-
-Le pido por favor que banquen este nuevo formato porque vamos a estar hablando ahora, a partir de 1993, lo que ocurra con la siguiente consola; y si usted ha tenido el Atari o el Coleco, sobre todo el Colecovision en relación a esto, y le pido si todavía la presbicia no lo ha atacado que pueda hacer los comentarios propios de una persona con experiencia como lo soy yo, y como lo es usted, para explicar un poco lo que fue esta etapa de videojuegos mientras nos preparamos para la verdadera revolución que significa ahora sí la llegada del Super Mario Bros. y toda la banda de grandes juegos, como usted también conoce, es lo que será el top 5 del Family Game que veremos en el siguiente capítulo de los top 5 de mi vida acá en Tiempo de Videojuegos. No olviden likear, suscribirse y comentarles a alguien más que Tiempo de Videojuegos también lo hacemos entre todos; muchísimas gracias.
+[00:00]
 
 [FIN]
 
@@ -65,6 +35,7 @@ uno puede identificar que aproximadamente cada 5 o 6 años los ciclos de las con
 Consolas mencionadas:
 - ColecoVision
 - Atari
+- Family Game
 
 Videojuegos mencionados:
 - Space Invaders (1978)
@@ -75,12 +46,15 @@ Videojuegos mencionados:
 - Rocky (1982)
 - Keystone Kapers (1983)
 - Cosmic Avenger (1983)
+- Moctezuma's Revenge (1983)
+- H.E.R.O. (1984)
 - Super Mario Bros. (1985)
 
 --------------------------------------------------------------------------------------------------------------------
 [REFERENTE A PUNTAJES]
 
 - La mayoria de juegos de coleco no llega ni a 50 puntos: https://youtu.be/HEJUk9C1TnU?si=yIdikfhXgNzHW5eo&t=433
+
 --------------------------------------------------------------------------------------------------------------------
 [REFERENTE A EMILIO JUEGOS]
 
@@ -150,6 +124,27 @@ Una aventura en el sentido más literal. Salir a jugar sin saber hacia dónde ir
 Con el paso del tiempo, muchos lo han considerado el mejor juego del catálogo de ColecoVision. En mi caso, ocupa el segundo lugar por una razón muy concreta: compartía cartucho con el que, para mí, es ligeramente superior.
 
 PUESTO NUMERO 1:
+El puesto número uno de este Top 5 corresponde a un juego de 1984, prácticamente del la última etapa de juegos del Coleco, y que ya mostraba un salto técnico evidente incluso frente a versiones en otros sistemas como Commodore 64 o Atari 2600.
+
+Se trata de H.E.R.O. (Helicopter Emergency Rescue Operation), también conocido como Helicoptero de Rescate acá en la Argentina. Era un en el que controlábamos a un personaje con camiseta azul, casco, y una mochila de helice que le permitía volar brevemente. A esto se sumaban dos mecánicas clave: un rayo láser y la colocación de explosivos, que obligaban al jugador a tomar distancia para no eliminarse a sí mismo.
+
+El objetivo era avanzar y descender a través de cavernas, abrirse paso entre obstáculos, y rescatar personas atrapadas en un entorno que remitía claramente a esa estética de cosmico-espacial con ciencia ficción que dominaba la época, muy en la línea de lo que había instalado Alien en el imaginario colectivo. 
+
+Pero lo importante no era solo su ambientación ni sus herramientas, sino su estructura.
+
+Si lo comparamos con otros juegos de este mismo Top, como Donkey Kong que se limitaban a repetir tres niveles, o el Pitufo que era solo un nivel largo, o los que simplemente giraban en torno al score como el Cosmic Avenger, H.E.R.O. proponía una progresión real con niveles diferenciados, cada uno con difentes ambientaciones, dificultad creciente, sensación de avance. Llegué a ver niveles cercanos al 20, yo mismo lograba avanzar hasta el nivel 15, 16 de ese tal H.E.R.O..
+
+Al mirar este Top 5 en conjunto, lo que aparece no es solo una lista de juegos, sino un mapa bastante claro de lo que sería mi relación con el videojuego en adelante.
+
+H.E.R.O. mostraba lo que iba a ser el futuro en cuanto a juegos de acción e investigación, incluso antes a la existencia de Metroid. Capaz sin hablar todavía de rol, pero entre estos dos, el H.E.R.O. junto con Moctezuma's Revenge claramente iba a una tendencia que iba a marcar un juego con un goce más intelectual con el que me iba a identificar.
+
+Donkey Kong como referencia inevitable y como primer vínculo con lo que luego sería Nintendo.
+
+Cosmic Avenger como una marca más personal, ligada a la acción, aunque tambien seria dificl difícil justificar que en un top 5 de época no tenga ningun juego de matamarcianos.
+
+Y los Pitufos, explicado desde ese lugar inicial de identificación con lo que uno veía fuera del juego.
+
+Esto fue la segunda generación. Un momento todavía primitivo, irregular, limitado en muchos aspectos. Pero también el punto de partida. A partir de 1993, con la llegada de la siguiente consola, entramos en lo que ya puede considerarse una verdadera revolución del videojuego. La aparición de Super Mario Bros. y toda una camada de títulos que redefinen por completo el medio.
 --------------------------------------------------------------------------------------------------------------------
 [REFERENTE A EMILIO PERSONAL]
 
@@ -177,7 +172,6 @@ conclusion:
 Por el Moctezuma's Revenge parecía ser lo que de alguna manera se gestaba como los juegos de aventura;
 
 --------------------------------------------------------------------------------------------------------------------
-[LINKS DE INTERES] (video o timestamp)
 
 
 
